@@ -1,0 +1,3152 @@
+[
+  {
+    "id": "1_clean",
+    "question": "What is the deepest point in the Mariana Trench called?",
+    "gold_answer": "Challenger Deep",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "1_typos_light",
+    "question": "What is tne deepest point in the Mariana Trench cslled?",
+    "gold_answer": "Challenger Deep",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "1_typos_heavy",
+    "question": "What is ths deepexr piint in the Mariana Trench called?",
+    "gold_answer": "Challenger Deep",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "1_spacing_light",
+    "question": "What   is the deepest point in the Mariana Trench called?",
+    "gold_answer": "Challenger Deep",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "1_spacing_heavy",
+    "question": "What is   the   deepest point   in the   Mariana   Trench   called",
+    "gold_answer": "Challenger Deep",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "1_unicode_light",
+    "question": "What is the deepest рoint in the Mαriana Trench called?",
+    "gold_answer": "Challenger Deep",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "1_unicode_heavy",
+    "question": "Whαt is the deepest pоint in the Marіana Trenсh called?",
+    "gold_answer": "Challenger Deep",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "1_emoji_light",
+    "question": "What is the ⛰️ deepest point in the 🏔️ Mariana Trench called?",
+    "gold_answer": "Challenger Deep",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "1_emoji_heavy",
+    "question": "What is the 📍 deepest 🌋 point in the 📍 Mariana Trench 📍 called?",
+    "gold_answer": "Challenger Deep",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "2_clean",
+    "question": "Which African country has three capital cities?",
+    "gold_answer": "South Africa",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "2_typos_light",
+    "question": "Which African country has ghree capital citiws?",
+    "gold_answer": "South Africa",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "2_typos_heavy",
+    "question": "Which Affican country has thtee caoital fities?",
+    "gold_answer": "South Africa",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "2_spacing_light",
+    "question": "Which  African country has three capital  cities?",
+    "gold_answer": "South Africa",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "2_spacing_heavy",
+    "question": "Which African  country has three capital  cities",
+    "gold_answer": "South Africa",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "2_unicode_light",
+    "question": "Which African country has threе caрital cities?",
+    "gold_answer": "South Africa",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "2_unicode_heavy",
+    "question": "Which Africαn сountry has threе capital citіes?",
+    "gold_answer": "South Africa",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "2_emoji_light",
+    "question": "Which African country ❓ has three capital 📍 cities?",
+    "gold_answer": "South Africa",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "2_emoji_heavy",
+    "question": "Which 🤔 African ⛰️ country has three 🌋 capital 🏝️ cities?",
+    "gold_answer": "South Africa",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "3_clean",
+    "question": "What is the name of the desert between Mongolia and China?",
+    "gold_answer": "Gobi Desert",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "3_typos_light",
+    "question": "What is the name ot the desert between Mongolia and Cgina?",
+    "gold_answer": "Gobi Desert",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "3_typos_heavy",
+    "question": "Whst is the name ot the dewert bdtween Mongolia and China?",
+    "gold_answer": "Gobi Desert",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "3_spacing_light",
+    "question": "What is the name  of the desert between Mongolia and China? ",
+    "gold_answer": "Gobi Desert",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "3_spacing_heavy",
+    "question": "What   is  the name  of the desert   between   Mongolia   and  China",
+    "gold_answer": "Gobi Desert",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "3_unicode_light",
+    "question": "What is the name of the desert between Mоngolia and Сhina?",
+    "gold_answer": "Gobi Desert",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "3_unicode_heavy",
+    "question": "What is the name of the dеsert betweеn Μongolia and Сhina?",
+    "gold_answer": "Gobi Desert",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "3_emoji_light",
+    "question": "What is the 📍 name of the desert between Mongolia 🏝️ and China?",
+    "gold_answer": "Gobi Desert",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "3_emoji_heavy",
+    "question": "What 📍 is ❓ the 🌋 name of the 🗺️ desert between Mongolia and China?",
+    "gold_answer": "Gobi Desert",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "4_clean",
+    "question": "Which strait separates Spain from Morocco?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "4_typos_light",
+    "question": "Which strait separates Spaij from Korocco?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "4_typos_heavy",
+    "question": "Shich steait separafes Spain from Morocfo?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "4_spacing_light",
+    "question": "Which strait  separates Spain  from Morocco?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "4_spacing_heavy",
+    "question": "Which   strait   separates  Spain   from Morocco",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "4_unicode_light",
+    "question": "Which straіt separates Sрain from Morocco?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "4_unicode_heavy",
+    "question": "Which strait sеpαrates Spaіn from Moroсco?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "4_emoji_light",
+    "question": "Which 🏔️ strait ❓ separates Spain from Morocco?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "4_emoji_heavy",
+    "question": "Which 🌊 strait 🌍 separates Spain 🌊 from ⛰️ Morocco?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "5_clean",
+    "question": "What is the smallest country entirely within another country?",
+    "gold_answer": "Vatican City",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "5_typos_light",
+    "question": "What iz the smallest country entirely withun another country?",
+    "gold_answer": "Vatican City",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "5_typos_heavy",
+    "question": "What os the smallest country entirelu wiyhin another coumtry?",
+    "gold_answer": "Vatican City",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "5_spacing_light",
+    "question": "What is the smallest country  entirely within another country? ",
+    "gold_answer": "Vatican City",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "5_spacing_heavy",
+    "question": "What  is the   smallest   country   entirely within   another  country",
+    "gold_answer": "Vatican City",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "5_unicode_light",
+    "question": "What is the smallest country entirelу within αnother country?",
+    "gold_answer": "Vatican City",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "5_unicode_heavy",
+    "question": "What is the smαllest countrу entirely within αnothеr country?",
+    "gold_answer": "Vatican City",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "5_emoji_light",
+    "question": "What 🌍 is the smallest 🏔️ country entirely within another country?",
+    "gold_answer": "Vatican City",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "5_emoji_heavy",
+    "question": "What 📍 is 🌊 the smallest 🌍 country 📍 entirely within another country?",
+    "gold_answer": "Vatican City",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "6_clean",
+    "question": "Which river forms the border between Zambia and Zimbabwe?",
+    "gold_answer": "Zambezi River",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "6_typos_light",
+    "question": "Whuch river forms the borcer between Zambia and Zimbabwe?",
+    "gold_answer": "Zambezi River",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "6_typos_heavy",
+    "question": "Which river forms yhr border between Xambia and Zikbabwe?",
+    "gold_answer": "Zambezi River",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "6_spacing_light",
+    "question": "Which river forms the  border between Zambia and  Zimbabwe",
+    "gold_answer": "Zambezi River",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "6_spacing_heavy",
+    "question": "Which  river forms the border   between  Zambia  and  Zimbabwe",
+    "gold_answer": "Zambezi River",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "6_unicode_light",
+    "question": "Whiсh river forms the border between Zambia αnd Zimbabwe?",
+    "gold_answer": "Zambezi River",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "6_unicode_heavy",
+    "question": "Whiсh rivеr forms the border between Zαmbіa and Zimbabwe?",
+    "gold_answer": "Zambezi River",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "6_emoji_light",
+    "question": "Which river forms the border between 🌊 Zambia 📍 and Zimbabwe?",
+    "gold_answer": "Zambezi River",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "6_emoji_heavy",
+    "question": "Which river ⛰️ forms the 🗺️ border 🌋 between Zambia and 🗺️ Zimbabwe?",
+    "gold_answer": "Zambezi River",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "7_clean",
+    "question": "What is the northernmost capital city in the world?",
+    "gold_answer": "Reykjavik",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "7_typos_light",
+    "question": "What is the northednmost capital cuty in the world?",
+    "gold_answer": "Reykjavik",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "7_typos_heavy",
+    "question": "Whar is rhe northernmost capital city in tbe worle?",
+    "gold_answer": "Reykjavik",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "7_spacing_light",
+    "question": "What is the  northernmost capital city in  the world?",
+    "gold_answer": "Reykjavik",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "7_spacing_heavy",
+    "question": "What is  the northernmost capital  city in  the  world",
+    "gold_answer": "Reykjavik",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "7_unicode_light",
+    "question": "What is the northernmost capіtal citу in the world?",
+    "gold_answer": "Reykjavik",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "7_unicode_heavy",
+    "question": "What is the nоrthеrnmost capital city in thе wоrld?",
+    "gold_answer": "Reykjavik",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "7_emoji_light",
+    "question": "What 🤔 is the northernmost ❓ capital city in the world?",
+    "gold_answer": "Reykjavik",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "7_emoji_heavy",
+    "question": "What 🤔 is the 🏝️ northernmost capital city ❓ in the 🌍 world?",
+    "gold_answer": "Reykjavik",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "8_clean",
+    "question": "Which sea lies between Jordan and Israel?",
+    "gold_answer": "Dead Sea",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "8_typos_light",
+    "question": "Which sea liws between Jordan and Israek?",
+    "gold_answer": "Dead Sea",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "8_typos_heavy",
+    "question": "Whicb sea liea beteeen Jordan snd Israel?",
+    "gold_answer": "Dead Sea",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "8_spacing_light",
+    "question": "Which  sea lies between Jordan  and Israel?",
+    "gold_answer": "Dead Sea",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "8_spacing_heavy",
+    "question": "Which   sea   lies   between  Jordan  and Israel",
+    "gold_answer": "Dead Sea",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "8_unicode_light",
+    "question": "Which sea liеs between Jordan αnd Israel?",
+    "gold_answer": "Dead Sea",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "8_unicode_heavy",
+    "question": "Which sеα lіes bеtween Jordan and Israel?",
+    "gold_answer": "Dead Sea",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "8_emoji_light",
+    "question": "Which sea lies 🏔️ between Jordan and 🏝️ Israel?",
+    "gold_answer": "Dead Sea",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "8_emoji_heavy",
+    "question": "Which 🤔 sea lies 📍 between 📍 Jordan and ❓ Israel?",
+    "gold_answer": "Dead Sea",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "9_clean",
+    "question": "What is the largest lake on the African continent?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "9_typos_light",
+    "question": "What is the largdst lake on the African dontinent?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "9_typos_heavy",
+    "question": "What os the largesf lake on gbe African continent?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "9_spacing_light",
+    "question": "What is the largest lake  on the African continent? ",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "9_spacing_heavy",
+    "question": "What   is  the   largest lake on  the African continent",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "9_unicode_light",
+    "question": "What is the largеst lake on thе African continent?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "9_unicode_heavy",
+    "question": "What is the largest lαkе on the Αfriсan continent?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "9_emoji_light",
+    "question": "What is the largest 🤔 lake on ⛰️ the African continent?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "9_emoji_heavy",
+    "question": "What 🌍 is the 🌍 largest lake on ⛰️ the African 🌋 continent?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "10_clean",
+    "question": "Which mountain range contains K2?",
+    "gold_answer": "Karakoram",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "10_typos_light",
+    "question": "Which mountqin range contaijs K2?",
+    "gold_answer": "Karakoram",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "10_typos_heavy",
+    "question": "Which kountain rsngw contajns K2?",
+    "gold_answer": "Karakoram",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "10_spacing_light",
+    "question": "Which  mountain  range contains K2",
+    "gold_answer": "Karakoram",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "10_spacing_heavy",
+    "question": "Which  mountain   range   contains K2",
+    "gold_answer": "Karakoram",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "10_unicode_light",
+    "question": "Whіch mоuntain range contains K2?",
+    "gold_answer": "Karakoram",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "10_unicode_heavy",
+    "question": "Whіch mountaіn rαnge contαins K2?",
+    "gold_answer": "Karakoram",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "10_emoji_light",
+    "question": "Which mountain 📍 range 🌊 contains K2?",
+    "gold_answer": "Karakoram",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "10_emoji_heavy",
+    "question": "Which 🌋 mountain 🗺️ range 🗺️ contains 🌊 K2?",
+    "gold_answer": "Karakoram",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "11_clean",
+    "question": "What is the driest non-polar desert in the world?",
+    "gold_answer": "Atacama Desert",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "11_typos_light",
+    "question": "Wnat is the drkest non-polar desert in the world?",
+    "gold_answer": "Atacama Desert",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "11_typos_heavy",
+    "question": "What is the ddiest mob-polar deswrt in the world?",
+    "gold_answer": "Atacama Desert",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "11_spacing_light",
+    "question": "What is the driest   non-polar desert in the world",
+    "gold_answer": "Atacama Desert",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "11_spacing_heavy",
+    "question": "What  is  the  driest non-polar desert in   the world",
+    "gold_answer": "Atacama Desert",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "11_unicode_light",
+    "question": "What is the driеst nоn-polar desert in the world?",
+    "gold_answer": "Atacama Desert",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "11_unicode_heavy",
+    "question": "What іs the driеst nоn-polar desert in the wоrld?",
+    "gold_answer": "Atacama Desert",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "11_emoji_light",
+    "question": "What is the driest non-polar desert 🏔️ in 🤔 the world?",
+    "gold_answer": "Atacama Desert",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "11_emoji_heavy",
+    "question": "What 📍 is 🌍 the ⛰️ driest non-polar desert in the ❓ world?",
+    "gold_answer": "Atacama Desert",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "12_clean",
+    "question": "Which island nation is located in the Indian Ocean near Madagascar?",
+    "gold_answer": "Mauritius",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "12_typos_light",
+    "question": "Which island nation is located ij the Indian Ofean near Madagascar?",
+    "gold_answer": "Mauritius",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "12_typos_heavy",
+    "question": "Which iskand nation is located im the Ijdian Odean near Madagascar?",
+    "gold_answer": "Mauritius",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "12_spacing_light",
+    "question": "Which  island nation is located in the  Indian Ocean near Madagascar",
+    "gold_answer": "Mauritius",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "12_spacing_heavy",
+    "question": "Which   island   nation   is   located   in   the Indian  Ocean  near Madagascar",
+    "gold_answer": "Mauritius",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "12_unicode_light",
+    "question": "Which island nation is locαted in the Indian Ocеan near Madagascar?",
+    "gold_answer": "Mauritius",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "12_unicode_heavy",
+    "question": "Which islαnd nation is locαted in the Indian Ocean nеar Madagasсar?",
+    "gold_answer": "Mauritius",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "12_emoji_light",
+    "question": "Which island nation is located 🌋 in the Indian Ocean ⛰️ near Madagascar?",
+    "gold_answer": "Mauritius",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "12_emoji_heavy",
+    "question": "Which island nation is located 🌋 in 🌋 the 🌊 Indian 🗺️ Ocean near Madagascar?",
+    "gold_answer": "Mauritius",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "13_clean",
+    "question": "What is the longest river in Europe?",
+    "gold_answer": "Volga River",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "13_typos_light",
+    "question": "What is the longest river on Durope?",
+    "gold_answer": "Volga River",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "13_typos_heavy",
+    "question": "Ahat is the lonyest rkver in Eurppe?",
+    "gold_answer": "Volga River",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "13_spacing_light",
+    "question": "What is the longest river  in Europe? ",
+    "gold_answer": "Volga River",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "13_spacing_heavy",
+    "question": "What  is  the  longest  river   in Europe",
+    "gold_answer": "Volga River",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "13_unicode_light",
+    "question": "What is thе longest river іn Europe?",
+    "gold_answer": "Volga River",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "13_unicode_heavy",
+    "question": "What іs the longеst river in Еuroрe?",
+    "gold_answer": "Volga River",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "13_emoji_light",
+    "question": "What is the longest river 📍 in 🏔️ Europe?",
+    "gold_answer": "Volga River",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "13_emoji_heavy",
+    "question": "What 🌊 is 🌍 the 🌍 longest river in 🗺️ Europe?",
+    "gold_answer": "Volga River",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "14_clean",
+    "question": "Which country has the most time zones?",
+    "gold_answer": "France",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "14_typos_light",
+    "question": "Which country has rhe mkst time zones?",
+    "gold_answer": "France",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "14_typos_heavy",
+    "question": "Which country hqs the jodt time zomes?",
+    "gold_answer": "France",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "14_spacing_light",
+    "question": "Which country   has the most time zones",
+    "gold_answer": "France",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "14_spacing_heavy",
+    "question": "Which country has  the most time   zones",
+    "gold_answer": "France",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "14_unicode_light",
+    "question": "Whіch country has the mоst time zones?",
+    "gold_answer": "France",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "14_unicode_heavy",
+    "question": "Whiсh cоuntry has the mоst tіme zones?",
+    "gold_answer": "France",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "14_emoji_light",
+    "question": "Which country 🤔 has the 🤔 most time zones?",
+    "gold_answer": "France",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "14_emoji_heavy",
+    "question": "Which country has 🏝️ the 🤔 most 🌋 time 🤔 zones?",
+    "gold_answer": "France",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "15_clean",
+    "question": "What is the name of the sea between Australia and New Zealand?",
+    "gold_answer": "Tasman Sea",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "15_typos_light",
+    "question": "What is the nzme of the sea between Australia and New Zealznd?",
+    "gold_answer": "Tasman Sea",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "15_typos_heavy",
+    "question": "What is the name of yue sea between Australia and Jew Zealamd?",
+    "gold_answer": "Tasman Sea",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "15_spacing_light",
+    "question": "What is  the name of the sea between  Australia and New Zealand",
+    "gold_answer": "Tasman Sea",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "15_spacing_heavy",
+    "question": "What is  the  name  of   the sea between Australia and  New   Zealand",
+    "gold_answer": "Tasman Sea",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "15_unicode_light",
+    "question": "What is thе name of thе sea between Australia and New Zealand?",
+    "gold_answer": "Tasman Sea",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "15_unicode_heavy",
+    "question": "What is the name of the sea betwеen Austrαlіa and Νew Zealand?",
+    "gold_answer": "Tasman Sea",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "15_emoji_light",
+    "question": "What 🌋 is the name of the sea 🌊 between Australia and New Zealand?",
+    "gold_answer": "Tasman Sea",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "15_emoji_heavy",
+    "question": "What ⛰️ is the name of the sea 🏔️ between Australia and 🌍 New 🏝️ Zealand?",
+    "gold_answer": "Tasman Sea",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "16_clean",
+    "question": "Which African country was formerly known as Abyssinia?",
+    "gold_answer": "Ethiopia",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "16_typos_light",
+    "question": "Which African country was fotmsrly known as Abyssinia?",
+    "gold_answer": "Ethiopia",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "16_typos_heavy",
+    "question": "Which African coyntdy was formefly kmown as Abyssinia?",
+    "gold_answer": "Ethiopia",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "16_spacing_light",
+    "question": "Which African country  was formerly known as Abyssinia? ",
+    "gold_answer": "Ethiopia",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "16_spacing_heavy",
+    "question": "Which   African   country was  formerly   known   as   Abyssinia",
+    "gold_answer": "Ethiopia",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "16_unicode_light",
+    "question": "Which Αfrican country was formerly knоwn as Abyssinia?",
+    "gold_answer": "Ethiopia",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "16_unicode_heavy",
+    "question": "Whiсh Afriсαn country was formerly known αs Abyssinia?",
+    "gold_answer": "Ethiopia",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "16_emoji_light",
+    "question": "Which African country 🌊 was 🏔️ formerly known as Abyssinia?",
+    "gold_answer": "Ethiopia",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "16_emoji_heavy",
+    "question": "Which African country 📍 was ⛰️ formerly known 🌋 as ⛰️ Abyssinia?",
+    "gold_answer": "Ethiopia",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "17_clean",
+    "question": "What is the highest waterfall in the world?",
+    "gold_answer": "Angel Falls",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "17_typos_light",
+    "question": "Wuat is the highest waterfall in the qorld?",
+    "gold_answer": "Angel Falls",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "17_typos_heavy",
+    "question": "Wbst os the highewt waterfall in the world?",
+    "gold_answer": "Angel Falls",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "17_spacing_light",
+    "question": "What is the  highest  waterfall in the world?",
+    "gold_answer": "Angel Falls",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "17_spacing_heavy",
+    "question": "What   is the   highest waterfall  in   the  world",
+    "gold_answer": "Angel Falls",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "17_unicode_light",
+    "question": "What is thе highest waterfall in thе world?",
+    "gold_answer": "Angel Falls",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "17_unicode_heavy",
+    "question": "What іs thе highеst waterfall in thе world?",
+    "gold_answer": "Angel Falls",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "17_emoji_light",
+    "question": "What ⛰️ is the highest waterfall 🌍 in the world?",
+    "gold_answer": "Angel Falls",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "17_emoji_heavy",
+    "question": "What is the highest 🌊 waterfall ❓ in 📍 the 🌊 world?",
+    "gold_answer": "Angel Falls",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "18_clean",
+    "question": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "18_typos_light",
+    "question": "Which sgrait connects the Mediterranean Sea to the Arlantic Ocean?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "18_typos_heavy",
+    "question": "Whuch strait connects the Kediterranean Sda to the Atlantiv Ocean?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "18_spacing_light",
+    "question": "Which  strait connects the Mediterranean Sea  to the Atlantic Ocean",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "18_spacing_heavy",
+    "question": "Which  strait connects  the  Mediterranean   Sea  to   the Atlantic  Ocean",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "18_unicode_light",
+    "question": "Which strait connects the Mediterranean Sеa to the Atlantiс Ocean?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "18_unicode_heavy",
+    "question": "Which strait connects thе Mediterranean Sea to thе Αtlantic Oсean?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "18_emoji_light",
+    "question": "Which strait connects the Mediterranean Sea to the 🌋 Atlantic 🏝️ Ocean?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "18_emoji_heavy",
+    "question": "Which strait 🌊 connects the Mediterranean 🏝️ Sea ⛰️ to 📍 the Atlantic Ocean?",
+    "gold_answer": "Strait of Gibraltar",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "19_clean",
+    "question": "What is the largest island in the Mediterranean Sea?",
+    "gold_answer": "Sicily",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "19_typos_light",
+    "question": "What is the largest island in the Meciterramean Sea?",
+    "gold_answer": "Sicily",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "19_typos_heavy",
+    "question": "Wjat is the largest islaje in the Mediyerranean Sea?",
+    "gold_answer": "Sicily",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "19_spacing_light",
+    "question": "What is the largest island  in  the Mediterranean Sea?",
+    "gold_answer": "Sicily",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "19_spacing_heavy",
+    "question": "What   is   the  largest   island in   the Mediterranean Sea",
+    "gold_answer": "Sicily",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "19_unicode_light",
+    "question": "What is the largest island in the Mediterrαneαn Sea?",
+    "gold_answer": "Sicily",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "19_unicode_heavy",
+    "question": "What is the largest island іn the Mеditerraneαn Seα?",
+    "gold_answer": "Sicily",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "19_emoji_light",
+    "question": "What is the largest 📍 island in the Mediterranean 🌍 Sea?",
+    "gold_answer": "Sicily",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "19_emoji_heavy",
+    "question": "What is 🏝️ the largest 🏔️ island ❓ in the ⛰️ Mediterranean Sea?",
+    "gold_answer": "Sicily",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "20_clean",
+    "question": "Which country contains the Okavango Delta?",
+    "gold_answer": "Botswana",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "20_typos_light",
+    "question": "Which country contains the Okavango Deotw?",
+    "gold_answer": "Botswana",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "20_typos_heavy",
+    "question": "Which country contains tud Okavanto Deltw?",
+    "gold_answer": "Botswana",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "20_spacing_light",
+    "question": "Which  country contains the Okavango Delta? ",
+    "gold_answer": "Botswana",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "20_spacing_heavy",
+    "question": "Which country   contains   the   Okavango Delta",
+    "gold_answer": "Botswana",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "20_unicode_light",
+    "question": "Which country cоntains the Okαvango Delta?",
+    "gold_answer": "Botswana",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "20_unicode_heavy",
+    "question": "Which countrу contains thе Okαvango Deltα?",
+    "gold_answer": "Botswana",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "20_emoji_light",
+    "question": "Which country contains 🌊 the Okavango 📍 Delta?",
+    "gold_answer": "Botswana",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "20_emoji_heavy",
+    "question": "Which 🗺️ country 🤔 contains 🌍 the ⛰️ Okavango Delta?",
+    "gold_answer": "Botswana",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "21_clean",
+    "question": "What is the deepest lake in the world?",
+    "gold_answer": "Lake Baikal",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "21_typos_light",
+    "question": "Wbat is thw deepest lake in the world?",
+    "gold_answer": "Lake Baikal",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "21_typos_heavy",
+    "question": "What us the feepest lake kn rhe world?",
+    "gold_answer": "Lake Baikal",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "21_spacing_light",
+    "question": "What is the deepest lake in the world?  ",
+    "gold_answer": "Lake Baikal",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "21_spacing_heavy",
+    "question": "What is the  deepest  lake in the  world",
+    "gold_answer": "Lake Baikal",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "21_unicode_light",
+    "question": "What іs the deepest lake іn the world?",
+    "gold_answer": "Lake Baikal",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "21_unicode_heavy",
+    "question": "Whαt is thе deepest lake in thе wоrld?",
+    "gold_answer": "Lake Baikal",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "21_emoji_light",
+    "question": "What is 📍 the deepest lake ⛰️ in the world?",
+    "gold_answer": "Lake Baikal",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "21_emoji_heavy",
+    "question": "What 🌊 is ❓ the deepest ❓ lake ❓ in the world?",
+    "gold_answer": "Lake Baikal",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "22_clean",
+    "question": "Which mountain range separates Europe from Asia?",
+    "gold_answer": "Ural Mountains",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "22_typos_light",
+    "question": "Which mountain range separafes Europe grom Asia?",
+    "gold_answer": "Ural Mountains",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "22_typos_heavy",
+    "question": "Which mountain range swparates Rurope frok Ssia?",
+    "gold_answer": "Ural Mountains",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "22_spacing_light",
+    "question": "Which mountain  range  separates Europe from Asia",
+    "gold_answer": "Ural Mountains",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "22_spacing_heavy",
+    "question": "Which mountain range separates   Europe from Asia",
+    "gold_answer": "Ural Mountains",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "22_unicode_light",
+    "question": "Which mountain range separates Eurорe from Asia?",
+    "gold_answer": "Ural Mountains",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "22_unicode_heavy",
+    "question": "Whiсh mountain range sepαrates Europе from Asiα?",
+    "gold_answer": "Ural Mountains",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "22_emoji_light",
+    "question": "Which mountain 🏝️ range ⛰️ separates Europe from Asia?",
+    "gold_answer": "Ural Mountains",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "22_emoji_heavy",
+    "question": "Which 📍 mountain 🌋 range 🌊 separates ❓ Europe from Asia?",
+    "gold_answer": "Ural Mountains",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "23_clean",
+    "question": "What is the smallest ocean in the world?",
+    "gold_answer": "Arctic Ocean",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "23_typos_light",
+    "question": "What is the wmalldst ocean in the world?",
+    "gold_answer": "Arctic Ocean",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "23_typos_heavy",
+    "question": "Whaf ks the snallest ocsan in the world?",
+    "gold_answer": "Arctic Ocean",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "23_spacing_light",
+    "question": "What is the smallest ocean  in the  world",
+    "gold_answer": "Arctic Ocean",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "23_spacing_heavy",
+    "question": "What   is   the  smallest  ocean in   the world",
+    "gold_answer": "Arctic Ocean",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "23_unicode_light",
+    "question": "What is the smallest оcean in the wоrld?",
+    "gold_answer": "Arctic Ocean",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "23_unicode_heavy",
+    "question": "Whαt іs the smallеst ocean іn the world?",
+    "gold_answer": "Arctic Ocean",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "23_emoji_light",
+    "question": "What is ❓ the smallest ocean in ❓ the world?",
+    "gold_answer": "Arctic Ocean",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "23_emoji_heavy",
+    "question": "What 🏝️ is the 🤔 smallest ocean in 🏝️ the 🗺️ world?",
+    "gold_answer": "Arctic Ocean",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "24_clean",
+    "question": "Which country has the most UNESCO World Heritage Sites?",
+    "gold_answer": "Italy",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "24_typos_light",
+    "question": "Which countrg has ths most UNESCO World Heritage Sites?",
+    "gold_answer": "Italy",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "24_typos_heavy",
+    "question": "Which fountry has the most YNESDO Wofld Heritage Sites?",
+    "gold_answer": "Italy",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "24_spacing_light",
+    "question": "Which country has the most UNESCO  World  Heritage Sites",
+    "gold_answer": "Italy",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "24_spacing_heavy",
+    "question": "Which  country   has  the   most UNESCO  World Heritage  Sites",
+    "gold_answer": "Italy",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "24_unicode_light",
+    "question": "Which cоuntry has the most UNESСO World Heritage Sites?",
+    "gold_answer": "Italy",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "24_unicode_heavy",
+    "question": "Whіch country has the most UNESCO Wоrld Hеritαge Sites?",
+    "gold_answer": "Italy",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "24_emoji_light",
+    "question": "Which 🤔 country has the most UNESCO World 🌊 Heritage Sites?",
+    "gold_answer": "Italy",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "24_emoji_heavy",
+    "question": "Which country has the 🤔 most ⛰️ UNESCO 🌊 World Heritage 🌍 Sites?",
+    "gold_answer": "Italy",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "25_clean",
+    "question": "What is the longest mountain range in the world?",
+    "gold_answer": "Andes",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "25_typos_light",
+    "question": "What is ths longest mohntain range in the world?",
+    "gold_answer": "Andes",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "25_typos_heavy",
+    "question": "Wyat is tne longesr mountain range in the worlr?",
+    "gold_answer": "Andes",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "25_spacing_light",
+    "question": "What is the longest mountain range in  the world? ",
+    "gold_answer": "Andes",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "25_spacing_heavy",
+    "question": "What is  the longest   mountain range  in   the  world",
+    "gold_answer": "Andes",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "25_unicode_light",
+    "question": "What is the longеst mountain range in thе world?",
+    "gold_answer": "Andes",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "25_unicode_heavy",
+    "question": "What is the lоngest mountαіn range in thе world?",
+    "gold_answer": "Andes",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "25_emoji_light",
+    "question": "What is the longest mountain 🌋 range in the 🗺️ world?",
+    "gold_answer": "Andes",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "25_emoji_heavy",
+    "question": "What is 🏔️ the longest 🌋 mountain ⛰️ range in 📍 the world?",
+    "gold_answer": "Andes",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "26_clean",
+    "question": "Which sea is located between Greece and Turkey?",
+    "gold_answer": "Aegean Sea",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "26_typos_light",
+    "question": "Which sea is located hetween Greece ans Turkey?",
+    "gold_answer": "Aegean Sea",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "26_typos_heavy",
+    "question": "Which sea ie located befween Greece ajd Turksy?",
+    "gold_answer": "Aegean Sea",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "26_spacing_light",
+    "question": "Which sea is located between Greece and  Turkey? ",
+    "gold_answer": "Aegean Sea",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "26_spacing_heavy",
+    "question": "Which sea   is located   between  Greece and  Turkey",
+    "gold_answer": "Aegean Sea",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "26_unicode_light",
+    "question": "Which sea is located betwеen Greecе and Turkey?",
+    "gold_answer": "Aegean Sea",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "26_unicode_heavy",
+    "question": "Which sea іs located between Grеecе and Turkeу?",
+    "gold_answer": "Aegean Sea",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "26_emoji_light",
+    "question": "Which ❓ sea 🤔 is located between Greece and Turkey?",
+    "gold_answer": "Aegean Sea",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "26_emoji_heavy",
+    "question": "Which 🗺️ sea is 🌍 located 🏝️ between Greece 🤔 and Turkey?",
+    "gold_answer": "Aegean Sea",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "27_clean",
+    "question": "What is the largest salt flat in the world?",
+    "gold_answer": "Salar de Uyuni",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "27_typos_light",
+    "question": "What is the oargest salt flat in rhe world?",
+    "gold_answer": "Salar de Uyuni",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "27_typos_heavy",
+    "question": "What ie the largest ealt fpat im the world?",
+    "gold_answer": "Salar de Uyuni",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "27_spacing_light",
+    "question": "What is the largest salt flat in the  world? ",
+    "gold_answer": "Salar de Uyuni",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "27_spacing_heavy",
+    "question": "What is the   largest   salt  flat in   the world",
+    "gold_answer": "Salar de Uyuni",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "27_unicode_light",
+    "question": "What іs the largest salt flat in the wоrld?",
+    "gold_answer": "Salar de Uyuni",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "27_unicode_heavy",
+    "question": "Whαt is thе largеst salt flat іn the world?",
+    "gold_answer": "Salar de Uyuni",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "27_emoji_light",
+    "question": "What ⛰️ is the 🌍 largest salt flat in the world?",
+    "gold_answer": "Salar de Uyuni",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "27_emoji_heavy",
+    "question": "What is ❓ the 🌋 largest 🤔 salt flat 🌊 in the world?",
+    "gold_answer": "Salar de Uyuni",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "28_clean",
+    "question": "Which river flows through Baghdad?",
+    "gold_answer": "Tigris River",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "28_typos_light",
+    "question": "Which river flows througy Bagydad?",
+    "gold_answer": "Tigris River",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "28_typos_heavy",
+    "question": "Whoch diver flows throhgh Baghdqd?",
+    "gold_answer": "Tigris River",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "28_spacing_light",
+    "question": "Which river  flows through  Baghdad",
+    "gold_answer": "Tigris River",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "28_spacing_heavy",
+    "question": "Which  river  flows   through Baghdad",
+    "gold_answer": "Tigris River",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "28_unicode_light",
+    "question": "Which rіver flоws through Baghdad?",
+    "gold_answer": "Tigris River",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "28_unicode_heavy",
+    "question": "Whiсh rіver flоws through Bαghdad?",
+    "gold_answer": "Tigris River",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "28_emoji_light",
+    "question": "Which river flows ⛰️ through 🌋 Baghdad?",
+    "gold_answer": "Tigris River",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "28_emoji_heavy",
+    "question": "Which 🌋 river 🌊 flows 📍 through 🏝️ Baghdad?",
+    "gold_answer": "Tigris River",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "29_clean",
+    "question": "What is the highest capital city in the world?",
+    "gold_answer": "La Paz",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "29_typos_light",
+    "question": "What is the highest capitao city in the worlc?",
+    "gold_answer": "La Paz",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "29_typos_heavy",
+    "question": "Wbat is the highest czoital ciry in the world?",
+    "gold_answer": "La Paz",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "29_spacing_light",
+    "question": "What is the highest  capital  city in the world",
+    "gold_answer": "La Paz",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "29_spacing_heavy",
+    "question": "What  is the   highest capital   city  in   the   world",
+    "gold_answer": "La Paz",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "29_unicode_light",
+    "question": "What is the highеst capital сity in the world?",
+    "gold_answer": "La Paz",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "29_unicode_heavy",
+    "question": "What is the hіghest capital сity іn thе world?",
+    "gold_answer": "La Paz",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "29_emoji_light",
+    "question": "What 🌍 is the 🏝️ highest capital city in the world?",
+    "gold_answer": "La Paz",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "29_emoji_heavy",
+    "question": "What 🗺️ is 🌋 the highest capital city 🏔️ in the ⛰️ world?",
+    "gold_answer": "La Paz",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "30_clean",
+    "question": "Which archipelago includes Java and Sumatra?",
+    "gold_answer": "Indonesian Archipelago",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "30_typos_light",
+    "question": "Which arcuipepago includes Java and Sumatra?",
+    "gold_answer": "Indonesian Archipelago",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "30_typos_heavy",
+    "question": "Which archilelago ijcludes Java and Shjatra?",
+    "gold_answer": "Indonesian Archipelago",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "30_spacing_light",
+    "question": "Which  archipelago includes Java  and Sumatra",
+    "gold_answer": "Indonesian Archipelago",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "30_spacing_heavy",
+    "question": "Which archipelago includes   Java   and   Sumatra",
+    "gold_answer": "Indonesian Archipelago",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "30_unicode_light",
+    "question": "Which αrchipelago includеs Java and Sumatra?",
+    "gold_answer": "Indonesian Archipelago",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "30_unicode_heavy",
+    "question": "Whіch archіpelagо includes Jαva and Sumatra?",
+    "gold_answer": "Indonesian Archipelago",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "30_emoji_light",
+    "question": "Which ⛰️ archipelago includes Java 🏔️ and Sumatra?",
+    "gold_answer": "Indonesian Archipelago",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "30_emoji_heavy",
+    "question": "Which archipelago 🌍 includes 🏝️ Java 🌊 and 📍 Sumatra?",
+    "gold_answer": "Indonesian Archipelago",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "31_clean",
+    "question": "What is the westernmost point of continental Europe?",
+    "gold_answer": "Cabo da Roca",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "31_typos_light",
+    "question": "What is the westernmost point of continenyal Ejrope?",
+    "gold_answer": "Cabo da Roca",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "31_typos_heavy",
+    "question": "What js the westernmost point of cohtinental Euelpe?",
+    "gold_answer": "Cabo da Roca",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "31_spacing_light",
+    "question": "What   is the westernmost point of continental Europe?",
+    "gold_answer": "Cabo da Roca",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "31_spacing_heavy",
+    "question": "What  is the westernmost point   of continental  Europe",
+    "gold_answer": "Cabo da Roca",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "31_unicode_light",
+    "question": "What is the westernmost point of cоntinental Euroрe?",
+    "gold_answer": "Cabo da Roca",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "31_unicode_heavy",
+    "question": "What is the wеstеrnmost point of continеntal Europе?",
+    "gold_answer": "Cabo da Roca",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "31_emoji_light",
+    "question": "What is the westernmost 🌋 point of continental ❓ Europe?",
+    "gold_answer": "Cabo da Roca",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "31_emoji_heavy",
+    "question": "What 🏔️ is 🌊 the 🏝️ westernmost point of continental 🏝️ Europe?",
+    "gold_answer": "Cabo da Roca",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "32_clean",
+    "question": "Which lake is shared by Uganda, Kenya, and Tanzania?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "32_typos_light",
+    "question": "Which lwke is shared by Ugansa, Kenya, and Tanzania?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "32_typos_heavy",
+    "question": "Which laie is snared vy Uganda, Lenya, and Tanzania?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "32_spacing_light",
+    "question": "Which   lake is shared by Uganda, Kenya, and Tanzania",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "32_spacing_heavy",
+    "question": "Which lake is   shared by Uganda,   Kenya, and   Tanzania",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "32_unicode_light",
+    "question": "Which lake is shared bу Uganda, Kеnya, and Tanzania?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "32_unicode_heavy",
+    "question": "Whіch lake іs shared by Ugαnda, Kenya, αnd Tanzania?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "32_emoji_light",
+    "question": "Which lake ⛰️ is 🤔 shared by Uganda, Kenya, and Tanzania?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "32_emoji_heavy",
+    "question": "Which 🌊 lake is 🏔️ shared by Uganda, 🌍 Kenya, 🗺️ and Tanzania?",
+    "gold_answer": "Lake Victoria",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "33_clean",
+    "question": "What is the longest cave system in the world?",
+    "gold_answer": "Mammoth Cave",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "33_typos_light",
+    "question": "Wuat is the longest cave wystem in the world?",
+    "gold_answer": "Mammoth Cave",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "33_typos_heavy",
+    "question": "Whar is thw longest cave system jn the wodld?",
+    "gold_answer": "Mammoth Cave",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "33_spacing_light",
+    "question": "What is the longest cave system  in the world? ",
+    "gold_answer": "Mammoth Cave",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "33_spacing_heavy",
+    "question": "What  is   the longest   cave system   in   the   world",
+    "gold_answer": "Mammoth Cave",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "33_unicode_light",
+    "question": "What is the longest cavе system іn the world?",
+    "gold_answer": "Mammoth Cave",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "33_unicode_heavy",
+    "question": "Whαt is the longest cαvе system in the wоrld?",
+    "gold_answer": "Mammoth Cave",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "33_emoji_light",
+    "question": "What is the longest cave system 🏝️ in 📍 the world?",
+    "gold_answer": "Mammoth Cave",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "33_emoji_heavy",
+    "question": "What 🗺️ is the 📍 longest cave system in 🗺️ the ❓ world?",
+    "gold_answer": "Mammoth Cave",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "34_clean",
+    "question": "Which country owns the Faroe Islands?",
+    "gold_answer": "Denmark",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "34_typos_light",
+    "question": "Which coujtry owns the Garoe Islands?",
+    "gold_answer": "Denmark",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "34_typos_heavy",
+    "question": "Which counrry owbs fhe Caroe Islands?",
+    "gold_answer": "Denmark",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "34_spacing_light",
+    "question": "Which country owns the Faroe Islands?  ",
+    "gold_answer": "Denmark",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "34_spacing_heavy",
+    "question": "Which   country   owns the  Faroe  Islands",
+    "gold_answer": "Denmark",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "34_unicode_light",
+    "question": "Which country оwns thе Faroe Islands?",
+    "gold_answer": "Denmark",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "34_unicode_heavy",
+    "question": "Whiсh country owns thе Fαroe Іslands?",
+    "gold_answer": "Denmark",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "34_emoji_light",
+    "question": "Which country owns ⛰️ the 🏔️ Faroe Islands?",
+    "gold_answer": "Denmark",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "34_emoji_heavy",
+    "question": "Which country 📍 owns 📍 the 📍 Faroe 📍 Islands?",
+    "gold_answer": "Denmark",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "35_clean",
+    "question": "What is the largest atoll in the world?",
+    "gold_answer": "Kiritimati",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "35_typos_light",
+    "question": "Whay is the largdst atoll in the world?",
+    "gold_answer": "Kiritimati",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "35_typos_heavy",
+    "question": "Wnat is the largest agill in the worlf?",
+    "gold_answer": "Kiritimati",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "35_spacing_light",
+    "question": "What is the largest atoll in  the  world",
+    "gold_answer": "Kiritimati",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "35_spacing_heavy",
+    "question": "What   is the  largest   atoll  in  the world",
+    "gold_answer": "Kiritimati",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "35_unicode_light",
+    "question": "What is the lαrgest atoll in thе world?",
+    "gold_answer": "Kiritimati",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "35_unicode_heavy",
+    "question": "What is thе lαrgest atоll іn the world?",
+    "gold_answer": "Kiritimati",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "35_emoji_light",
+    "question": "What 🏔️ is the 🤔 largest atoll in the world?",
+    "gold_answer": "Kiritimati",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "35_emoji_heavy",
+    "question": "What ❓ is ❓ the 🤔 largest atoll 🌋 in the world?",
+    "gold_answer": "Kiritimati",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "36_clean",
+    "question": "Which river delta is home to the Sundarbans mangrove forest?",
+    "gold_answer": "Ganges Delta",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "36_typos_light",
+    "question": "Which river delta is home to the Sundarbans mangrlvw forest?",
+    "gold_answer": "Ganges Delta",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "36_typos_heavy",
+    "question": "Wuich river ddlta is uome to the Sundarbans mangrove dorest?",
+    "gold_answer": "Ganges Delta",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "36_spacing_light",
+    "question": "Which river delta   is home to the Sundarbans mangrove forest",
+    "gold_answer": "Ganges Delta",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "36_spacing_heavy",
+    "question": "Which  river delta is   home   to the Sundarbans   mangrove   forest",
+    "gold_answer": "Ganges Delta",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "36_unicode_light",
+    "question": "Which river delta is home to the Sundarbαns mαngrove forest?",
+    "gold_answer": "Ganges Delta",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "36_unicode_heavy",
+    "question": "Which river deltα is home to thе Sundarbans mangrоvе forest?",
+    "gold_answer": "Ganges Delta",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "36_emoji_light",
+    "question": "Which river delta is home ❓ to ❓ the Sundarbans mangrove forest?",
+    "gold_answer": "Ganges Delta",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "36_emoji_heavy",
+    "question": "Which ⛰️ river 📍 delta is home to the 🌍 Sundarbans mangrove ❓ forest?",
+    "gold_answer": "Ganges Delta",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "37_clean",
+    "question": "What is the southernmost city in the world?",
+    "gold_answer": "Ushuaia",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "37_typos_light",
+    "question": "What is the southernmost city in fje world?",
+    "gold_answer": "Ushuaia",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "37_typos_heavy",
+    "question": "What is the soutjernjost city ib the woeld?",
+    "gold_answer": "Ushuaia",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "37_spacing_light",
+    "question": "What is the southernmost city  in the world? ",
+    "gold_answer": "Ushuaia",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "37_spacing_heavy",
+    "question": "What  is the southernmost  city   in the world",
+    "gold_answer": "Ushuaia",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "37_unicode_light",
+    "question": "What is the sоuthеrnmost city in the world?",
+    "gold_answer": "Ushuaia",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "37_unicode_heavy",
+    "question": "What is thе southеrnmоst city in thе world?",
+    "gold_answer": "Ushuaia",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "37_emoji_light",
+    "question": "What 🌋 is the southernmost city in the 🏝️ world?",
+    "gold_answer": "Ushuaia",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "37_emoji_heavy",
+    "question": "What is 📍 the southernmost 🏔️ city in 🤔 the 🤔 world?",
+    "gold_answer": "Ushuaia",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "38_clean",
+    "question": "Which sea separates Saudi Arabia from Africa?",
+    "gold_answer": "Red Sea",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "38_typos_light",
+    "question": "Whuch sea separates Saudi Arania from Africa?",
+    "gold_answer": "Red Sea",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "38_typos_heavy",
+    "question": "Whicb sea separates Saufi Arabia fdom Afriva?",
+    "gold_answer": "Red Sea",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "38_spacing_light",
+    "question": "Which  sea separates  Saudi Arabia from Africa?",
+    "gold_answer": "Red Sea",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "38_spacing_heavy",
+    "question": "Which  sea separates   Saudi  Arabia   from  Africa",
+    "gold_answer": "Red Sea",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "38_unicode_light",
+    "question": "Which seα separates Saudi Arabіa from Africa?",
+    "gold_answer": "Red Sea",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "38_unicode_heavy",
+    "question": "Which sea separαtes Saudi Arαbіa from Αfrica?",
+    "gold_answer": "Red Sea",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "38_emoji_light",
+    "question": "Which 🏔️ sea separates Saudi ⛰️ Arabia from Africa?",
+    "gold_answer": "Red Sea",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "38_emoji_heavy",
+    "question": "Which 🤔 sea 🤔 separates 📍 Saudi Arabia from 🤔 Africa?",
+    "gold_answer": "Red Sea",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "39_clean",
+    "question": "What is the largest landlocked country in the world?",
+    "gold_answer": "Kazakhstan",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "39_typos_light",
+    "question": "What is the laryest landlodked country in the world?",
+    "gold_answer": "Kazakhstan",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "39_typos_heavy",
+    "question": "What is yhe pargesy kandlocked country in the world?",
+    "gold_answer": "Kazakhstan",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "39_spacing_light",
+    "question": "What is  the  largest landlocked country in the world",
+    "gold_answer": "Kazakhstan",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "39_spacing_heavy",
+    "question": "What   is  the  largest   landlocked   country  in   the   world",
+    "gold_answer": "Kazakhstan",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "39_unicode_light",
+    "question": "What is the largest landlocked соuntry in the world?",
+    "gold_answer": "Kazakhstan",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "39_unicode_heavy",
+    "question": "What is the largest lαndlocked cоuntry in thе wоrld?",
+    "gold_answer": "Kazakhstan",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "39_emoji_light",
+    "question": "What is the 🏝️ largest 📍 landlocked country in the world?",
+    "gold_answer": "Kazakhstan",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "39_emoji_heavy",
+    "question": "What is the 🤔 largest landlocked country 🏔️ in 🌍 the ❓ world?",
+    "gold_answer": "Kazakhstan",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "40_clean",
+    "question": "Which volcano destroyed Pompeii?",
+    "gold_answer": "Mount Vesuvius",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "40_typos_light",
+    "question": "Whjch volczno destroyed Pompeii?",
+    "gold_answer": "Mount Vesuvius",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "40_typos_heavy",
+    "question": "Wgich volczni destroyed Pompeji?",
+    "gold_answer": "Mount Vesuvius",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "40_spacing_light",
+    "question": "Which  volcano destroyed Pompeii? ",
+    "gold_answer": "Mount Vesuvius",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "40_spacing_heavy",
+    "question": "Which   volcano   destroyed Pompeii",
+    "gold_answer": "Mount Vesuvius",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "40_unicode_light",
+    "question": "Which volcano destroуed Pompeiі?",
+    "gold_answer": "Mount Vesuvius",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "40_unicode_heavy",
+    "question": "Whісh volcαno destrоyed Pompeii?",
+    "gold_answer": "Mount Vesuvius",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "40_emoji_light",
+    "question": "Which 🗺️ volcano 🤔 destroyed Pompeii?",
+    "gold_answer": "Mount Vesuvius",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "40_emoji_heavy",
+    "question": "Which 🤔 volcano 🤔 destroyed 🏝️ Pompeii?",
+    "gold_answer": "Mount Vesuvius",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "41_clean",
+    "question": "What is the longest river in Australia?",
+    "gold_answer": "Murray River",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "41_typos_light",
+    "question": "What is the llngest river in Wustralia?",
+    "gold_answer": "Murray River",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "41_typos_heavy",
+    "question": "Whar is the longest river kn Ajsrralia?",
+    "gold_answer": "Murray River",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "41_spacing_light",
+    "question": "What is the longest river  in  Australia?",
+    "gold_answer": "Murray River",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "41_spacing_heavy",
+    "question": "What  is   the   longest   river in  Australia",
+    "gold_answer": "Murray River",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "41_unicode_light",
+    "question": "What is the longest river in Austrαlіa?",
+    "gold_answer": "Murray River",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "41_unicode_heavy",
+    "question": "What is thе longеst rіvеr in Australia?",
+    "gold_answer": "Murray River",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "41_emoji_light",
+    "question": "What is ⛰️ the longest river 📍 in Australia?",
+    "gold_answer": "Murray River",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "41_emoji_heavy",
+    "question": "What 🤔 is the 🌋 longest 📍 river 🤔 in Australia?",
+    "gold_answer": "Murray River",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "42_clean",
+    "question": "Which country has the most islands?",
+    "gold_answer": "Sweden",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "42_typos_light",
+    "question": "Shich countrh has the most islands?",
+    "gold_answer": "Sweden",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "42_typos_heavy",
+    "question": "Which vpuntty has the most iskands?",
+    "gold_answer": "Sweden",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "42_spacing_light",
+    "question": "Which  country  has the most islands?",
+    "gold_answer": "Sweden",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "42_spacing_heavy",
+    "question": "Which country   has   the   most   islands",
+    "gold_answer": "Sweden",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "42_unicode_light",
+    "question": "Which сountry hαs the most islands?",
+    "gold_answer": "Sweden",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "42_unicode_heavy",
+    "question": "Whiсh сountry has thе most islαnds?",
+    "gold_answer": "Sweden",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "42_emoji_light",
+    "question": "Which country 🌍 has the most 🏝️ islands?",
+    "gold_answer": "Sweden",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "42_emoji_heavy",
+    "question": "Which 🏝️ country has ⛰️ the ❓ most 🏝️ islands?",
+    "gold_answer": "Sweden",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "43_clean",
+    "question": "What is the highest mountain in Africa?",
+    "gold_answer": "Mount Kilimanjaro",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "43_typos_light",
+    "question": "What is the higheef mountain in Africa?",
+    "gold_answer": "Mount Kilimanjaro",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "43_typos_heavy",
+    "question": "What is the higuest mountaim in Afdoca?",
+    "gold_answer": "Mount Kilimanjaro",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "43_spacing_light",
+    "question": "What is  the highest mountain in Africa? ",
+    "gold_answer": "Mount Kilimanjaro",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "43_spacing_heavy",
+    "question": "What is  the highest   mountain  in  Africa",
+    "gold_answer": "Mount Kilimanjaro",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "43_unicode_light",
+    "question": "What іs the highest mountain in Afriсa?",
+    "gold_answer": "Mount Kilimanjaro",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "43_unicode_heavy",
+    "question": "What іs the highеst mountain іn Afriсa?",
+    "gold_answer": "Mount Kilimanjaro",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "43_emoji_light",
+    "question": "What is 🤔 the 🏝️ highest mountain in Africa?",
+    "gold_answer": "Mount Kilimanjaro",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "43_emoji_heavy",
+    "question": "What 🌋 is 🌍 the highest 🏔️ mountain 🏝️ in Africa?",
+    "gold_answer": "Mount Kilimanjaro",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "44_clean",
+    "question": "Which strait separates Sicily from mainland Italy?",
+    "gold_answer": "Strait of Messina",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "44_typos_light",
+    "question": "Whifh strait separates Sicilu from mainland Italy?",
+    "gold_answer": "Strait of Messina",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "44_typos_heavy",
+    "question": "Which etrait sepwrates Sicuky from mainland Italy?",
+    "gold_answer": "Strait of Messina",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "44_spacing_light",
+    "question": "Which strait  separates Sicily from mainland Italy? ",
+    "gold_answer": "Strait of Messina",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "44_spacing_heavy",
+    "question": "Which  strait  separates   Sicily from   mainland  Italy",
+    "gold_answer": "Strait of Messina",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "44_unicode_light",
+    "question": "Whіch strait separates Sicily from mainland Italу?",
+    "gold_answer": "Strait of Messina",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "44_unicode_heavy",
+    "question": "Whіch strαit sepαratеs Sicily from mainland Italy?",
+    "gold_answer": "Strait of Messina",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "44_emoji_light",
+    "question": "Which strait 🤔 separates Sicily from ❓ mainland Italy?",
+    "gold_answer": "Strait of Messina",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "44_emoji_heavy",
+    "question": "Which 🌊 strait separates 🌍 Sicily 📍 from ⛰️ mainland Italy?",
+    "gold_answer": "Strait of Messina",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "45_clean",
+    "question": "What is the largest bay in the world?",
+    "gold_answer": "Bay of Bengal",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "45_typos_light",
+    "question": "What is the largsst bay ib the world?",
+    "gold_answer": "Bay of Bengal",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "45_typos_heavy",
+    "question": "Whar is the largesy bay in the wotlx?",
+    "gold_answer": "Bay of Bengal",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "45_spacing_light",
+    "question": "What is the largest bay  in the  world?",
+    "gold_answer": "Bay of Bengal",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "45_spacing_heavy",
+    "question": "What  is the   largest  bay in   the   world",
+    "gold_answer": "Bay of Bengal",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "45_unicode_light",
+    "question": "What is the largest bαy in thе world?",
+    "gold_answer": "Bay of Bengal",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "45_unicode_heavy",
+    "question": "Whαt іs the lαrgest bay in thе world?",
+    "gold_answer": "Bay of Bengal",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "45_emoji_light",
+    "question": "What is the largest 🌋 bay in the 🌍 world?",
+    "gold_answer": "Bay of Bengal",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "45_emoji_heavy",
+    "question": "What 📍 is the 🌊 largest bay in 🏔️ the 📍 world?",
+    "gold_answer": "Bay of Bengal",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "46_clean",
+    "question": "Which desert covers much of Botswana?",
+    "gold_answer": "Kalahari Desert",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "46_typos_light",
+    "question": "Which desert covers mich of Bltswana?",
+    "gold_answer": "Kalahari Desert",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "46_typos_heavy",
+    "question": "Wnich deserf dovers kuch of Botswana?",
+    "gold_answer": "Kalahari Desert",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "46_spacing_light",
+    "question": "Which desert covers much  of Botswana? ",
+    "gold_answer": "Kalahari Desert",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "46_spacing_heavy",
+    "question": "Which desert covers   much  of Botswana",
+    "gold_answer": "Kalahari Desert",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "46_unicode_light",
+    "question": "Whіch desеrt covers much of Botswana?",
+    "gold_answer": "Kalahari Desert",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "46_unicode_heavy",
+    "question": "Whіch desеrt cоvers much of Botswanα?",
+    "gold_answer": "Kalahari Desert",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "46_emoji_light",
+    "question": "Which desert covers 🏝️ much 🤔 of Botswana?",
+    "gold_answer": "Kalahari Desert",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "46_emoji_heavy",
+    "question": "Which 🏔️ desert covers 🌍 much 🏔️ of ⛰️ Botswana?",
+    "gold_answer": "Kalahari Desert",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "47_clean",
+    "question": "What is the deepest canyon in the world?",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "47_typos_light",
+    "question": "What is tje deepest cwnyon in the world?",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "47_typos_heavy",
+    "question": "What is the deepest canyoj in fye wkrld?",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "47_spacing_light",
+    "question": "What is  the deepest canyon  in the world",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "47_spacing_heavy",
+    "question": "What is  the   deepest canyon   in  the  world",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "47_unicode_light",
+    "question": "What іs the deeрest canyon in the world?",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "47_unicode_heavy",
+    "question": "What is the deеpest сanyоn in thе world?",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "47_emoji_light",
+    "question": "What is the deepest canyon 🗺️ in 🌋 the world?",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "47_emoji_heavy",
+    "question": "What is the 🌋 deepest ❓ canyon in 🏔️ the 🌍 world?",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "48_clean",
+    "question": "Which island group forms the westernmost point of Europe?",
+    "gold_answer": "Azores",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "48_typos_light",
+    "question": "Which island group firms the westernmost point if Europe?",
+    "gold_answer": "Azores",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "48_typos_heavy",
+    "question": "Which island group forms ths wrsternmost point if Rurope?",
+    "gold_answer": "Azores",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "48_spacing_light",
+    "question": "Which  island group  forms the westernmost point of Europe?",
+    "gold_answer": "Azores",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "48_spacing_heavy",
+    "question": "Which   island  group  forms  the   westernmost point   of Europe",
+    "gold_answer": "Azores",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "48_unicode_light",
+    "question": "Which island group forms the westernmost рoint оf Europe?",
+    "gold_answer": "Azores",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "48_unicode_heavy",
+    "question": "Which іsland grоup forms the westernmost рoint оf Europe?",
+    "gold_answer": "Azores",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "48_emoji_light",
+    "question": "Which island group forms ⛰️ the westernmost 🏔️ point of Europe?",
+    "gold_answer": "Azores",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "48_emoji_heavy",
+    "question": "Which 🤔 island 🌋 group forms 🤔 the westernmost point 🏝️ of Europe?",
+    "gold_answer": "Azores",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "49_clean",
+    "question": "What is the longest river in Asia?",
+    "gold_answer": "Yangtze River",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "49_typos_light",
+    "question": "Whag is ths longest river in Asia?",
+    "gold_answer": "Yangtze River",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "49_typos_heavy",
+    "question": "What is fhe kongest rivrr ih Asia?",
+    "gold_answer": "Yangtze River",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "49_spacing_light",
+    "question": "What  is the longest river in Asia? ",
+    "gold_answer": "Yangtze River",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "49_spacing_heavy",
+    "question": "What   is  the longest   river  in   Asia",
+    "gold_answer": "Yangtze River",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "49_unicode_light",
+    "question": "What іs the longest river in Αsia?",
+    "gold_answer": "Yangtze River",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "49_unicode_heavy",
+    "question": "What is thе longеst river in Αsіa?",
+    "gold_answer": "Yangtze River",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "49_emoji_light",
+    "question": "What is 🤔 the longest river in 🏔️ Asia?",
+    "gold_answer": "Yangtze River",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "49_emoji_heavy",
+    "question": "What 🏔️ is 🌍 the longest river 🏝️ in 🌊 Asia?",
+    "gold_answer": "Yangtze River",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "50_clean",
+    "question": "Which country contains Angel Falls?",
+    "gold_answer": "Venezuela",
+    "noise_type": "clean",
+    "noise_level": "none"
+  },
+  {
+    "id": "50_typos_light",
+    "question": "Which country contakms Angel Falls?",
+    "gold_answer": "Venezuela",
+    "noise_type": "typos",
+    "noise_level": "light"
+  },
+  {
+    "id": "50_typos_heavy",
+    "question": "Whicu country contaund Angel Dalls?",
+    "gold_answer": "Venezuela",
+    "noise_type": "typos",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "50_spacing_light",
+    "question": "Which country contains Angel  Falls? ",
+    "gold_answer": "Venezuela",
+    "noise_type": "spacing",
+    "noise_level": "light"
+  },
+  {
+    "id": "50_spacing_heavy",
+    "question": "Which  country   contains Angel Falls",
+    "gold_answer": "Venezuela",
+    "noise_type": "spacing",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "50_unicode_light",
+    "question": "Whiсh country contains Angеl Falls?",
+    "gold_answer": "Venezuela",
+    "noise_type": "unicode",
+    "noise_level": "light"
+  },
+  {
+    "id": "50_unicode_heavy",
+    "question": "Which country сontαіns Angel Fαlls?",
+    "gold_answer": "Venezuela",
+    "noise_type": "unicode",
+    "noise_level": "heavy"
+  },
+  {
+    "id": "50_emoji_light",
+    "question": "Which country 🗺️ contains ❓ Angel Falls?",
+    "gold_answer": "Venezuela",
+    "noise_type": "emoji",
+    "noise_level": "light"
+  },
+  {
+    "id": "50_emoji_heavy",
+    "question": "Which 🗺️ country ⛰️ contains 🗺️ Angel 🤔 Falls?",
+    "gold_answer": "Venezuela",
+    "noise_type": "emoji",
+    "noise_level": "heavy"
+  }
+]

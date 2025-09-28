@@ -1,0 +1,1350 @@
+ID: 1_clean
+Question: What is the deepest point in the Mariana Trench called?
+---
+ID: 1_typos_light
+Question: What is tne deepest point in the Mariana Trench cslled?
+---
+ID: 1_typos_heavy
+Question: What is ths deepexr piint in the Mariana Trench called?
+---
+ID: 1_spacing_light
+Question: What   is the deepest point in the Mariana Trench called?
+---
+ID: 1_spacing_heavy
+Question: What is   the   deepest point   in the   Mariana   Trench   called
+---
+ID: 1_unicode_light
+Question: What is the deepest рoint in the Mαriana Trench called?
+---
+ID: 1_unicode_heavy
+Question: Whαt is the deepest pоint in the Marіana Trenсh called?
+---
+ID: 1_emoji_light
+Question: What is the ⛰️ deepest point in the 🏔️ Mariana Trench called?
+---
+ID: 1_emoji_heavy
+Question: What is the 📍 deepest 🌋 point in the 📍 Mariana Trench 📍 called?
+---
+ID: 2_clean
+Question: Which African country has three capital cities?
+---
+ID: 2_typos_light
+Question: Which African country has ghree capital citiws?
+---
+ID: 2_typos_heavy
+Question: Which Affican country has thtee caoital fities?
+---
+ID: 2_spacing_light
+Question: Which  African country has three capital  cities?
+---
+ID: 2_spacing_heavy
+Question: Which African  country has three capital  cities
+---
+ID: 2_unicode_light
+Question: Which African country has threе caрital cities?
+---
+ID: 2_unicode_heavy
+Question: Which Africαn сountry has threе capital citіes?
+---
+ID: 2_emoji_light
+Question: Which African country ❓ has three capital 📍 cities?
+---
+ID: 2_emoji_heavy
+Question: Which 🤔 African ⛰️ country has three 🌋 capital 🏝️ cities?
+---
+ID: 3_clean
+Question: What is the name of the desert between Mongolia and China?
+---
+ID: 3_typos_light
+Question: What is the name ot the desert between Mongolia and Cgina?
+---
+ID: 3_typos_heavy
+Question: Whst is the name ot the dewert bdtween Mongolia and China?
+---
+ID: 3_spacing_light
+Question: What is the name  of the desert between Mongolia and China? 
+---
+ID: 3_spacing_heavy
+Question: What   is  the name  of the desert   between   Mongolia   and  China
+---
+ID: 3_unicode_light
+Question: What is the name of the desert between Mоngolia and Сhina?
+---
+ID: 3_unicode_heavy
+Question: What is the name of the dеsert betweеn Μongolia and Сhina?
+---
+ID: 3_emoji_light
+Question: What is the 📍 name of the desert between Mongolia 🏝️ and China?
+---
+ID: 3_emoji_heavy
+Question: What 📍 is ❓ the 🌋 name of the 🗺️ desert between Mongolia and China?
+---
+ID: 4_clean
+Question: Which strait separates Spain from Morocco?
+---
+ID: 4_typos_light
+Question: Which strait separates Spaij from Korocco?
+---
+ID: 4_typos_heavy
+Question: Shich steait separafes Spain from Morocfo?
+---
+ID: 4_spacing_light
+Question: Which strait  separates Spain  from Morocco?
+---
+ID: 4_spacing_heavy
+Question: Which   strait   separates  Spain   from Morocco
+---
+ID: 4_unicode_light
+Question: Which straіt separates Sрain from Morocco?
+---
+ID: 4_unicode_heavy
+Question: Which strait sеpαrates Spaіn from Moroсco?
+---
+ID: 4_emoji_light
+Question: Which 🏔️ strait ❓ separates Spain from Morocco?
+---
+ID: 4_emoji_heavy
+Question: Which 🌊 strait 🌍 separates Spain 🌊 from ⛰️ Morocco?
+---
+ID: 5_clean
+Question: What is the smallest country entirely within another country?
+---
+ID: 5_typos_light
+Question: What iz the smallest country entirely withun another country?
+---
+ID: 5_typos_heavy
+Question: What os the smallest country entirelu wiyhin another coumtry?
+---
+ID: 5_spacing_light
+Question: What is the smallest country  entirely within another country? 
+---
+ID: 5_spacing_heavy
+Question: What  is the   smallest   country   entirely within   another  country
+---
+ID: 5_unicode_light
+Question: What is the smallest country entirelу within αnother country?
+---
+ID: 5_unicode_heavy
+Question: What is the smαllest countrу entirely within αnothеr country?
+---
+ID: 5_emoji_light
+Question: What 🌍 is the smallest 🏔️ country entirely within another country?
+---
+ID: 5_emoji_heavy
+Question: What 📍 is 🌊 the smallest 🌍 country 📍 entirely within another country?
+---
+ID: 6_clean
+Question: Which river forms the border between Zambia and Zimbabwe?
+---
+ID: 6_typos_light
+Question: Whuch river forms the borcer between Zambia and Zimbabwe?
+---
+ID: 6_typos_heavy
+Question: Which river forms yhr border between Xambia and Zikbabwe?
+---
+ID: 6_spacing_light
+Question: Which river forms the  border between Zambia and  Zimbabwe
+---
+ID: 6_spacing_heavy
+Question: Which  river forms the border   between  Zambia  and  Zimbabwe
+---
+ID: 6_unicode_light
+Question: Whiсh river forms the border between Zambia αnd Zimbabwe?
+---
+ID: 6_unicode_heavy
+Question: Whiсh rivеr forms the border between Zαmbіa and Zimbabwe?
+---
+ID: 6_emoji_light
+Question: Which river forms the border between 🌊 Zambia 📍 and Zimbabwe?
+---
+ID: 6_emoji_heavy
+Question: Which river ⛰️ forms the 🗺️ border 🌋 between Zambia and 🗺️ Zimbabwe?
+---
+ID: 7_clean
+Question: What is the northernmost capital city in the world?
+---
+ID: 7_typos_light
+Question: What is the northednmost capital cuty in the world?
+---
+ID: 7_typos_heavy
+Question: Whar is rhe northernmost capital city in tbe worle?
+---
+ID: 7_spacing_light
+Question: What is the  northernmost capital city in  the world?
+---
+ID: 7_spacing_heavy
+Question: What is  the northernmost capital  city in  the  world
+---
+ID: 7_unicode_light
+Question: What is the northernmost capіtal citу in the world?
+---
+ID: 7_unicode_heavy
+Question: What is the nоrthеrnmost capital city in thе wоrld?
+---
+ID: 7_emoji_light
+Question: What 🤔 is the northernmost ❓ capital city in the world?
+---
+ID: 7_emoji_heavy
+Question: What 🤔 is the 🏝️ northernmost capital city ❓ in the 🌍 world?
+---
+ID: 8_clean
+Question: Which sea lies between Jordan and Israel?
+---
+ID: 8_typos_light
+Question: Which sea liws between Jordan and Israek?
+---
+ID: 8_typos_heavy
+Question: Whicb sea liea beteeen Jordan snd Israel?
+---
+ID: 8_spacing_light
+Question: Which  sea lies between Jordan  and Israel?
+---
+ID: 8_spacing_heavy
+Question: Which   sea   lies   between  Jordan  and Israel
+---
+ID: 8_unicode_light
+Question: Which sea liеs between Jordan αnd Israel?
+---
+ID: 8_unicode_heavy
+Question: Which sеα lіes bеtween Jordan and Israel?
+---
+ID: 8_emoji_light
+Question: Which sea lies 🏔️ between Jordan and 🏝️ Israel?
+---
+ID: 8_emoji_heavy
+Question: Which 🤔 sea lies 📍 between 📍 Jordan and ❓ Israel?
+---
+ID: 9_clean
+Question: What is the largest lake on the African continent?
+---
+ID: 9_typos_light
+Question: What is the largdst lake on the African dontinent?
+---
+ID: 9_typos_heavy
+Question: What os the largesf lake on gbe African continent?
+---
+ID: 9_spacing_light
+Question: What is the largest lake  on the African continent? 
+---
+ID: 9_spacing_heavy
+Question: What   is  the   largest lake on  the African continent
+---
+ID: 9_unicode_light
+Question: What is the largеst lake on thе African continent?
+---
+ID: 9_unicode_heavy
+Question: What is the largest lαkе on the Αfriсan continent?
+---
+ID: 9_emoji_light
+Question: What is the largest 🤔 lake on ⛰️ the African continent?
+---
+ID: 9_emoji_heavy
+Question: What 🌍 is the 🌍 largest lake on ⛰️ the African 🌋 continent?
+---
+ID: 10_clean
+Question: Which mountain range contains K2?
+---
+ID: 10_typos_light
+Question: Which mountqin range contaijs K2?
+---
+ID: 10_typos_heavy
+Question: Which kountain rsngw contajns K2?
+---
+ID: 10_spacing_light
+Question: Which  mountain  range contains K2
+---
+ID: 10_spacing_heavy
+Question: Which  mountain   range   contains K2
+---
+ID: 10_unicode_light
+Question: Whіch mоuntain range contains K2?
+---
+ID: 10_unicode_heavy
+Question: Whіch mountaіn rαnge contαins K2?
+---
+ID: 10_emoji_light
+Question: Which mountain 📍 range 🌊 contains K2?
+---
+ID: 10_emoji_heavy
+Question: Which 🌋 mountain 🗺️ range 🗺️ contains 🌊 K2?
+---
+ID: 11_clean
+Question: What is the driest non-polar desert in the world?
+---
+ID: 11_typos_light
+Question: Wnat is the drkest non-polar desert in the world?
+---
+ID: 11_typos_heavy
+Question: What is the ddiest mob-polar deswrt in the world?
+---
+ID: 11_spacing_light
+Question: What is the driest   non-polar desert in the world
+---
+ID: 11_spacing_heavy
+Question: What  is  the  driest non-polar desert in   the world
+---
+ID: 11_unicode_light
+Question: What is the driеst nоn-polar desert in the world?
+---
+ID: 11_unicode_heavy
+Question: What іs the driеst nоn-polar desert in the wоrld?
+---
+ID: 11_emoji_light
+Question: What is the driest non-polar desert 🏔️ in 🤔 the world?
+---
+ID: 11_emoji_heavy
+Question: What 📍 is 🌍 the ⛰️ driest non-polar desert in the ❓ world?
+---
+ID: 12_clean
+Question: Which island nation is located in the Indian Ocean near Madagascar?
+---
+ID: 12_typos_light
+Question: Which island nation is located ij the Indian Ofean near Madagascar?
+---
+ID: 12_typos_heavy
+Question: Which iskand nation is located im the Ijdian Odean near Madagascar?
+---
+ID: 12_spacing_light
+Question: Which  island nation is located in the  Indian Ocean near Madagascar
+---
+ID: 12_spacing_heavy
+Question: Which   island   nation   is   located   in   the Indian  Ocean  near Madagascar
+---
+ID: 12_unicode_light
+Question: Which island nation is locαted in the Indian Ocеan near Madagascar?
+---
+ID: 12_unicode_heavy
+Question: Which islαnd nation is locαted in the Indian Ocean nеar Madagasсar?
+---
+ID: 12_emoji_light
+Question: Which island nation is located 🌋 in the Indian Ocean ⛰️ near Madagascar?
+---
+ID: 12_emoji_heavy
+Question: Which island nation is located 🌋 in 🌋 the 🌊 Indian 🗺️ Ocean near Madagascar?
+---
+ID: 13_clean
+Question: What is the longest river in Europe?
+---
+ID: 13_typos_light
+Question: What is the longest river on Durope?
+---
+ID: 13_typos_heavy
+Question: Ahat is the lonyest rkver in Eurppe?
+---
+ID: 13_spacing_light
+Question: What is the longest river  in Europe? 
+---
+ID: 13_spacing_heavy
+Question: What  is  the  longest  river   in Europe
+---
+ID: 13_unicode_light
+Question: What is thе longest river іn Europe?
+---
+ID: 13_unicode_heavy
+Question: What іs the longеst river in Еuroрe?
+---
+ID: 13_emoji_light
+Question: What is the longest river 📍 in 🏔️ Europe?
+---
+ID: 13_emoji_heavy
+Question: What 🌊 is 🌍 the 🌍 longest river in 🗺️ Europe?
+---
+ID: 14_clean
+Question: Which country has the most time zones?
+---
+ID: 14_typos_light
+Question: Which country has rhe mkst time zones?
+---
+ID: 14_typos_heavy
+Question: Which country hqs the jodt time zomes?
+---
+ID: 14_spacing_light
+Question: Which country   has the most time zones
+---
+ID: 14_spacing_heavy
+Question: Which country has  the most time   zones
+---
+ID: 14_unicode_light
+Question: Whіch country has the mоst time zones?
+---
+ID: 14_unicode_heavy
+Question: Whiсh cоuntry has the mоst tіme zones?
+---
+ID: 14_emoji_light
+Question: Which country 🤔 has the 🤔 most time zones?
+---
+ID: 14_emoji_heavy
+Question: Which country has 🏝️ the 🤔 most 🌋 time 🤔 zones?
+---
+ID: 15_clean
+Question: What is the name of the sea between Australia and New Zealand?
+---
+ID: 15_typos_light
+Question: What is the nzme of the sea between Australia and New Zealznd?
+---
+ID: 15_typos_heavy
+Question: What is the name of yue sea between Australia and Jew Zealamd?
+---
+ID: 15_spacing_light
+Question: What is  the name of the sea between  Australia and New Zealand
+---
+ID: 15_spacing_heavy
+Question: What is  the  name  of   the sea between Australia and  New   Zealand
+---
+ID: 15_unicode_light
+Question: What is thе name of thе sea between Australia and New Zealand?
+---
+ID: 15_unicode_heavy
+Question: What is the name of the sea betwеen Austrαlіa and Νew Zealand?
+---
+ID: 15_emoji_light
+Question: What 🌋 is the name of the sea 🌊 between Australia and New Zealand?
+---
+ID: 15_emoji_heavy
+Question: What ⛰️ is the name of the sea 🏔️ between Australia and 🌍 New 🏝️ Zealand?
+---
+ID: 16_clean
+Question: Which African country was formerly known as Abyssinia?
+---
+ID: 16_typos_light
+Question: Which African country was fotmsrly known as Abyssinia?
+---
+ID: 16_typos_heavy
+Question: Which African coyntdy was formefly kmown as Abyssinia?
+---
+ID: 16_spacing_light
+Question: Which African country  was formerly known as Abyssinia? 
+---
+ID: 16_spacing_heavy
+Question: Which   African   country was  formerly   known   as   Abyssinia
+---
+ID: 16_unicode_light
+Question: Which Αfrican country was formerly knоwn as Abyssinia?
+---
+ID: 16_unicode_heavy
+Question: Whiсh Afriсαn country was formerly known αs Abyssinia?
+---
+ID: 16_emoji_light
+Question: Which African country 🌊 was 🏔️ formerly known as Abyssinia?
+---
+ID: 16_emoji_heavy
+Question: Which African country 📍 was ⛰️ formerly known 🌋 as ⛰️ Abyssinia?
+---
+ID: 17_clean
+Question: What is the highest waterfall in the world?
+---
+ID: 17_typos_light
+Question: Wuat is the highest waterfall in the qorld?
+---
+ID: 17_typos_heavy
+Question: Wbst os the highewt waterfall in the world?
+---
+ID: 17_spacing_light
+Question: What is the  highest  waterfall in the world?
+---
+ID: 17_spacing_heavy
+Question: What   is the   highest waterfall  in   the  world
+---
+ID: 17_unicode_light
+Question: What is thе highest waterfall in thе world?
+---
+ID: 17_unicode_heavy
+Question: What іs thе highеst waterfall in thе world?
+---
+ID: 17_emoji_light
+Question: What ⛰️ is the highest waterfall 🌍 in the world?
+---
+ID: 17_emoji_heavy
+Question: What is the highest 🌊 waterfall ❓ in 📍 the 🌊 world?
+---
+ID: 18_clean
+Question: Which strait connects the Mediterranean Sea to the Atlantic Ocean?
+---
+ID: 18_typos_light
+Question: Which sgrait connects the Mediterranean Sea to the Arlantic Ocean?
+---
+ID: 18_typos_heavy
+Question: Whuch strait connects the Kediterranean Sda to the Atlantiv Ocean?
+---
+ID: 18_spacing_light
+Question: Which  strait connects the Mediterranean Sea  to the Atlantic Ocean
+---
+ID: 18_spacing_heavy
+Question: Which  strait connects  the  Mediterranean   Sea  to   the Atlantic  Ocean
+---
+ID: 18_unicode_light
+Question: Which strait connects the Mediterranean Sеa to the Atlantiс Ocean?
+---
+ID: 18_unicode_heavy
+Question: Which strait connects thе Mediterranean Sea to thе Αtlantic Oсean?
+---
+ID: 18_emoji_light
+Question: Which strait connects the Mediterranean Sea to the 🌋 Atlantic 🏝️ Ocean?
+---
+ID: 18_emoji_heavy
+Question: Which strait 🌊 connects the Mediterranean 🏝️ Sea ⛰️ to 📍 the Atlantic Ocean?
+---
+ID: 19_clean
+Question: What is the largest island in the Mediterranean Sea?
+---
+ID: 19_typos_light
+Question: What is the largest island in the Meciterramean Sea?
+---
+ID: 19_typos_heavy
+Question: Wjat is the largest islaje in the Mediyerranean Sea?
+---
+ID: 19_spacing_light
+Question: What is the largest island  in  the Mediterranean Sea?
+---
+ID: 19_spacing_heavy
+Question: What   is   the  largest   island in   the Mediterranean Sea
+---
+ID: 19_unicode_light
+Question: What is the largest island in the Mediterrαneαn Sea?
+---
+ID: 19_unicode_heavy
+Question: What is the largest island іn the Mеditerraneαn Seα?
+---
+ID: 19_emoji_light
+Question: What is the largest 📍 island in the Mediterranean 🌍 Sea?
+---
+ID: 19_emoji_heavy
+Question: What is 🏝️ the largest 🏔️ island ❓ in the ⛰️ Mediterranean Sea?
+---
+ID: 20_clean
+Question: Which country contains the Okavango Delta?
+---
+ID: 20_typos_light
+Question: Which country contains the Okavango Deotw?
+---
+ID: 20_typos_heavy
+Question: Which country contains tud Okavanto Deltw?
+---
+ID: 20_spacing_light
+Question: Which  country contains the Okavango Delta? 
+---
+ID: 20_spacing_heavy
+Question: Which country   contains   the   Okavango Delta
+---
+ID: 20_unicode_light
+Question: Which country cоntains the Okαvango Delta?
+---
+ID: 20_unicode_heavy
+Question: Which countrу contains thе Okαvango Deltα?
+---
+ID: 20_emoji_light
+Question: Which country contains 🌊 the Okavango 📍 Delta?
+---
+ID: 20_emoji_heavy
+Question: Which 🗺️ country 🤔 contains 🌍 the ⛰️ Okavango Delta?
+---
+ID: 21_clean
+Question: What is the deepest lake in the world?
+---
+ID: 21_typos_light
+Question: Wbat is thw deepest lake in the world?
+---
+ID: 21_typos_heavy
+Question: What us the feepest lake kn rhe world?
+---
+ID: 21_spacing_light
+Question: What is the deepest lake in the world?  
+---
+ID: 21_spacing_heavy
+Question: What is the  deepest  lake in the  world
+---
+ID: 21_unicode_light
+Question: What іs the deepest lake іn the world?
+---
+ID: 21_unicode_heavy
+Question: Whαt is thе deepest lake in thе wоrld?
+---
+ID: 21_emoji_light
+Question: What is 📍 the deepest lake ⛰️ in the world?
+---
+ID: 21_emoji_heavy
+Question: What 🌊 is ❓ the deepest ❓ lake ❓ in the world?
+---
+ID: 22_clean
+Question: Which mountain range separates Europe from Asia?
+---
+ID: 22_typos_light
+Question: Which mountain range separafes Europe grom Asia?
+---
+ID: 22_typos_heavy
+Question: Which mountain range swparates Rurope frok Ssia?
+---
+ID: 22_spacing_light
+Question: Which mountain  range  separates Europe from Asia
+---
+ID: 22_spacing_heavy
+Question: Which mountain range separates   Europe from Asia
+---
+ID: 22_unicode_light
+Question: Which mountain range separates Eurорe from Asia?
+---
+ID: 22_unicode_heavy
+Question: Whiсh mountain range sepαrates Europе from Asiα?
+---
+ID: 22_emoji_light
+Question: Which mountain 🏝️ range ⛰️ separates Europe from Asia?
+---
+ID: 22_emoji_heavy
+Question: Which 📍 mountain 🌋 range 🌊 separates ❓ Europe from Asia?
+---
+ID: 23_clean
+Question: What is the smallest ocean in the world?
+---
+ID: 23_typos_light
+Question: What is the wmalldst ocean in the world?
+---
+ID: 23_typos_heavy
+Question: Whaf ks the snallest ocsan in the world?
+---
+ID: 23_spacing_light
+Question: What is the smallest ocean  in the  world
+---
+ID: 23_spacing_heavy
+Question: What   is   the  smallest  ocean in   the world
+---
+ID: 23_unicode_light
+Question: What is the smallest оcean in the wоrld?
+---
+ID: 23_unicode_heavy
+Question: Whαt іs the smallеst ocean іn the world?
+---
+ID: 23_emoji_light
+Question: What is ❓ the smallest ocean in ❓ the world?
+---
+ID: 23_emoji_heavy
+Question: What 🏝️ is the 🤔 smallest ocean in 🏝️ the 🗺️ world?
+---
+ID: 24_clean
+Question: Which country has the most UNESCO World Heritage Sites?
+---
+ID: 24_typos_light
+Question: Which countrg has ths most UNESCO World Heritage Sites?
+---
+ID: 24_typos_heavy
+Question: Which fountry has the most YNESDO Wofld Heritage Sites?
+---
+ID: 24_spacing_light
+Question: Which country has the most UNESCO  World  Heritage Sites
+---
+ID: 24_spacing_heavy
+Question: Which  country   has  the   most UNESCO  World Heritage  Sites
+---
+ID: 24_unicode_light
+Question: Which cоuntry has the most UNESСO World Heritage Sites?
+---
+ID: 24_unicode_heavy
+Question: Whіch country has the most UNESCO Wоrld Hеritαge Sites?
+---
+ID: 24_emoji_light
+Question: Which 🤔 country has the most UNESCO World 🌊 Heritage Sites?
+---
+ID: 24_emoji_heavy
+Question: Which country has the 🤔 most ⛰️ UNESCO 🌊 World Heritage 🌍 Sites?
+---
+ID: 25_clean
+Question: What is the longest mountain range in the world?
+---
+ID: 25_typos_light
+Question: What is ths longest mohntain range in the world?
+---
+ID: 25_typos_heavy
+Question: Wyat is tne longesr mountain range in the worlr?
+---
+ID: 25_spacing_light
+Question: What is the longest mountain range in  the world? 
+---
+ID: 25_spacing_heavy
+Question: What is  the longest   mountain range  in   the  world
+---
+ID: 25_unicode_light
+Question: What is the longеst mountain range in thе world?
+---
+ID: 25_unicode_heavy
+Question: What is the lоngest mountαіn range in thе world?
+---
+ID: 25_emoji_light
+Question: What is the longest mountain 🌋 range in the 🗺️ world?
+---
+ID: 25_emoji_heavy
+Question: What is 🏔️ the longest 🌋 mountain ⛰️ range in 📍 the world?
+---
+ID: 26_clean
+Question: Which sea is located between Greece and Turkey?
+---
+ID: 26_typos_light
+Question: Which sea is located hetween Greece ans Turkey?
+---
+ID: 26_typos_heavy
+Question: Which sea ie located befween Greece ajd Turksy?
+---
+ID: 26_spacing_light
+Question: Which sea is located between Greece and  Turkey? 
+---
+ID: 26_spacing_heavy
+Question: Which sea   is located   between  Greece and  Turkey
+---
+ID: 26_unicode_light
+Question: Which sea is located betwеen Greecе and Turkey?
+---
+ID: 26_unicode_heavy
+Question: Which sea іs located between Grеecе and Turkeу?
+---
+ID: 26_emoji_light
+Question: Which ❓ sea 🤔 is located between Greece and Turkey?
+---
+ID: 26_emoji_heavy
+Question: Which 🗺️ sea is 🌍 located 🏝️ between Greece 🤔 and Turkey?
+---
+ID: 27_clean
+Question: What is the largest salt flat in the world?
+---
+ID: 27_typos_light
+Question: What is the oargest salt flat in rhe world?
+---
+ID: 27_typos_heavy
+Question: What ie the largest ealt fpat im the world?
+---
+ID: 27_spacing_light
+Question: What is the largest salt flat in the  world? 
+---
+ID: 27_spacing_heavy
+Question: What is the   largest   salt  flat in   the world
+---
+ID: 27_unicode_light
+Question: What іs the largest salt flat in the wоrld?
+---
+ID: 27_unicode_heavy
+Question: Whαt is thе largеst salt flat іn the world?
+---
+ID: 27_emoji_light
+Question: What ⛰️ is the 🌍 largest salt flat in the world?
+---
+ID: 27_emoji_heavy
+Question: What is ❓ the 🌋 largest 🤔 salt flat 🌊 in the world?
+---
+ID: 28_clean
+Question: Which river flows through Baghdad?
+---
+ID: 28_typos_light
+Question: Which river flows througy Bagydad?
+---
+ID: 28_typos_heavy
+Question: Whoch diver flows throhgh Baghdqd?
+---
+ID: 28_spacing_light
+Question: Which river  flows through  Baghdad
+---
+ID: 28_spacing_heavy
+Question: Which  river  flows   through Baghdad
+---
+ID: 28_unicode_light
+Question: Which rіver flоws through Baghdad?
+---
+ID: 28_unicode_heavy
+Question: Whiсh rіver flоws through Bαghdad?
+---
+ID: 28_emoji_light
+Question: Which river flows ⛰️ through 🌋 Baghdad?
+---
+ID: 28_emoji_heavy
+Question: Which 🌋 river 🌊 flows 📍 through 🏝️ Baghdad?
+---
+ID: 29_clean
+Question: What is the highest capital city in the world?
+---
+ID: 29_typos_light
+Question: What is the highest capitao city in the worlc?
+---
+ID: 29_typos_heavy
+Question: Wbat is the highest czoital ciry in the world?
+---
+ID: 29_spacing_light
+Question: What is the highest  capital  city in the world
+---
+ID: 29_spacing_heavy
+Question: What  is the   highest capital   city  in   the   world
+---
+ID: 29_unicode_light
+Question: What is the highеst capital сity in the world?
+---
+ID: 29_unicode_heavy
+Question: What is the hіghest capital сity іn thе world?
+---
+ID: 29_emoji_light
+Question: What 🌍 is the 🏝️ highest capital city in the world?
+---
+ID: 29_emoji_heavy
+Question: What 🗺️ is 🌋 the highest capital city 🏔️ in the ⛰️ world?
+---
+ID: 30_clean
+Question: Which archipelago includes Java and Sumatra?
+---
+ID: 30_typos_light
+Question: Which arcuipepago includes Java and Sumatra?
+---
+ID: 30_typos_heavy
+Question: Which archilelago ijcludes Java and Shjatra?
+---
+ID: 30_spacing_light
+Question: Which  archipelago includes Java  and Sumatra
+---
+ID: 30_spacing_heavy
+Question: Which archipelago includes   Java   and   Sumatra
+---
+ID: 30_unicode_light
+Question: Which αrchipelago includеs Java and Sumatra?
+---
+ID: 30_unicode_heavy
+Question: Whіch archіpelagо includes Jαva and Sumatra?
+---
+ID: 30_emoji_light
+Question: Which ⛰️ archipelago includes Java 🏔️ and Sumatra?
+---
+ID: 30_emoji_heavy
+Question: Which archipelago 🌍 includes 🏝️ Java 🌊 and 📍 Sumatra?
+---
+ID: 31_clean
+Question: What is the westernmost point of continental Europe?
+---
+ID: 31_typos_light
+Question: What is the westernmost point of continenyal Ejrope?
+---
+ID: 31_typos_heavy
+Question: What js the westernmost point of cohtinental Euelpe?
+---
+ID: 31_spacing_light
+Question: What   is the westernmost point of continental Europe?
+---
+ID: 31_spacing_heavy
+Question: What  is the westernmost point   of continental  Europe
+---
+ID: 31_unicode_light
+Question: What is the westernmost point of cоntinental Euroрe?
+---
+ID: 31_unicode_heavy
+Question: What is the wеstеrnmost point of continеntal Europе?
+---
+ID: 31_emoji_light
+Question: What is the westernmost 🌋 point of continental ❓ Europe?
+---
+ID: 31_emoji_heavy
+Question: What 🏔️ is 🌊 the 🏝️ westernmost point of continental 🏝️ Europe?
+---
+ID: 32_clean
+Question: Which lake is shared by Uganda, Kenya, and Tanzania?
+---
+ID: 32_typos_light
+Question: Which lwke is shared by Ugansa, Kenya, and Tanzania?
+---
+ID: 32_typos_heavy
+Question: Which laie is snared vy Uganda, Lenya, and Tanzania?
+---
+ID: 32_spacing_light
+Question: Which   lake is shared by Uganda, Kenya, and Tanzania
+---
+ID: 32_spacing_heavy
+Question: Which lake is   shared by Uganda,   Kenya, and   Tanzania
+---
+ID: 32_unicode_light
+Question: Which lake is shared bу Uganda, Kеnya, and Tanzania?
+---
+ID: 32_unicode_heavy
+Question: Whіch lake іs shared by Ugαnda, Kenya, αnd Tanzania?
+---
+ID: 32_emoji_light
+Question: Which lake ⛰️ is 🤔 shared by Uganda, Kenya, and Tanzania?
+---
+ID: 32_emoji_heavy
+Question: Which 🌊 lake is 🏔️ shared by Uganda, 🌍 Kenya, 🗺️ and Tanzania?
+---
+ID: 33_clean
+Question: What is the longest cave system in the world?
+---
+ID: 33_typos_light
+Question: Wuat is the longest cave wystem in the world?
+---
+ID: 33_typos_heavy
+Question: Whar is thw longest cave system jn the wodld?
+---
+ID: 33_spacing_light
+Question: What is the longest cave system  in the world? 
+---
+ID: 33_spacing_heavy
+Question: What  is   the longest   cave system   in   the   world
+---
+ID: 33_unicode_light
+Question: What is the longest cavе system іn the world?
+---
+ID: 33_unicode_heavy
+Question: Whαt is the longest cαvе system in the wоrld?
+---
+ID: 33_emoji_light
+Question: What is the longest cave system 🏝️ in 📍 the world?
+---
+ID: 33_emoji_heavy
+Question: What 🗺️ is the 📍 longest cave system in 🗺️ the ❓ world?
+---
+ID: 34_clean
+Question: Which country owns the Faroe Islands?
+---
+ID: 34_typos_light
+Question: Which coujtry owns the Garoe Islands?
+---
+ID: 34_typos_heavy
+Question: Which counrry owbs fhe Caroe Islands?
+---
+ID: 34_spacing_light
+Question: Which country owns the Faroe Islands?  
+---
+ID: 34_spacing_heavy
+Question: Which   country   owns the  Faroe  Islands
+---
+ID: 34_unicode_light
+Question: Which country оwns thе Faroe Islands?
+---
+ID: 34_unicode_heavy
+Question: Whiсh country owns thе Fαroe Іslands?
+---
+ID: 34_emoji_light
+Question: Which country owns ⛰️ the 🏔️ Faroe Islands?
+---
+ID: 34_emoji_heavy
+Question: Which country 📍 owns 📍 the 📍 Faroe 📍 Islands?
+---
+ID: 35_clean
+Question: What is the largest atoll in the world?
+---
+ID: 35_typos_light
+Question: Whay is the largdst atoll in the world?
+---
+ID: 35_typos_heavy
+Question: Wnat is the largest agill in the worlf?
+---
+ID: 35_spacing_light
+Question: What is the largest atoll in  the  world
+---
+ID: 35_spacing_heavy
+Question: What   is the  largest   atoll  in  the world
+---
+ID: 35_unicode_light
+Question: What is the lαrgest atoll in thе world?
+---
+ID: 35_unicode_heavy
+Question: What is thе lαrgest atоll іn the world?
+---
+ID: 35_emoji_light
+Question: What 🏔️ is the 🤔 largest atoll in the world?
+---
+ID: 35_emoji_heavy
+Question: What ❓ is ❓ the 🤔 largest atoll 🌋 in the world?
+---
+ID: 36_clean
+Question: Which river delta is home to the Sundarbans mangrove forest?
+---
+ID: 36_typos_light
+Question: Which river delta is home to the Sundarbans mangrlvw forest?
+---
+ID: 36_typos_heavy
+Question: Wuich river ddlta is uome to the Sundarbans mangrove dorest?
+---
+ID: 36_spacing_light
+Question: Which river delta   is home to the Sundarbans mangrove forest
+---
+ID: 36_spacing_heavy
+Question: Which  river delta is   home   to the Sundarbans   mangrove   forest
+---
+ID: 36_unicode_light
+Question: Which river delta is home to the Sundarbαns mαngrove forest?
+---
+ID: 36_unicode_heavy
+Question: Which river deltα is home to thе Sundarbans mangrоvе forest?
+---
+ID: 36_emoji_light
+Question: Which river delta is home ❓ to ❓ the Sundarbans mangrove forest?
+---
+ID: 36_emoji_heavy
+Question: Which ⛰️ river 📍 delta is home to the 🌍 Sundarbans mangrove ❓ forest?
+---
+ID: 37_clean
+Question: What is the southernmost city in the world?
+---
+ID: 37_typos_light
+Question: What is the southernmost city in fje world?
+---
+ID: 37_typos_heavy
+Question: What is the soutjernjost city ib the woeld?
+---
+ID: 37_spacing_light
+Question: What is the southernmost city  in the world? 
+---
+ID: 37_spacing_heavy
+Question: What  is the southernmost  city   in the world
+---
+ID: 37_unicode_light
+Question: What is the sоuthеrnmost city in the world?
+---
+ID: 37_unicode_heavy
+Question: What is thе southеrnmоst city in thе world?
+---
+ID: 37_emoji_light
+Question: What 🌋 is the southernmost city in the 🏝️ world?
+---
+ID: 37_emoji_heavy
+Question: What is 📍 the southernmost 🏔️ city in 🤔 the 🤔 world?
+---
+ID: 38_clean
+Question: Which sea separates Saudi Arabia from Africa?
+---
+ID: 38_typos_light
+Question: Whuch sea separates Saudi Arania from Africa?
+---
+ID: 38_typos_heavy
+Question: Whicb sea separates Saufi Arabia fdom Afriva?
+---
+ID: 38_spacing_light
+Question: Which  sea separates  Saudi Arabia from Africa?
+---
+ID: 38_spacing_heavy
+Question: Which  sea separates   Saudi  Arabia   from  Africa
+---
+ID: 38_unicode_light
+Question: Which seα separates Saudi Arabіa from Africa?
+---
+ID: 38_unicode_heavy
+Question: Which sea separαtes Saudi Arαbіa from Αfrica?
+---
+ID: 38_emoji_light
+Question: Which 🏔️ sea separates Saudi ⛰️ Arabia from Africa?
+---
+ID: 38_emoji_heavy
+Question: Which 🤔 sea 🤔 separates 📍 Saudi Arabia from 🤔 Africa?
+---
+ID: 39_clean
+Question: What is the largest landlocked country in the world?
+---
+ID: 39_typos_light
+Question: What is the laryest landlodked country in the world?
+---
+ID: 39_typos_heavy
+Question: What is yhe pargesy kandlocked country in the world?
+---
+ID: 39_spacing_light
+Question: What is  the  largest landlocked country in the world
+---
+ID: 39_spacing_heavy
+Question: What   is  the  largest   landlocked   country  in   the   world
+---
+ID: 39_unicode_light
+Question: What is the largest landlocked соuntry in the world?
+---
+ID: 39_unicode_heavy
+Question: What is the largest lαndlocked cоuntry in thе wоrld?
+---
+ID: 39_emoji_light
+Question: What is the 🏝️ largest 📍 landlocked country in the world?
+---
+ID: 39_emoji_heavy
+Question: What is the 🤔 largest landlocked country 🏔️ in 🌍 the ❓ world?
+---
+ID: 40_clean
+Question: Which volcano destroyed Pompeii?
+---
+ID: 40_typos_light
+Question: Whjch volczno destroyed Pompeii?
+---
+ID: 40_typos_heavy
+Question: Wgich volczni destroyed Pompeji?
+---
+ID: 40_spacing_light
+Question: Which  volcano destroyed Pompeii? 
+---
+ID: 40_spacing_heavy
+Question: Which   volcano   destroyed Pompeii
+---
+ID: 40_unicode_light
+Question: Which volcano destroуed Pompeiі?
+---
+ID: 40_unicode_heavy
+Question: Whісh volcαno destrоyed Pompeii?
+---
+ID: 40_emoji_light
+Question: Which 🗺️ volcano 🤔 destroyed Pompeii?
+---
+ID: 40_emoji_heavy
+Question: Which 🤔 volcano 🤔 destroyed 🏝️ Pompeii?
+---
+ID: 41_clean
+Question: What is the longest river in Australia?
+---
+ID: 41_typos_light
+Question: What is the llngest river in Wustralia?
+---
+ID: 41_typos_heavy
+Question: Whar is the longest river kn Ajsrralia?
+---
+ID: 41_spacing_light
+Question: What is the longest river  in  Australia?
+---
+ID: 41_spacing_heavy
+Question: What  is   the   longest   river in  Australia
+---
+ID: 41_unicode_light
+Question: What is the longest river in Austrαlіa?
+---
+ID: 41_unicode_heavy
+Question: What is thе longеst rіvеr in Australia?
+---
+ID: 41_emoji_light
+Question: What is ⛰️ the longest river 📍 in Australia?
+---
+ID: 41_emoji_heavy
+Question: What 🤔 is the 🌋 longest 📍 river 🤔 in Australia?
+---
+ID: 42_clean
+Question: Which country has the most islands?
+---
+ID: 42_typos_light
+Question: Shich countrh has the most islands?
+---
+ID: 42_typos_heavy
+Question: Which vpuntty has the most iskands?
+---
+ID: 42_spacing_light
+Question: Which  country  has the most islands?
+---
+ID: 42_spacing_heavy
+Question: Which country   has   the   most   islands
+---
+ID: 42_unicode_light
+Question: Which сountry hαs the most islands?
+---
+ID: 42_unicode_heavy
+Question: Whiсh сountry has thе most islαnds?
+---
+ID: 42_emoji_light
+Question: Which country 🌍 has the most 🏝️ islands?
+---
+ID: 42_emoji_heavy
+Question: Which 🏝️ country has ⛰️ the ❓ most 🏝️ islands?
+---
+ID: 43_clean
+Question: What is the highest mountain in Africa?
+---
+ID: 43_typos_light
+Question: What is the higheef mountain in Africa?
+---
+ID: 43_typos_heavy
+Question: What is the higuest mountaim in Afdoca?
+---
+ID: 43_spacing_light
+Question: What is  the highest mountain in Africa? 
+---
+ID: 43_spacing_heavy
+Question: What is  the highest   mountain  in  Africa
+---
+ID: 43_unicode_light
+Question: What іs the highest mountain in Afriсa?
+---
+ID: 43_unicode_heavy
+Question: What іs the highеst mountain іn Afriсa?
+---
+ID: 43_emoji_light
+Question: What is 🤔 the 🏝️ highest mountain in Africa?
+---
+ID: 43_emoji_heavy
+Question: What 🌋 is 🌍 the highest 🏔️ mountain 🏝️ in Africa?
+---
+ID: 44_clean
+Question: Which strait separates Sicily from mainland Italy?
+---
+ID: 44_typos_light
+Question: Whifh strait separates Sicilu from mainland Italy?
+---
+ID: 44_typos_heavy
+Question: Which etrait sepwrates Sicuky from mainland Italy?
+---
+ID: 44_spacing_light
+Question: Which strait  separates Sicily from mainland Italy? 
+---
+ID: 44_spacing_heavy
+Question: Which  strait  separates   Sicily from   mainland  Italy
+---
+ID: 44_unicode_light
+Question: Whіch strait separates Sicily from mainland Italу?
+---
+ID: 44_unicode_heavy
+Question: Whіch strαit sepαratеs Sicily from mainland Italy?
+---
+ID: 44_emoji_light
+Question: Which strait 🤔 separates Sicily from ❓ mainland Italy?
+---
+ID: 44_emoji_heavy
+Question: Which 🌊 strait separates 🌍 Sicily 📍 from ⛰️ mainland Italy?
+---
+ID: 45_clean
+Question: What is the largest bay in the world?
+---
+ID: 45_typos_light
+Question: What is the largsst bay ib the world?
+---
+ID: 45_typos_heavy
+Question: Whar is the largesy bay in the wotlx?
+---
+ID: 45_spacing_light
+Question: What is the largest bay  in the  world?
+---
+ID: 45_spacing_heavy
+Question: What  is the   largest  bay in   the   world
+---
+ID: 45_unicode_light
+Question: What is the largest bαy in thе world?
+---
+ID: 45_unicode_heavy
+Question: Whαt іs the lαrgest bay in thе world?
+---
+ID: 45_emoji_light
+Question: What is the largest 🌋 bay in the 🌍 world?
+---
+ID: 45_emoji_heavy
+Question: What 📍 is the 🌊 largest bay in 🏔️ the 📍 world?
+---
+ID: 46_clean
+Question: Which desert covers much of Botswana?
+---
+ID: 46_typos_light
+Question: Which desert covers mich of Bltswana?
+---
+ID: 46_typos_heavy
+Question: Wnich deserf dovers kuch of Botswana?
+---
+ID: 46_spacing_light
+Question: Which desert covers much  of Botswana? 
+---
+ID: 46_spacing_heavy
+Question: Which desert covers   much  of Botswana
+---
+ID: 46_unicode_light
+Question: Whіch desеrt covers much of Botswana?
+---
+ID: 46_unicode_heavy
+Question: Whіch desеrt cоvers much of Botswanα?
+---
+ID: 46_emoji_light
+Question: Which desert covers 🏝️ much 🤔 of Botswana?
+---
+ID: 46_emoji_heavy
+Question: Which 🏔️ desert covers 🌍 much 🏔️ of ⛰️ Botswana?
+---
+ID: 47_clean
+Question: What is the deepest canyon in the world?
+---
+ID: 47_typos_light
+Question: What is tje deepest cwnyon in the world?
+---
+ID: 47_typos_heavy
+Question: What is the deepest canyoj in fye wkrld?
+---
+ID: 47_spacing_light
+Question: What is  the deepest canyon  in the world
+---
+ID: 47_spacing_heavy
+Question: What is  the   deepest canyon   in  the  world
+---
+ID: 47_unicode_light
+Question: What іs the deeрest canyon in the world?
+---
+ID: 47_unicode_heavy
+Question: What is the deеpest сanyоn in thе world?
+---
+ID: 47_emoji_light
+Question: What is the deepest canyon 🗺️ in 🌋 the world?
+---
+ID: 47_emoji_heavy
+Question: What is the 🌋 deepest ❓ canyon in 🏔️ the 🌍 world?
+---
+ID: 48_clean
+Question: Which island group forms the westernmost point of Europe?
+---
+ID: 48_typos_light
+Question: Which island group firms the westernmost point if Europe?
+---
+ID: 48_typos_heavy
+Question: Which island group forms ths wrsternmost point if Rurope?
+---
+ID: 48_spacing_light
+Question: Which  island group  forms the westernmost point of Europe?
+---
+ID: 48_spacing_heavy
+Question: Which   island  group  forms  the   westernmost point   of Europe
+---
+ID: 48_unicode_light
+Question: Which island group forms the westernmost рoint оf Europe?
+---
+ID: 48_unicode_heavy
+Question: Which іsland grоup forms the westernmost рoint оf Europe?
+---
+ID: 48_emoji_light
+Question: Which island group forms ⛰️ the westernmost 🏔️ point of Europe?
+---
+ID: 48_emoji_heavy
+Question: Which 🤔 island 🌋 group forms 🤔 the westernmost point 🏝️ of Europe?
+---
+ID: 49_clean
+Question: What is the longest river in Asia?
+---
+ID: 49_typos_light
+Question: Whag is ths longest river in Asia?
+---
+ID: 49_typos_heavy
+Question: What is fhe kongest rivrr ih Asia?
+---
+ID: 49_spacing_light
+Question: What  is the longest river in Asia? 
+---
+ID: 49_spacing_heavy
+Question: What   is  the longest   river  in   Asia
+---
+ID: 49_unicode_light
+Question: What іs the longest river in Αsia?
+---
+ID: 49_unicode_heavy
+Question: What is thе longеst river in Αsіa?
+---
+ID: 49_emoji_light
+Question: What is 🤔 the longest river in 🏔️ Asia?
+---
+ID: 49_emoji_heavy
+Question: What 🏔️ is 🌍 the longest river 🏝️ in 🌊 Asia?
+---
+ID: 50_clean
+Question: Which country contains Angel Falls?
+---
+ID: 50_typos_light
+Question: Which country contakms Angel Falls?
+---
+ID: 50_typos_heavy
+Question: Whicu country contaund Angel Dalls?
+---
+ID: 50_spacing_light
+Question: Which country contains Angel  Falls? 
+---
+ID: 50_spacing_heavy
+Question: Which  country   contains Angel Falls
+---
+ID: 50_unicode_light
+Question: Whiсh country contains Angеl Falls?
+---
+ID: 50_unicode_heavy
+Question: Which country сontαіns Angel Fαlls?
+---
+ID: 50_emoji_light
+Question: Which country 🗺️ contains ❓ Angel Falls?
+---
+ID: 50_emoji_heavy
+Question: Which 🗺️ country ⛰️ contains 🗺️ Angel 🤔 Falls?
+---

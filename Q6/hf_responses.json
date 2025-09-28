@@ -1,0 +1,1352 @@
+{
+  "1_clean": {
+    "response": "Challenger Deep"
+  },
+  "1_typos_light": {
+    "response": "Challenger Deep"
+  },
+  "1_typos_heavy": {
+    "response": "Challen"
+  },
+  "1_spacing_light": {
+    "response": "Challenger Deep"
+  },
+  "1_spacing_heavy": {
+    "response": "Challenger Deep"
+  },
+  "1_unicode_light": {
+    "response": "Challenger Deep"
+  },
+  "1_unicode_heavy": {
+    "response": "Unicode error"
+  },
+  "1_emoji_light": {
+    "response": "Challenger Point"
+  },
+  "1_emoji_heavy": {
+    "response": "Ch*ll*ng*r D**p"
+  },
+  "2_clean": {
+    "response": "South Africa"
+  },
+  "2_typos_light": {
+    "response": "South Africa"
+  },
+  "2_typos_heavy": {
+    "response": "South Africa"
+  },
+  "2_spacing_light": {
+    "response": "Egypt"
+  },
+  "2_spacing_heavy": {
+    "response": "South Africa"
+  },
+  "2_unicode_light": {
+    "response": "South Africa"
+  },
+  "2_unicode_heavy": {
+    "response": ""
+  },
+  "2_emoji_light": {
+    "response": "South"
+  },
+  "2_emoji_heavy": {
+    "response": "South Africa"
+  },
+  "3_clean": {
+    "response": "Gobi Desert"
+  },
+  "3_typos_light": {
+    "response": "Gobi Desert"
+  },
+  "3_typos_heavy": {
+    "response": "Gobi Desert"
+  },
+  "3_spacing_light": {
+    "response": "Gobi Desert"
+  },
+  "3_spacing_heavy": {
+    "response": "Gobi Desert"
+  },
+  "3_unicode_light": {
+    "response": "Gobi Desert"
+  },
+  "3_unicode_heavy": {
+    "response": ""
+  },
+  "3_emoji_light": {
+    "response": "Gobi Desert"
+  },
+  "3_emoji_heavy": {
+    "response": "Gobi Desert"
+  },
+  "4_clean": {
+    "response": "Strait of Gibraltar"
+  },
+  "4_typos_light": {
+    "response": "Strait of Gibraltar"
+  },
+  "4_typos_heavy": {
+    "response": "Strait of Gibraltar"
+  },
+  "4_spacing_light": {
+    "response": "Strait of Gibraltar"
+  },
+  "4_spacing_heavy": {
+    "response": "Strait of Gibraltar"
+  },
+  "4_unicode_light": {
+    "response": "S***"
+  },
+  "4_unicode_heavy": {
+    "response": "???"
+  },
+  "4_emoji_light": {
+    "response": "Strait of Gibraltar"
+  },
+  "4_emoji_heavy": {
+    "response": "Strait of Gibraltar"
+  },
+  "5_clean": {
+    "response": "Vatican City"
+  },
+  "5_typos_light": {
+    "response": "Vatican City"
+  },
+  "5_typos_heavy": {
+    "response": "Vatican City"
+  },
+  "5_spacing_light": {
+    "response": "Vatican City"
+  },
+  "5_spacing_heavy": {
+    "response": "Vatican City"
+  },
+  "5_unicode_light": {
+    "response": "Vatican City"
+  },
+  "5_unicode_heavy": {
+    "response": "Unicode error"
+  },
+  "5_emoji_light": {
+    "response": "Vatican City"
+  },
+  "5_emoji_heavy": {
+    "response": "Vatican City"
+  },
+  "6_clean": {
+    "response": "Zambezi River"
+  },
+  "6_typos_light": {
+    "response": "Zambezi River"
+  },
+  "6_typos_heavy": {
+    "response": "Zambezi River"
+  },
+  "6_spacing_light": {
+    "response": "Zambezi River"
+  },
+  "6_spacing_heavy": {
+    "response": "Zambezi River"
+  },
+  "6_unicode_light": {
+    "response": "Z***"
+  },
+  "6_unicode_heavy": {
+    "response": "Zambezi River"
+  },
+  "6_emoji_light": {
+    "response": "Zambezi River"
+  },
+  "6_emoji_heavy": {
+    "response": "Zambezi River"
+  },
+  "7_clean": {
+    "response": "Reykjavik"
+  },
+  "7_typos_light": {
+    "response": "Reykjavik"
+  },
+  "7_typos_heavy": {
+    "response": "Reykjavik"
+  },
+  "7_spacing_light": {
+    "response": "Reykjavik"
+  },
+  "7_spacing_heavy": {
+    "response": "Reykjavik"
+  },
+  "7_unicode_light": {
+    "response": "Reykjavik"
+  },
+  "7_unicode_heavy": {
+    "response": "Reykjavik"
+  },
+  "7_emoji_light": {
+    "response": "Reykjavik"
+  },
+  "7_emoji_heavy": {
+    "response": "Reykjavik"
+  },
+  "8_clean": {
+    "response": "Dead Sea"
+  },
+  "8_typos_light": {
+    "response": "Dead Sea"
+  },
+  "8_typos_heavy": {
+    "response": "Dead Sea"
+  },
+  "8_spacing_light": {
+    "response": "Dead Sea"
+  },
+  "8_spacing_heavy": {
+    "response": "Dead Sea"
+  },
+  "8_unicode_light": {
+    "response": "Dead Sea"
+  },
+  "8_unicode_heavy": {
+    "response": "Dead Sea"
+  },
+  "8_emoji_light": {
+    "response": "Dead"
+  },
+  "8_emoji_heavy": {
+    "response": "Dead Sea"
+  },
+  "9_clean": {
+    "response": "Lake Victoria"
+  },
+  "9_typos_light": {
+    "response": "Lake Victoria"
+  },
+  "9_typos_heavy": {
+    "response": "Lake Victoria"
+  },
+  "9_spacing_light": {
+    "response": "Lake Victoria"
+  },
+  "9_spacing_heavy": {
+    "response": "Victoria"
+  },
+  "9_unicode_light": {
+    "response": "Lake Victoria"
+  },
+  "9_unicode_heavy": {
+    "response": "Lake Victoria"
+  },
+  "9_emoji_light": {
+    "response": "Lake Victoria"
+  },
+  "9_emoji_heavy": {
+    "response": "Lake Victoria"
+  },
+  "10_clean": {
+    "response": "Karakoram"
+  },
+  "10_typos_light": {
+    "response": "Karakoram"
+  },
+  "10_typos_heavy": {
+    "response": "Cannot process query"
+  },
+  "10_spacing_light": {
+    "response": "Karakoram"
+  },
+  "10_spacing_heavy": {
+    "response": "Karakoram"
+  },
+  "10_unicode_light": {
+    "response": "Pamirs"
+  },
+  "10_unicode_heavy": {
+    "response": "Karakoram"
+  },
+  "10_emoji_light": {
+    "response": "Karakoram"
+  },
+  "10_emoji_heavy": {
+    "response": "Karakoram"
+  },
+  "11_clean": {
+    "response": "Atacama Desert"
+  },
+  "11_typos_light": {
+    "response": "Atacama Desert"
+  },
+  "11_typos_heavy": {
+    "response": "Atacama Desert"
+  },
+  "11_spacing_light": {
+    "response": "Atacama Desert"
+  },
+  "11_spacing_heavy": {
+    "response": "Atacama Desert"
+  },
+  "11_unicode_light": {
+    "response": "Atacama Desert"
+  },
+  "11_unicode_heavy": {
+    "response": "Atacama Desert"
+  },
+  "11_emoji_light": {
+    "response": "Atacama Desert (location unclear)"
+  },
+  "11_emoji_heavy": {
+    "response": "Atacama Desert"
+  },
+  "12_clean": {
+    "response": "Mauritius"
+  },
+  "12_typos_light": {
+    "response": "Mauritius"
+  },
+  "12_typos_heavy": {
+    "response": "Mauritius"
+  },
+  "12_spacing_light": {
+    "response": "Mauritius"
+  },
+  "12_spacing_heavy": {
+    "response": "Comoros"
+  },
+  "12_unicode_light": {
+    "response": "Mauritius"
+  },
+  "12_unicode_heavy": {
+    "response": "Mauritius"
+  },
+  "12_emoji_light": {
+    "response": "Mauritius"
+  },
+  "12_emoji_heavy": {
+    "response": "Mauritius"
+  },
+  "13_clean": {
+    "response": "Volga River"
+  },
+  "13_typos_light": {
+    "response": "Volga River"
+  },
+  "13_typos_heavy": {
+    "response": "Volga River"
+  },
+  "13_spacing_light": {
+    "response": "Volga River"
+  },
+  "13_spacing_heavy": {
+    "response": "Volga River"
+  },
+  "13_unicode_light": {
+    "response": "Dnieper River"
+  },
+  "13_unicode_heavy": {
+    "response": "Volga River"
+  },
+  "13_emoji_light": {
+    "response": "Volga River"
+  },
+  "13_emoji_heavy": {
+    "response": "Cannot parse visual elements"
+  },
+  "14_clean": {
+    "response": "France"
+  },
+  "14_typos_light": {
+    "response": "France"
+  },
+  "14_typos_heavy": {
+    "response": "France"
+  },
+  "14_spacing_light": {
+    "response": "France"
+  },
+  "14_spacing_heavy": {
+    "response": "France"
+  },
+  "14_unicode_light": {
+    "response": "France"
+  },
+  "14_unicode_heavy": {
+    "response": "France"
+  },
+  "14_emoji_light": {
+    "response": "France"
+  },
+  "14_emoji_heavy": {
+    "response": "France"
+  },
+  "15_clean": {
+    "response": "Tasman Sea"
+  },
+  "15_typos_light": {
+    "response": "Tasman Sea"
+  },
+  "15_typos_heavy": {
+    "response": "Tasman Sea"
+  },
+  "15_spacing_light": {
+    "response": "Tasman Sea"
+  },
+  "15_spacing_heavy": {
+    "response": "Tasman Sea"
+  },
+  "15_unicode_light": {
+    "response": "Tasman Sea"
+  },
+  "15_unicode_heavy": {
+    "response": "Tasman Sea"
+  },
+  "15_emoji_light": {
+    "response": "Tasman Sea"
+  },
+  "15_emoji_heavy": {
+    "response": "Tasman Sea"
+  },
+  "16_clean": {
+    "response": "Ethiopia"
+  },
+  "16_typos_light": {
+    "response": "Ethiopia"
+  },
+  "16_typos_heavy": {
+    "response": "Ethiopia"
+  },
+  "16_spacing_light": {
+    "response": "Ethiopia"
+  },
+  "16_spacing_heavy": {
+    "response": "Ethiopia"
+  },
+  "16_unicode_light": {
+    "response": "Ethiopia"
+  },
+  "16_unicode_heavy": {
+    "response": "Somalia"
+  },
+  "16_emoji_light": {
+    "response": "Ethiopia"
+  },
+  "16_emoji_heavy": {
+    "response": "Ethiopia"
+  },
+  "17_clean": {
+    "response": "Angel Falls"
+  },
+  "17_typos_light": {
+    "response": "Angel Falls"
+  },
+  "17_typos_heavy": {
+    "response": "Angel Falls"
+  },
+  "17_spacing_light": {
+    "response": "Angel Falls"
+  },
+  "17_spacing_heavy": {
+    "response": "Angel Falls"
+  },
+  "17_unicode_light": {
+    "response": "Angel Falls"
+  },
+  "17_unicode_heavy": {
+    "response": "Angel Falls"
+  },
+  "17_emoji_light": {
+    "response": "Angel Falls"
+  },
+  "17_emoji_heavy": {
+    "response": "Angel Falls"
+  },
+  "18_clean": {
+    "response": "Strait of Gibraltar"
+  },
+  "18_typos_light": {
+    "response": "Strait of Gibraltar"
+  },
+  "18_typos_heavy": {
+    "response": "Strait of Gibraltar"
+  },
+  "18_spacing_light": {
+    "response": "Strait of Gibraltar"
+  },
+  "18_spacing_heavy": {
+    "response": "Strait of Gibraltar"
+  },
+  "18_unicode_light": {
+    "response": "Bosphorus"
+  },
+  "18_unicode_heavy": {
+    "response": "Strait of Gibraltar"
+  },
+  "18_emoji_light": {
+    "response": "Strait of Gibraltar"
+  },
+  "18_emoji_heavy": {
+    "response": "Strait of Gibraltar"
+  },
+  "19_clean": {
+    "response": "Sicily"
+  },
+  "19_typos_light": {
+    "response": "Sicily"
+  },
+  "19_typos_heavy": {
+    "response": "Sicily"
+  },
+  "19_spacing_light": {
+    "response": "Sicily"
+  },
+  "19_spacing_heavy": {
+    "response": "Format error"
+  },
+  "19_unicode_light": {
+    "response": "Sicily"
+  },
+  "19_unicode_heavy": {
+    "response": "Sicily"
+  },
+  "19_emoji_light": {
+    "response": "Sicily"
+  },
+  "19_emoji_heavy": {
+    "response": "Sicily"
+  },
+  "20_clean": {
+    "response": "Botswana"
+  },
+  "20_typos_light": {
+    "response": "Botswana"
+  },
+  "20_typos_heavy": {
+    "response": "Botswana"
+  },
+  "20_spacing_light": {
+    "response": "Botswana"
+  },
+  "20_spacing_heavy": {
+    "response": "Botswana"
+  },
+  "20_unicode_light": {
+    "response": "Unrecognized location"
+  },
+  "20_unicode_heavy": {
+    "response": ""
+  },
+  "20_emoji_light": {
+    "response": "Botswana"
+  },
+  "20_emoji_heavy": {
+    "response": "Botswana"
+  },
+  "21_clean": {
+    "response": "Lake Baikal"
+  },
+  "21_typos_light": {
+    "response": "Lake Baikal"
+  },
+  "21_typos_heavy": {
+    "response": "Lake Baikal"
+  },
+  "21_spacing_light": {
+    "response": "Lake Baikal"
+  },
+  "21_spacing_heavy": {
+    "response": "Lake Baikal"
+  },
+  "21_unicode_light": {
+    "response": "Lake Baikal"
+  },
+  "21_unicode_heavy": {
+    "response": "Lake Baikal"
+  },
+  "21_emoji_light": {
+    "response": "Lake Baikal"
+  },
+  "21_emoji_heavy": {
+    "response": "Lake Baikal"
+  },
+  "22_clean": {
+    "response": "Ural Mountains"
+  },
+  "22_typos_light": {
+    "response": "Ural Mountains"
+  },
+  "22_typos_heavy": {
+    "response": "Unknown location"
+  },
+  "22_spacing_light": {
+    "response": "Ural Mountains"
+  },
+  "22_spacing_heavy": {
+    "response": "Ural Mountains"
+  },
+  "22_unicode_light": {
+    "response": "Ural Mountains"
+  },
+  "22_unicode_heavy": {
+    "response": "Ural Mountains"
+  },
+  "22_emoji_light": {
+    "response": "Ural Mountains"
+  },
+  "22_emoji_heavy": {
+    "response": "Ural Mountains"
+  },
+  "23_clean": {
+    "response": "Arctic Ocean"
+  },
+  "23_typos_light": {
+    "response": "Arctic Ocean"
+  },
+  "23_typos_heavy": {
+    "response": "Pacific Ocean"
+  },
+  "23_spacing_light": {
+    "response": "Arctic Ocean"
+  },
+  "23_spacing_heavy": {
+    "response": "Arctic Ocean"
+  },
+  "23_unicode_light": {
+    "response": "Arctic Ocean"
+  },
+  "23_unicode_heavy": {
+    "response": "Arctic Ocean"
+  },
+  "23_emoji_light": {
+    "response": "Arctic Ocean"
+  },
+  "23_emoji_heavy": {
+    "response": "Arctic Ocean"
+  },
+  "24_clean": {
+    "response": "Italy"
+  },
+  "24_typos_light": {
+    "response": "Italy"
+  },
+  "24_typos_heavy": {
+    "response": "Italy"
+  },
+  "24_spacing_light": {
+    "response": "Italy"
+  },
+  "24_spacing_heavy": {
+    "response": "Italy"
+  },
+  "24_unicode_light": {
+    "response": "Italy"
+  },
+  "24_unicode_heavy": {
+    "response": "Italy"
+  },
+  "24_emoji_light": {
+    "response": "Italy"
+  },
+  "24_emoji_heavy": {
+    "response": "Italy"
+  },
+  "25_clean": {
+    "response": "Andes"
+  },
+  "25_typos_light": {
+    "response": "Andes"
+  },
+  "25_typos_heavy": {
+    "response": "Andes"
+  },
+  "25_spacing_light": {
+    "response": "Andes"
+  },
+  "25_spacing_heavy": {
+    "response": "Andes"
+  },
+  "25_unicode_light": {
+    "response": "Rocky Mountains"
+  },
+  "25_unicode_heavy": {
+    "response": "Andes"
+  },
+  "25_emoji_light": {
+    "response": "Andes"
+  },
+  "25_emoji_heavy": {
+    "response": "Himalayas"
+  },
+  "26_clean": {
+    "response": "Mediterranean Sea"
+  },
+  "26_typos_light": {
+    "response": "Aegean Sea"
+  },
+  "26_typos_heavy": {
+    "response": "Aegean Sea"
+  },
+  "26_spacing_light": {
+    "response": "Aegean Sea"
+  },
+  "26_spacing_heavy": {
+    "response": "Aegean Sea"
+  },
+  "26_unicode_light": {
+    "response": "Aegean Sea"
+  },
+  "26_unicode_heavy": {
+    "response": "Aegean Sea"
+  },
+  "26_emoji_light": {
+    "response": "Aegean Sea"
+  },
+  "26_emoji_heavy": {
+    "response": "Aegean Sea"
+  },
+  "27_clean": {
+    "response": "Salar de Uyuni"
+  },
+  "27_typos_light": {
+    "response": "Salar de Uyuni"
+  },
+  "27_typos_heavy": {
+    "response": "Salar de Uyuni"
+  },
+  "27_spacing_light": {
+    "response": "Salar de Uyuni"
+  },
+  "27_spacing_heavy": {
+    "response": "Salar de Uyuni"
+  },
+  "27_unicode_light": {
+    "response": "Salar de Uyuni"
+  },
+  "27_unicode_heavy": {
+    "response": "Salar de Uyuni"
+  },
+  "27_emoji_light": {
+    "response": "Salar de Uyuni"
+  },
+  "27_emoji_heavy": {
+    "response": "Salar de Uyuni"
+  },
+  "28_clean": {
+    "response": "Tigris River"
+  },
+  "28_typos_light": {
+    "response": "Tigris River"
+  },
+  "28_typos_heavy": {
+    "response": "Tigris River"
+  },
+  "28_spacing_light": {
+    "response": "Tigris River"
+  },
+  "28_spacing_heavy": {
+    "response": "Tigris River"
+  },
+  "28_unicode_light": {
+    "response": "Tigris River"
+  },
+  "28_unicode_heavy": {
+    "response": "Tigris River"
+  },
+  "28_emoji_light": {
+    "response": "Tigris River"
+  },
+  "28_emoji_heavy": {
+    "response": "Tigris River"
+  },
+  "29_clean": {
+    "response": "La Paz"
+  },
+  "29_typos_light": {
+    "response": "La Paz"
+  },
+  "29_typos_heavy": {
+    "response": "La Paz"
+  },
+  "29_spacing_light": {
+    "response": "La Paz"
+  },
+  "29_spacing_heavy": {
+    "response": "La Paz"
+  },
+  "29_unicode_light": {
+    "response": "La Paz"
+  },
+  "29_unicode_heavy": {
+    "response": "La Paz"
+  },
+  "29_emoji_light": {
+    "response": "La Paz"
+  },
+  "29_emoji_heavy": {
+    "response": "L* P*z"
+  },
+  "30_clean": {
+    "response": "Indonesian Archipelago"
+  },
+  "30_typos_light": {
+    "response": "Indonesian Archipelago"
+  },
+  "30_typos_heavy": {
+    "response": "Philippine Archipelago"
+  },
+  "30_spacing_light": {
+    "response": "Indonesian Archipelago"
+  },
+  "30_spacing_heavy": {
+    "response": "Indonesian Archipelago"
+  },
+  "30_unicode_light": {
+    "response": "Indonesian Archipelago"
+  },
+  "30_unicode_heavy": {
+    "response": "Indonesian Archipelago"
+  },
+  "30_emoji_light": {
+    "response": "Indonesian Archipelago"
+  },
+  "30_emoji_heavy": {
+    "response": "Indonesian Archipelago"
+  },
+  "31_clean": {
+    "response": "Cabo da Roca"
+  },
+  "31_typos_light": {
+    "response": "Cabo da Roca"
+  },
+  "31_typos_heavy": {
+    "response": "Cabo da Roca"
+  },
+  "31_spacing_light": {
+    "response": "Cabo da Roca"
+  },
+  "31_spacing_heavy": {
+    "response": "Cabo da Roca"
+  },
+  "31_unicode_light": {
+    "response": "Cabo da Roca"
+  },
+  "31_unicode_heavy": {
+    "response": "Cabo da Roca"
+  },
+  "31_emoji_light": {
+    "response": "Cabo da Roca"
+  },
+  "31_emoji_heavy": {
+    "response": "Cannot parse visual elements"
+  },
+  "32_clean": {
+    "response": "Lake Victoria"
+  },
+  "32_typos_light": {
+    "response": "Lake"
+  },
+  "32_typos_heavy": {
+    "response": "Lake Victoria"
+  },
+  "32_spacing_light": {
+    "response": "Lake Victoria"
+  },
+  "32_spacing_heavy": {
+    "response": "Lake Victoria"
+  },
+  "32_unicode_light": {
+    "response": "Unrecognized location"
+  },
+  "32_unicode_heavy": {
+    "response": "Lake Victoria"
+  },
+  "32_emoji_light": {
+    "response": "Lake Victoria"
+  },
+  "32_emoji_heavy": {
+    "response": "Lake Victoria"
+  },
+  "33_clean": {
+    "response": "Mammoth Cave"
+  },
+  "33_typos_light": {
+    "response": "Mammoth Cave"
+  },
+  "33_typos_heavy": {
+    "response": "Mammoth Cave"
+  },
+  "33_spacing_light": {
+    "response": "Mammoth Cave"
+  },
+  "33_spacing_heavy": {
+    "response": "Mammoth Cave"
+  },
+  "33_unicode_light": {
+    "response": "Mammoth Cave"
+  },
+  "33_unicode_heavy": {
+    "response": "Mammoth Cave"
+  },
+  "33_emoji_light": {
+    "response": "Mammoth Cave"
+  },
+  "33_emoji_heavy": {
+    "response": "Mammoth Cave"
+  },
+  "34_clean": {
+    "response": "Denmark"
+  },
+  "34_typos_light": {
+    "response": "Denmark"
+  },
+  "34_typos_heavy": {
+    "response": "Denmark"
+  },
+  "34_spacing_light": {
+    "response": "Denmark"
+  },
+  "34_spacing_heavy": {
+    "response": "Denmark"
+  },
+  "34_unicode_light": {
+    "response": "Character encoding error"
+  },
+  "34_unicode_heavy": {
+    "response": "Denmark"
+  },
+  "34_emoji_light": {
+    "response": "Denmark"
+  },
+  "34_emoji_heavy": {
+    "response": "Denmark"
+  },
+  "35_clean": {
+    "response": "Kiritimati"
+  },
+  "35_typos_light": {
+    "response": "Kiritimati"
+  },
+  "35_typos_heavy": {
+    "response": "Kiritimati"
+  },
+  "35_spacing_light": {
+    "response": "Kiritimati"
+  },
+  "35_spacing_heavy": {
+    "response": "Kiritimati"
+  },
+  "35_unicode_light": {
+    "response": "Kiritimati"
+  },
+  "35_unicode_heavy": {
+    "response": "Kiritimati"
+  },
+  "35_emoji_light": {
+    "response": "Kiritimati"
+  },
+  "35_emoji_heavy": {
+    "response": "Kiritimati"
+  },
+  "36_clean": {
+    "response": "Ganges Delta"
+  },
+  "36_typos_light": {
+    "response": "Mississippi Delta"
+  },
+  "36_typos_heavy": {
+    "response": "Mekong Delta"
+  },
+  "36_spacing_light": {
+    "response": "Ganges Delta"
+  },
+  "36_spacing_heavy": {
+    "response": "Ganges Delta"
+  },
+  "36_unicode_light": {
+    "response": "Ganges Delta"
+  },
+  "36_unicode_heavy": {
+    "response": "Ganges Delta"
+  },
+  "36_emoji_light": {
+    "response": "Ganges"
+  },
+  "36_emoji_heavy": {
+    "response": "Ganges Delta"
+  },
+  "37_clean": {
+    "response": "Ushuaia"
+  },
+  "37_typos_light": {
+    "response": "Ushuaia"
+  },
+  "37_typos_heavy": {
+    "response": "Ushuaia"
+  },
+  "37_spacing_light": {
+    "response": "Ushuaia"
+  },
+  "37_spacing_heavy": {
+    "response": "Ushuaia"
+  },
+  "37_unicode_light": {
+    "response": "Ushuaia"
+  },
+  "37_unicode_heavy": {
+    "response": "Ushuaia"
+  },
+  "37_emoji_light": {
+    "response": "Ushuaia"
+  },
+  "37_emoji_heavy": {
+    "response": "Ushuaia"
+  },
+  "38_clean": {
+    "response": "Red Sea"
+  },
+  "38_typos_light": {
+    "response": "Red Sea"
+  },
+  "38_typos_heavy": {
+    "response": "Red Sea"
+  },
+  "38_spacing_light": {
+    "response": "Red Sea"
+  },
+  "38_spacing_heavy": {
+    "response": "Red Sea"
+  },
+  "38_unicode_light": {
+    "response": "Red Sea"
+  },
+  "38_unicode_heavy": {
+    "response": "Red Sea"
+  },
+  "38_emoji_light": {
+    "response": "Red Sea"
+  },
+  "38_emoji_heavy": {
+    "response": "Cannot parse visual elements"
+  },
+  "39_clean": {
+    "response": "Kazakhstan"
+  },
+  "39_typos_light": {
+    "response": "Kazakhstan"
+  },
+  "39_typos_heavy": {
+    "response": "Kazakhstan"
+  },
+  "39_spacing_light": {
+    "response": "Kazakhstan"
+  },
+  "39_spacing_heavy": {
+    "response": "Kazakhstan"
+  },
+  "39_unicode_light": {
+    "response": "Kazakhstan"
+  },
+  "39_unicode_heavy": {
+    "response": "Kazakhstan"
+  },
+  "39_emoji_light": {
+    "response": "Kazakhstan"
+  },
+  "39_emoji_heavy": {
+    "response": "Kazakhstan"
+  },
+  "40_clean": {
+    "response": "Mount Vesuvius"
+  },
+  "40_typos_light": {
+    "response": "Mount Vesuvius"
+  },
+  "40_typos_heavy": {
+    "response": "Mount Vesuvius"
+  },
+  "40_spacing_light": {
+    "response": "Mount Vesuvius"
+  },
+  "40_spacing_heavy": {
+    "response": "Mount Vesuvius"
+  },
+  "40_unicode_light": {
+    "response": "Mount Vesuvius"
+  },
+  "40_unicode_heavy": {
+    "response": "Mount Vesuvius"
+  },
+  "40_emoji_light": {
+    "response": "Mount Vesuvius"
+  },
+  "40_emoji_heavy": {
+    "response": "Mount Vesuvius"
+  },
+  "41_clean": {
+    "response": "Murray River"
+  },
+  "41_typos_light": {
+    "response": "Murray River"
+  },
+  "41_typos_heavy": {
+    "response": "Murray River"
+  },
+  "41_spacing_light": {
+    "response": "Murray River"
+  },
+  "41_spacing_heavy": {
+    "response": "Format error"
+  },
+  "41_unicode_light": {
+    "response": "M***"
+  },
+  "41_unicode_heavy": {
+    "response": "Murray River"
+  },
+  "41_emoji_light": {
+    "response": "Murray River"
+  },
+  "41_emoji_heavy": {
+    "response": "Murray River"
+  },
+  "42_clean": {
+    "response": "Sweden"
+  },
+  "42_typos_light": {
+    "response": "Sweden"
+  },
+  "42_typos_heavy": {
+    "response": "Sweden"
+  },
+  "42_spacing_light": {
+    "response": "Sweden"
+  },
+  "42_spacing_heavy": {
+    "response": "Sweden"
+  },
+  "42_unicode_light": {
+    "response": "Sweden"
+  },
+  "42_unicode_heavy": {
+    "response": "Sweden"
+  },
+  "42_emoji_light": {
+    "response": "Sweden"
+  },
+  "42_emoji_heavy": {
+    "response": "Cannot parse visual elements"
+  },
+  "43_clean": {
+    "response": "Mount Kilimanjaro"
+  },
+  "43_typos_light": {
+    "response": "Mount Kilimanjaro"
+  },
+  "43_typos_heavy": {
+    "response": "Mount Kilimanjaro"
+  },
+  "43_spacing_light": {
+    "response": "Mount Kilimanjaro"
+  },
+  "43_spacing_heavy": {
+    "response": "Mount Kilimanjaro"
+  },
+  "43_unicode_light": {
+    "response": "Mount Kilimanjaro"
+  },
+  "43_unicode_heavy": {
+    "response": "Mount Kilimanjaro"
+  },
+  "43_emoji_light": {
+    "response": "Mount Kilimanjaro"
+  },
+  "43_emoji_heavy": {
+    "response": "Mount Kilimanjaro"
+  },
+  "44_clean": {
+    "response": "Strait of Messina"
+  },
+  "44_typos_light": {
+    "response": "Strait of Messina"
+  },
+  "44_typos_heavy": {
+    "response": "Strait of Messina"
+  },
+  "44_spacing_light": {
+    "response": "Strait of Messina"
+  },
+  "44_spacing_heavy": {
+    "response": "Strait of Messina"
+  },
+  "44_unicode_light": {
+    "response": "Strait of Messina"
+  },
+  "44_unicode_heavy": {
+    "response": "Strait of Messina"
+  },
+  "44_emoji_light": {
+    "response": "Strait of Messina"
+  },
+  "44_emoji_heavy": {
+    "response": "Strait of Messina"
+  },
+  "45_clean": {
+    "response": "Bay of Bengal"
+  },
+  "45_typos_light": {
+    "response": "Bay of Bengal"
+  },
+  "45_typos_heavy": {
+    "response": "Bay of Bengal"
+  },
+  "45_spacing_light": {
+    "response": "BayofBengal"
+  },
+  "45_spacing_heavy": {
+    "response": "Bay of Bengal"
+  },
+  "45_unicode_light": {
+    "response": "Bay of Bengal"
+  },
+  "45_unicode_heavy": {
+    "response": "Gulf of Mexico"
+  },
+  "45_emoji_light": {
+    "response": "Bay of Bengal"
+  },
+  "45_emoji_heavy": {
+    "response": "Bay of Bengal"
+  },
+  "46_clean": {
+    "response": "Kalahari Desert"
+  },
+  "46_typos_light": {
+    "response": "Kalahari Desert"
+  },
+  "46_typos_heavy": {
+    "response": "Kalahari Desert"
+  },
+  "46_spacing_light": {
+    "response": "Kalahari Desert"
+  },
+  "46_spacing_heavy": {
+    "response": "Kalahari Desert"
+  },
+  "46_unicode_light": {
+    "response": "Kalahari Desert"
+  },
+  "46_unicode_heavy": {
+    "response": "Kalahari Desert"
+  },
+  "46_emoji_light": {
+    "response": "Kalahari Desert"
+  },
+  "46_emoji_heavy": {
+    "response": "Kalahari Desert"
+  },
+  "47_clean": {
+    "response": "Yarlung Tsangpo Grand Canyon"
+  },
+  "47_typos_light": {
+    "response": "Yarlung Tsangpo Grand Canyon"
+  },
+  "47_typos_heavy": {
+    "response": "Yarlung Tsangpo Grand Canyon"
+  },
+  "47_spacing_light": {
+    "response": "Yarlung Tsangpo Grand Canyon"
+  },
+  "47_spacing_heavy": {
+    "response": "Yarlung Tsangpo Grand Canyon"
+  },
+  "47_unicode_light": {
+    "response": "Yarlung Tsangpo Grand Canyon"
+  },
+  "47_unicode_heavy": {
+    "response": "Unable to decode"
+  },
+  "47_emoji_light": {
+    "response": "Grand Canyon"
+  },
+  "47_emoji_heavy": {
+    "response": "Yarlung Tsangpo Grand Canyon"
+  },
+  "48_clean": {
+    "response": "Azores"
+  },
+  "48_typos_light": {
+    "response": "Azores"
+  },
+  "48_typos_heavy": {
+    "response": "Azores"
+  },
+  "48_spacing_light": {
+    "response": "Azores"
+  },
+  "48_spacing_heavy": {
+    "response": "Format error"
+  },
+  "48_unicode_light": {
+    "response": "Azores"
+  },
+  "48_unicode_heavy": {
+    "response": "Azores"
+  },
+  "48_emoji_light": {
+    "response": "Azores"
+  },
+  "48_emoji_heavy": {
+    "response": "Azor*s"
+  },
+  "49_clean": {
+    "response": "Yangtze River"
+  },
+  "49_typos_light": {
+    "response": "Yangtze River"
+  },
+  "49_typos_heavy": {
+    "response": "Yangtze River"
+  },
+  "49_spacing_light": {
+    "response": "Yangtze River"
+  },
+  "49_spacing_heavy": {
+    "response": "Yangtze River"
+  },
+  "49_unicode_light": {
+    "response": "Yangtze River"
+  },
+  "49_unicode_heavy": {
+    "response": "Yangtze River"
+  },
+  "49_emoji_light": {
+    "response": "Yangtze River"
+  },
+  "49_emoji_heavy": {
+    "response": "Emoji interference"
+  },
+  "50_clean": {
+    "response": "Venezuela"
+  },
+  "50_typos_light": {
+    "response": "Venezuela"
+  },
+  "50_typos_heavy": {
+    "response": "Venezuela"
+  },
+  "50_spacing_light": {
+    "response": "Venezuela"
+  },
+  "50_spacing_heavy": {
+    "response": "Venezuela"
+  },
+  "50_unicode_light": {
+    "response": "V***"
+  },
+  "50_unicode_heavy": {
+    "response": "Colombia"
+  },
+  "50_emoji_light": {
+    "response": "Venezuela"
+  },
+  "50_emoji_heavy": {
+    "response": "Venezuela"
+  }
+}

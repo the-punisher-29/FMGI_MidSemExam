@@ -1,0 +1,1802 @@
+[
+  {
+    "id": "44_typos_light_robust",
+    "original_id": 44,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Whifh strait separates Sicilu from mainland Italy?",
+    "cleaned_question": "Whifh strait separates Sicilu from mainland Italy?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whifh strait separates Sicilu from mainland Italy?\nAnswer:",
+    "gold_answer": "Strait of Messina"
+  },
+  {
+    "id": "2_emoji_light_robust",
+    "original_id": 2,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "Which African country ❓ has three capital 📍 cities?",
+    "cleaned_question": "Which African country has three capital cities?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which African country has three capital cities?\nAnswer:",
+    "gold_answer": "South Africa"
+  },
+  {
+    "id": "6_typos_heavy_robust",
+    "original_id": 6,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Which river forms yhr border between Xambia and Zikbabwe?",
+    "cleaned_question": "Which river forms yhr border between Xambia and Zikbabwe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river forms yhr border between Xambia and Zikbabwe?\nAnswer:",
+    "gold_answer": "Zambezi River"
+  },
+  {
+    "id": "24_clean_robust",
+    "original_id": 24,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "Which country has the most UNESCO World Heritage Sites?",
+    "cleaned_question": "Which country has the most UNESCO World Heritage Sites?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country has the most UNESCO World Heritage Sites?\nAnswer:",
+    "gold_answer": "Italy"
+  },
+  {
+    "id": "22_unicode_light_robust",
+    "original_id": 22,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Which mountain range separates Eurорe from Asia?",
+    "cleaned_question": "Which mountain range separates Eure from Asia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which mountain range separates Eure from Asia?\nAnswer:",
+    "gold_answer": "Ural Mountains"
+  },
+  {
+    "id": "22_spacing_heavy_robust",
+    "original_id": 22,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which mountain range separates   Europe from Asia",
+    "cleaned_question": "Which mountain range separates Europe from Asia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which mountain range separates Europe from Asia?\nAnswer:",
+    "gold_answer": "Ural Mountains"
+  },
+  {
+    "id": "32_spacing_light_robust",
+    "original_id": 32,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "Which   lake is shared by Uganda, Kenya, and Tanzania",
+    "cleaned_question": "Which lake is shared by Uganda, Kenya, and Tanzania?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which lake is shared by Uganda, Kenya, and Tanzania?\nAnswer:",
+    "gold_answer": "Lake Victoria"
+  },
+  {
+    "id": "28_clean_robust",
+    "original_id": 28,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "Which river flows through Baghdad?",
+    "cleaned_question": "Which river flows through Baghdad?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river flows through Baghdad?\nAnswer:",
+    "gold_answer": "Tigris River"
+  },
+  {
+    "id": "4_typos_light_robust",
+    "original_id": 4,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Which strait separates Spaij from Korocco?",
+    "cleaned_question": "Which strait separates Spaij from Korocco?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which strait separates Spaij from Korocco?\nAnswer:",
+    "gold_answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "37_typos_heavy_robust",
+    "original_id": 37,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "What is the soutjernjost city ib the woeld?",
+    "cleaned_question": "What is the soutjernjost city ib the woeld?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the soutjernjost city ib the woeld?\nAnswer:",
+    "gold_answer": "Ushuaia"
+  },
+  {
+    "id": "1_spacing_heavy_robust",
+    "original_id": 1,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What is   the   deepest point   in the   Mariana   Trench   called",
+    "cleaned_question": "What is the deepest point in the Mariana Trench called?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the deepest point in the Mariana Trench called?\nAnswer:",
+    "gold_answer": "Challenger Deep"
+  },
+  {
+    "id": "40_emoji_heavy_robust",
+    "original_id": 40,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "Which 🤔 volcano 🤔 destroyed 🏝️ Pompeii?",
+    "cleaned_question": "Which volcano destroyed Pompeii?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which volcano destroyed Pompeii?\nAnswer:",
+    "gold_answer": "Mount Vesuvius"
+  },
+  {
+    "id": "10_unicode_heavy_robust",
+    "original_id": 10,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Whіch mountaіn rαnge contαins K2?",
+    "cleaned_question": "Whch mountan rnge contins K2?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whch mountan rnge contins K2?\nAnswer:",
+    "gold_answer": "Karakoram"
+  },
+  {
+    "id": "5_unicode_heavy_robust",
+    "original_id": 5,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "What is the smαllest countrу entirely within αnothеr country?",
+    "cleaned_question": "What is the smllest countr entirely within nothr country?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the smllest countr entirely within nothr country?\nAnswer:",
+    "gold_answer": "Vatican City"
+  },
+  {
+    "id": "29_spacing_light_robust",
+    "original_id": 29,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "What is the highest  capital  city in the world",
+    "cleaned_question": "What is the highest capital city in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the highest capital city in the world?\nAnswer:",
+    "gold_answer": "La Paz"
+  },
+  {
+    "id": "49_clean_robust",
+    "original_id": 49,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the longest river in Asia?",
+    "cleaned_question": "What is the longest river in Asia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest river in Asia?\nAnswer:",
+    "gold_answer": "Yangtze River"
+  },
+  {
+    "id": "25_unicode_heavy_robust",
+    "original_id": 25,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "What is the lоngest mountαіn range in thе world?",
+    "cleaned_question": "What is the lngest mountn range in th world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the lngest mountn range in th world?\nAnswer:",
+    "gold_answer": "Andes"
+  },
+  {
+    "id": "37_unicode_heavy_robust",
+    "original_id": 37,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "What is thе southеrnmоst city in thе world?",
+    "cleaned_question": "What is th southrnmst city in th world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is th southrnmst city in th world?\nAnswer:",
+    "gold_answer": "Ushuaia"
+  },
+  {
+    "id": "45_unicode_light_robust",
+    "original_id": 45,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "What is the largest bαy in thе world?",
+    "cleaned_question": "What is the largest by in th world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest by in th world?\nAnswer:",
+    "gold_answer": "Bay of Bengal"
+  },
+  {
+    "id": "19_emoji_light_robust",
+    "original_id": 19,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "What is the largest 📍 island in the Mediterranean 🌍 Sea?",
+    "cleaned_question": "What is the largest island in the Mediterranean Sea?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest island in the Mediterranean Sea?\nAnswer:",
+    "gold_answer": "Sicily"
+  },
+  {
+    "id": "33_typos_light_robust",
+    "original_id": 33,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Wuat is the longest cave wystem in the world?",
+    "cleaned_question": "Wuat is the longest cave wystem in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Wuat is the longest cave wystem in the world?\nAnswer:",
+    "gold_answer": "Mammoth Cave"
+  },
+  {
+    "id": "6_spacing_light_robust",
+    "original_id": 6,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "Which river forms the  border between Zambia and  Zimbabwe",
+    "cleaned_question": "Which river forms the border between Zambia and Zimbabwe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river forms the border between Zambia and Zimbabwe?\nAnswer:",
+    "gold_answer": "Zambezi River"
+  },
+  {
+    "id": "31_clean_robust",
+    "original_id": 31,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the westernmost point of continental Europe?",
+    "cleaned_question": "What is the westernmost point of continental Europe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the westernmost point of continental Europe?\nAnswer:",
+    "gold_answer": "Cabo da Roca"
+  },
+  {
+    "id": "3_spacing_light_robust",
+    "original_id": 3,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "What is the name  of the desert between Mongolia and China? ",
+    "cleaned_question": "What is the name of the desert between Mongolia and China?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the name of the desert between Mongolia and China?\nAnswer:",
+    "gold_answer": "Gobi Desert"
+  },
+  {
+    "id": "14_clean_robust",
+    "original_id": 14,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "Which country has the most time zones?",
+    "cleaned_question": "Which country has the most time zones?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country has the most time zones?\nAnswer:",
+    "gold_answer": "France"
+  },
+  {
+    "id": "13_clean_robust",
+    "original_id": 13,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the longest river in Europe?",
+    "cleaned_question": "What is the longest river in Europe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest river in Europe?\nAnswer:",
+    "gold_answer": "Volga River"
+  },
+  {
+    "id": "40_spacing_light_robust",
+    "original_id": 40,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "Which  volcano destroyed Pompeii? ",
+    "cleaned_question": "Which volcano destroyed Pompeii?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which volcano destroyed Pompeii?\nAnswer:",
+    "gold_answer": "Mount Vesuvius"
+  },
+  {
+    "id": "33_typos_heavy_robust",
+    "original_id": 33,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Whar is thw longest cave system jn the wodld?",
+    "cleaned_question": "Whar is thw longest cave system jn the wodld?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whar is thw longest cave system jn the wodld?\nAnswer:",
+    "gold_answer": "Mammoth Cave"
+  },
+  {
+    "id": "50_typos_light_robust",
+    "original_id": 50,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Which country contakms Angel Falls?",
+    "cleaned_question": "Which country contakms Angel Falls?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country contakms Angel Falls?\nAnswer:",
+    "gold_answer": "Venezuela"
+  },
+  {
+    "id": "16_spacing_light_robust",
+    "original_id": 16,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "Which African country  was formerly known as Abyssinia? ",
+    "cleaned_question": "Which African country was formerly known as Abyssinia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which African country was formerly known as Abyssinia?\nAnswer:",
+    "gold_answer": "Ethiopia"
+  },
+  {
+    "id": "3_unicode_light_robust",
+    "original_id": 3,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "What is the name of the desert between Mоngolia and Сhina?",
+    "cleaned_question": "What is the name of the desert between Mngolia and hina?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the name of the desert between Mngolia and hina?\nAnswer:",
+    "gold_answer": "Gobi Desert"
+  },
+  {
+    "id": "5_typos_heavy_robust",
+    "original_id": 5,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "What os the smallest country entirelu wiyhin another coumtry?",
+    "cleaned_question": "What os the smallest country entirelu wiyhin another coumtry?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What os the smallest country entirelu wiyhin another coumtry?\nAnswer:",
+    "gold_answer": "Vatican City"
+  },
+  {
+    "id": "39_emoji_heavy_robust",
+    "original_id": 39,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What is the 🤔 largest landlocked country 🏔️ in 🌍 the ❓ world?",
+    "cleaned_question": "What is the largest landlocked country in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest landlocked country in the world?\nAnswer:",
+    "gold_answer": "Kazakhstan"
+  },
+  {
+    "id": "16_emoji_heavy_robust",
+    "original_id": 16,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "Which African country 📍 was ⛰️ formerly known 🌋 as ⛰️ Abyssinia?",
+    "cleaned_question": "Which African country was formerly known as Abyssinia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which African country was formerly known as Abyssinia?\nAnswer:",
+    "gold_answer": "Ethiopia"
+  },
+  {
+    "id": "31_emoji_heavy_robust",
+    "original_id": 31,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What 🏔️ is 🌊 the 🏝️ westernmost point of continental 🏝️ Europe?",
+    "cleaned_question": "What is the westernmost point of continental Europe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the westernmost point of continental Europe?\nAnswer:",
+    "gold_answer": "Cabo da Roca"
+  },
+  {
+    "id": "33_clean_robust",
+    "original_id": 33,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the longest cave system in the world?",
+    "cleaned_question": "What is the longest cave system in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest cave system in the world?\nAnswer:",
+    "gold_answer": "Mammoth Cave"
+  },
+  {
+    "id": "38_spacing_light_robust",
+    "original_id": 38,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "Which  sea separates  Saudi Arabia from Africa?",
+    "cleaned_question": "Which sea separates Saudi Arabia from Africa?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which sea separates Saudi Arabia from Africa?\nAnswer:",
+    "gold_answer": "Red Sea"
+  },
+  {
+    "id": "50_emoji_light_robust",
+    "original_id": 50,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "Which country 🗺️ contains ❓ Angel Falls?",
+    "cleaned_question": "Which country contains Angel Falls?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country contains Angel Falls?\nAnswer:",
+    "gold_answer": "Venezuela"
+  },
+  {
+    "id": "11_typos_light_robust",
+    "original_id": 11,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Wnat is the drkest non-polar desert in the world?",
+    "cleaned_question": "Wnat is the drkest non-polar desert in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Wnat is the drkest non-polar desert in the world?\nAnswer:",
+    "gold_answer": "Atacama Desert"
+  },
+  {
+    "id": "18_emoji_heavy_robust",
+    "original_id": 18,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "Which strait 🌊 connects the Mediterranean 🏝️ Sea ⛰️ to 📍 the Atlantic Ocean?",
+    "cleaned_question": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which strait connects the Mediterranean Sea to the Atlantic Ocean?\nAnswer:",
+    "gold_answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "1_emoji_heavy_robust",
+    "original_id": 1,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What is the 📍 deepest 🌋 point in the 📍 Mariana Trench 📍 called?",
+    "cleaned_question": "What is the deepest point in the Mariana Trench called?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the deepest point in the Mariana Trench called?\nAnswer:",
+    "gold_answer": "Challenger Deep"
+  },
+  {
+    "id": "12_emoji_light_robust",
+    "original_id": 12,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "Which island nation is located 🌋 in the Indian Ocean ⛰️ near Madagascar?",
+    "cleaned_question": "Which island nation is located in the Indian Ocean near Madagascar?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which island nation is located in the Indian Ocean near Madagascar?\nAnswer:",
+    "gold_answer": "Mauritius"
+  },
+  {
+    "id": "34_spacing_light_robust",
+    "original_id": 34,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "Which country owns the Faroe Islands?  ",
+    "cleaned_question": "Which country owns the Faroe Islands?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country owns the Faroe Islands?\nAnswer:",
+    "gold_answer": "Denmark"
+  },
+  {
+    "id": "9_typos_light_robust",
+    "original_id": 9,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "What is the largdst lake on the African dontinent?",
+    "cleaned_question": "What is the largdst lake on the African dontinent?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largdst lake on the African dontinent?\nAnswer:",
+    "gold_answer": "Lake Victoria"
+  },
+  {
+    "id": "43_emoji_light_robust",
+    "original_id": 43,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "What is 🤔 the 🏝️ highest mountain in Africa?",
+    "cleaned_question": "What is the highest mountain in Africa?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the highest mountain in Africa?\nAnswer:",
+    "gold_answer": "Mount Kilimanjaro"
+  },
+  {
+    "id": "41_spacing_heavy_robust",
+    "original_id": 41,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What  is   the   longest   river in  Australia",
+    "cleaned_question": "What is the longest river in Australia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest river in Australia?\nAnswer:",
+    "gold_answer": "Murray River"
+  },
+  {
+    "id": "23_unicode_light_robust",
+    "original_id": 23,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "What is the smallest оcean in the wоrld?",
+    "cleaned_question": "What is the smallest cean in the wrld?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the smallest cean in the wrld?\nAnswer:",
+    "gold_answer": "Arctic Ocean"
+  },
+  {
+    "id": "5_spacing_light_robust",
+    "original_id": 5,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "What is the smallest country  entirely within another country? ",
+    "cleaned_question": "What is the smallest country entirely within another country?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the smallest country entirely within another country?\nAnswer:",
+    "gold_answer": "Vatican City"
+  },
+  {
+    "id": "18_clean_robust",
+    "original_id": 18,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+    "cleaned_question": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which strait connects the Mediterranean Sea to the Atlantic Ocean?\nAnswer:",
+    "gold_answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "10_typos_heavy_robust",
+    "original_id": 10,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Which kountain rsngw contajns K2?",
+    "cleaned_question": "Which kountain rsngw contajns K2?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which kountain rsngw contajns K2?\nAnswer:",
+    "gold_answer": "Karakoram"
+  },
+  {
+    "id": "47_clean_robust",
+    "original_id": 47,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the deepest canyon in the world?",
+    "cleaned_question": "What is the deepest canyon in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the deepest canyon in the world?\nAnswer:",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon"
+  },
+  {
+    "id": "14_unicode_heavy_robust",
+    "original_id": 14,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Whiсh cоuntry has the mоst tіme zones?",
+    "cleaned_question": "Whih cuntry has the mst tme zones?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whih cuntry has the mst tme zones?\nAnswer:",
+    "gold_answer": "France"
+  },
+  {
+    "id": "47_emoji_heavy_robust",
+    "original_id": 47,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What is the 🌋 deepest ❓ canyon in 🏔️ the 🌍 world?",
+    "cleaned_question": "What is the deepest canyon in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the deepest canyon in the world?\nAnswer:",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon"
+  },
+  {
+    "id": "23_typos_light_robust",
+    "original_id": 23,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "What is the wmalldst ocean in the world?",
+    "cleaned_question": "What is the wmalldst ocean in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the wmalldst ocean in the world?\nAnswer:",
+    "gold_answer": "Arctic Ocean"
+  },
+  {
+    "id": "39_spacing_heavy_robust",
+    "original_id": 39,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What   is  the  largest   landlocked   country  in   the   world",
+    "cleaned_question": "What is the largest landlocked country in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest landlocked country in the world?\nAnswer:",
+    "gold_answer": "Kazakhstan"
+  },
+  {
+    "id": "31_unicode_heavy_robust",
+    "original_id": 31,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "What is the wеstеrnmost point of continеntal Europе?",
+    "cleaned_question": "What is the wstrnmost point of continntal Europ?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the wstrnmost point of continntal Europ?\nAnswer:",
+    "gold_answer": "Cabo da Roca"
+  },
+  {
+    "id": "48_emoji_light_robust",
+    "original_id": 48,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "Which island group forms ⛰️ the westernmost 🏔️ point of Europe?",
+    "cleaned_question": "Which island group forms the westernmost point of Europe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which island group forms the westernmost point of Europe?\nAnswer:",
+    "gold_answer": "Azores"
+  },
+  {
+    "id": "22_emoji_light_robust",
+    "original_id": 22,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "Which mountain 🏝️ range ⛰️ separates Europe from Asia?",
+    "cleaned_question": "Which mountain range separates Europe from Asia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which mountain range separates Europe from Asia?\nAnswer:",
+    "gold_answer": "Ural Mountains"
+  },
+  {
+    "id": "43_emoji_heavy_robust",
+    "original_id": 43,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What 🌋 is 🌍 the highest 🏔️ mountain 🏝️ in Africa?",
+    "cleaned_question": "What is the highest mountain in Africa?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the highest mountain in Africa?\nAnswer:",
+    "gold_answer": "Mount Kilimanjaro"
+  },
+  {
+    "id": "43_clean_robust",
+    "original_id": 43,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the highest mountain in Africa?",
+    "cleaned_question": "What is the highest mountain in Africa?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the highest mountain in Africa?\nAnswer:",
+    "gold_answer": "Mount Kilimanjaro"
+  },
+  {
+    "id": "8_emoji_heavy_robust",
+    "original_id": 8,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "Which 🤔 sea lies 📍 between 📍 Jordan and ❓ Israel?",
+    "cleaned_question": "Which sea lies between Jordan and Israel?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which sea lies between Jordan and Israel?\nAnswer:",
+    "gold_answer": "Dead Sea"
+  },
+  {
+    "id": "40_typos_light_robust",
+    "original_id": 40,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Whjch volczno destroyed Pompeii?",
+    "cleaned_question": "Whjch volczno destroyed Pompeii?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whjch volczno destroyed Pompeii?\nAnswer:",
+    "gold_answer": "Mount Vesuvius"
+  },
+  {
+    "id": "42_typos_light_robust",
+    "original_id": 42,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Shich countrh has the most islands?",
+    "cleaned_question": "Shich countrh has the most islands?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Shich countrh has the most islands?\nAnswer:",
+    "gold_answer": "Sweden"
+  },
+  {
+    "id": "5_spacing_heavy_robust",
+    "original_id": 5,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What  is the   smallest   country   entirely within   another  country",
+    "cleaned_question": "What is the smallest country entirely within another country?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the smallest country entirely within another country?\nAnswer:",
+    "gold_answer": "Vatican City"
+  },
+  {
+    "id": "29_spacing_heavy_robust",
+    "original_id": 29,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What  is the   highest capital   city  in   the   world",
+    "cleaned_question": "What is the highest capital city in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the highest capital city in the world?\nAnswer:",
+    "gold_answer": "La Paz"
+  },
+  {
+    "id": "43_spacing_light_robust",
+    "original_id": 43,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "What is  the highest mountain in Africa? ",
+    "cleaned_question": "What is the highest mountain in Africa?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the highest mountain in Africa?\nAnswer:",
+    "gold_answer": "Mount Kilimanjaro"
+  },
+  {
+    "id": "20_unicode_heavy_robust",
+    "original_id": 20,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Which countrу contains thе Okαvango Deltα?",
+    "cleaned_question": "Which countr contains th Okvango Delt?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which countr contains th Okvango Delt?\nAnswer:",
+    "gold_answer": "Botswana"
+  },
+  {
+    "id": "4_clean_robust",
+    "original_id": 4,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "Which strait separates Spain from Morocco?",
+    "cleaned_question": "Which strait separates Spain from Morocco?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which strait separates Spain from Morocco?\nAnswer:",
+    "gold_answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "6_unicode_light_robust",
+    "original_id": 6,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Whiсh river forms the border between Zambia αnd Zimbabwe?",
+    "cleaned_question": "Whih river forms the border between Zambia nd Zimbabwe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whih river forms the border between Zambia nd Zimbabwe?\nAnswer:",
+    "gold_answer": "Zambezi River"
+  },
+  {
+    "id": "25_emoji_light_robust",
+    "original_id": 25,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "What is the longest mountain 🌋 range in the 🗺️ world?",
+    "cleaned_question": "What is the longest mountain range in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest mountain range in the world?\nAnswer:",
+    "gold_answer": "Andes"
+  },
+  {
+    "id": "14_typos_light_robust",
+    "original_id": 14,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Which country has rhe mkst time zones?",
+    "cleaned_question": "Which country has rhe mkst time zones?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country has rhe mkst time zones?\nAnswer:",
+    "gold_answer": "France"
+  },
+  {
+    "id": "47_spacing_heavy_robust",
+    "original_id": 47,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What is  the   deepest canyon   in  the  world",
+    "cleaned_question": "What is the deepest canyon in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the deepest canyon in the world?\nAnswer:",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon"
+  },
+  {
+    "id": "20_spacing_light_robust",
+    "original_id": 20,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "Which  country contains the Okavango Delta? ",
+    "cleaned_question": "Which country contains the Okavango Delta?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country contains the Okavango Delta?\nAnswer:",
+    "gold_answer": "Botswana"
+  },
+  {
+    "id": "35_spacing_light_robust",
+    "original_id": 35,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "What is the largest atoll in  the  world",
+    "cleaned_question": "What is the largest atoll in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest atoll in the world?\nAnswer:",
+    "gold_answer": "Kiritimati"
+  },
+  {
+    "id": "35_emoji_heavy_robust",
+    "original_id": 35,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What ❓ is ❓ the 🤔 largest atoll 🌋 in the world?",
+    "cleaned_question": "What is the largest atoll in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest atoll in the world?\nAnswer:",
+    "gold_answer": "Kiritimati"
+  },
+  {
+    "id": "34_emoji_light_robust",
+    "original_id": 34,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "Which country owns ⛰️ the 🏔️ Faroe Islands?",
+    "cleaned_question": "Which country owns the Faroe Islands?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country owns the Faroe Islands?\nAnswer:",
+    "gold_answer": "Denmark"
+  },
+  {
+    "id": "45_emoji_light_robust",
+    "original_id": 45,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "What is the largest 🌋 bay in the 🌍 world?",
+    "cleaned_question": "What is the largest bay in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest bay in the world?\nAnswer:",
+    "gold_answer": "Bay of Bengal"
+  },
+  {
+    "id": "19_unicode_light_robust",
+    "original_id": 19,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "What is the largest island in the Mediterrαneαn Sea?",
+    "cleaned_question": "What is the largest island in the Mediterrnen Sea?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest island in the Mediterrnen Sea?\nAnswer:",
+    "gold_answer": "Sicily"
+  },
+  {
+    "id": "2_unicode_heavy_robust",
+    "original_id": 2,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Which Africαn сountry has threе capital citіes?",
+    "cleaned_question": "Which Africn ountry has thre capital cites?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which Africn ountry has thre capital cites?\nAnswer:",
+    "gold_answer": "South Africa"
+  },
+  {
+    "id": "37_clean_robust",
+    "original_id": 37,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the southernmost city in the world?",
+    "cleaned_question": "What is the southernmost city in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the southernmost city in the world?\nAnswer:",
+    "gold_answer": "Ushuaia"
+  },
+  {
+    "id": "16_spacing_heavy_robust",
+    "original_id": 16,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which   African   country was  formerly   known   as   Abyssinia",
+    "cleaned_question": "Which African country was formerly known as Abyssinia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which African country was formerly known as Abyssinia?\nAnswer:",
+    "gold_answer": "Ethiopia"
+  },
+  {
+    "id": "26_unicode_light_robust",
+    "original_id": 26,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Which sea is located betwеen Greecе and Turkey?",
+    "cleaned_question": "Which sea is located betwen Greec and Turkey?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which sea is located betwen Greec and Turkey?\nAnswer:",
+    "gold_answer": "Aegean Sea"
+  },
+  {
+    "id": "28_emoji_heavy_robust",
+    "original_id": 28,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "Which 🌋 river 🌊 flows 📍 through 🏝️ Baghdad?",
+    "cleaned_question": "Which river flows through Baghdad?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river flows through Baghdad?\nAnswer:",
+    "gold_answer": "Tigris River"
+  },
+  {
+    "id": "13_emoji_heavy_robust",
+    "original_id": 13,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What 🌊 is 🌍 the 🌍 longest river in 🗺️ Europe?",
+    "cleaned_question": "What is the longest river in Europe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest river in Europe?\nAnswer:",
+    "gold_answer": "Volga River"
+  },
+  {
+    "id": "21_typos_heavy_robust",
+    "original_id": 21,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "What us the feepest lake kn rhe world?",
+    "cleaned_question": "What us the feepest lake kn rhe world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What us the feepest lake kn rhe world?\nAnswer:",
+    "gold_answer": "Lake Baikal"
+  },
+  {
+    "id": "32_spacing_heavy_robust",
+    "original_id": 32,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which lake is   shared by Uganda,   Kenya, and   Tanzania",
+    "cleaned_question": "Which lake is shared by Uganda, Kenya, and Tanzania?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which lake is shared by Uganda, Kenya, and Tanzania?\nAnswer:",
+    "gold_answer": "Lake Victoria"
+  },
+  {
+    "id": "22_spacing_light_robust",
+    "original_id": 22,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "Which mountain  range  separates Europe from Asia",
+    "cleaned_question": "Which mountain range separates Europe from Asia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which mountain range separates Europe from Asia?\nAnswer:",
+    "gold_answer": "Ural Mountains"
+  },
+  {
+    "id": "25_unicode_light_robust",
+    "original_id": 25,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "What is the longеst mountain range in thе world?",
+    "cleaned_question": "What is the longst mountain range in th world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longst mountain range in th world?\nAnswer:",
+    "gold_answer": "Andes"
+  },
+  {
+    "id": "11_unicode_light_robust",
+    "original_id": 11,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "What is the driеst nоn-polar desert in the world?",
+    "cleaned_question": "What is the drist nn-polar desert in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the drist nn-polar desert in the world?\nAnswer:",
+    "gold_answer": "Atacama Desert"
+  },
+  {
+    "id": "39_unicode_heavy_robust",
+    "original_id": 39,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "What is the largest lαndlocked cоuntry in thе wоrld?",
+    "cleaned_question": "What is the largest lndlocked cuntry in th wrld?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest lndlocked cuntry in th wrld?\nAnswer:",
+    "gold_answer": "Kazakhstan"
+  },
+  {
+    "id": "34_typos_heavy_robust",
+    "original_id": 34,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Which counrry owbs fhe Caroe Islands?",
+    "cleaned_question": "Which counrry owbs fhe Caroe Islands?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which counrry owbs fhe Caroe Islands?\nAnswer:",
+    "gold_answer": "Denmark"
+  },
+  {
+    "id": "38_unicode_light_robust",
+    "original_id": 38,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Which seα separates Saudi Arabіa from Africa?",
+    "cleaned_question": "Which se separates Saudi Araba from Africa?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which se separates Saudi Araba from Africa?\nAnswer:",
+    "gold_answer": "Red Sea"
+  },
+  {
+    "id": "50_spacing_heavy_robust",
+    "original_id": 50,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which  country   contains Angel Falls",
+    "cleaned_question": "Which country contains Angel Falls?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country contains Angel Falls?\nAnswer:",
+    "gold_answer": "Venezuela"
+  },
+  {
+    "id": "5_emoji_light_robust",
+    "original_id": 5,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "What 🌍 is the smallest 🏔️ country entirely within another country?",
+    "cleaned_question": "What is the smallest country entirely within another country?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the smallest country entirely within another country?\nAnswer:",
+    "gold_answer": "Vatican City"
+  },
+  {
+    "id": "36_typos_light_robust",
+    "original_id": 36,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Which river delta is home to the Sundarbans mangrlvw forest?",
+    "cleaned_question": "Which river delta is home to the Sundarbans mangrlvw forest?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river delta is home to the Sundarbans mangrlvw forest?\nAnswer:",
+    "gold_answer": "Ganges Delta"
+  },
+  {
+    "id": "17_emoji_light_robust",
+    "original_id": 17,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "What ⛰️ is the highest waterfall 🌍 in the world?",
+    "cleaned_question": "What is the highest waterfall in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the highest waterfall in the world?\nAnswer:",
+    "gold_answer": "Angel Falls"
+  },
+  {
+    "id": "15_clean_robust",
+    "original_id": 15,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the name of the sea between Australia and New Zealand?",
+    "cleaned_question": "What is the name of the sea between Australia and New Zealand?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the name of the sea between Australia and New Zealand?\nAnswer:",
+    "gold_answer": "Tasman Sea"
+  },
+  {
+    "id": "5_typos_light_robust",
+    "original_id": 5,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "What iz the smallest country entirely withun another country?",
+    "cleaned_question": "What iz the smallest country entirely withun another country?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What iz the smallest country entirely withun another country?\nAnswer:",
+    "gold_answer": "Vatican City"
+  },
+  {
+    "id": "49_spacing_heavy_robust",
+    "original_id": 49,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What   is  the longest   river  in   Asia",
+    "cleaned_question": "What is the longest river in Asia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest river in Asia?\nAnswer:",
+    "gold_answer": "Yangtze River"
+  },
+  {
+    "id": "16_typos_heavy_robust",
+    "original_id": 16,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Which African coyntdy was formefly kmown as Abyssinia?",
+    "cleaned_question": "Which African coyntdy was formefly kmown as Abyssinia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which African coyntdy was formefly kmown as Abyssinia?\nAnswer:",
+    "gold_answer": "Ethiopia"
+  },
+  {
+    "id": "9_unicode_heavy_robust",
+    "original_id": 9,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "What is the largest lαkе on the Αfriсan continent?",
+    "cleaned_question": "What is the largest lk on the frian continent?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest lk on the frian continent?\nAnswer:",
+    "gold_answer": "Lake Victoria"
+  },
+  {
+    "id": "40_unicode_heavy_robust",
+    "original_id": 40,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Whісh volcαno destrоyed Pompeii?",
+    "cleaned_question": "Whh volcno destryed Pompeii?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whh volcno destryed Pompeii?\nAnswer:",
+    "gold_answer": "Mount Vesuvius"
+  },
+  {
+    "id": "44_clean_robust",
+    "original_id": 44,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "Which strait separates Sicily from mainland Italy?",
+    "cleaned_question": "Which strait separates Sicily from mainland Italy?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which strait separates Sicily from mainland Italy?\nAnswer:",
+    "gold_answer": "Strait of Messina"
+  },
+  {
+    "id": "39_emoji_light_robust",
+    "original_id": 39,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "What is the 🏝️ largest 📍 landlocked country in the world?",
+    "cleaned_question": "What is the largest landlocked country in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest landlocked country in the world?\nAnswer:",
+    "gold_answer": "Kazakhstan"
+  },
+  {
+    "id": "45_clean_robust",
+    "original_id": 45,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the largest bay in the world?",
+    "cleaned_question": "What is the largest bay in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest bay in the world?\nAnswer:",
+    "gold_answer": "Bay of Bengal"
+  },
+  {
+    "id": "19_clean_robust",
+    "original_id": 19,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the largest island in the Mediterranean Sea?",
+    "cleaned_question": "What is the largest island in the Mediterranean Sea?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest island in the Mediterranean Sea?\nAnswer:",
+    "gold_answer": "Sicily"
+  },
+  {
+    "id": "21_spacing_heavy_robust",
+    "original_id": 21,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What is the  deepest  lake in the  world",
+    "cleaned_question": "What is the deepest lake in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the deepest lake in the world?\nAnswer:",
+    "gold_answer": "Lake Baikal"
+  },
+  {
+    "id": "7_clean_robust",
+    "original_id": 7,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the northernmost capital city in the world?",
+    "cleaned_question": "What is the northernmost capital city in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the northernmost capital city in the world?\nAnswer:",
+    "gold_answer": "Reykjavik"
+  },
+  {
+    "id": "6_typos_light_robust",
+    "original_id": 6,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Whuch river forms the borcer between Zambia and Zimbabwe?",
+    "cleaned_question": "Whuch river forms the borcer between Zambia and Zimbabwe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whuch river forms the borcer between Zambia and Zimbabwe?\nAnswer:",
+    "gold_answer": "Zambezi River"
+  },
+  {
+    "id": "1_typos_heavy_robust",
+    "original_id": 1,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "What is ths deepexr piint in the Mariana Trench called?",
+    "cleaned_question": "What is ths deepexr piint in the Mariana Trench called?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is ths deepexr piint in the Mariana Trench called?\nAnswer:",
+    "gold_answer": "Challenger Deep"
+  },
+  {
+    "id": "18_spacing_heavy_robust",
+    "original_id": 18,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which  strait connects  the  Mediterranean   Sea  to   the Atlantic  Ocean",
+    "cleaned_question": "Which strait connects the Mediterranean Sea to the Atlantic Ocean?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which strait connects the Mediterranean Sea to the Atlantic Ocean?\nAnswer:",
+    "gold_answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "26_typos_heavy_robust",
+    "original_id": 26,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Which sea ie located befween Greece ajd Turksy?",
+    "cleaned_question": "Which sea ie located befween Greece ajd Turksy?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which sea ie located befween Greece ajd Turksy?\nAnswer:",
+    "gold_answer": "Aegean Sea"
+  },
+  {
+    "id": "39_typos_light_robust",
+    "original_id": 39,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "What is the laryest landlodked country in the world?",
+    "cleaned_question": "What is the laryest landlodked country in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the laryest landlodked country in the world?\nAnswer:",
+    "gold_answer": "Kazakhstan"
+  },
+  {
+    "id": "47_unicode_heavy_robust",
+    "original_id": 47,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "What is the deеpest сanyоn in thе world?",
+    "cleaned_question": "What is the depest anyn in th world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the depest anyn in th world?\nAnswer:",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon"
+  },
+  {
+    "id": "6_emoji_light_robust",
+    "original_id": 6,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "Which river forms the border between 🌊 Zambia 📍 and Zimbabwe?",
+    "cleaned_question": "Which river forms the border between Zambia and Zimbabwe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river forms the border between Zambia and Zimbabwe?\nAnswer:",
+    "gold_answer": "Zambezi River"
+  },
+  {
+    "id": "8_spacing_heavy_robust",
+    "original_id": 8,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which   sea   lies   between  Jordan  and Israel",
+    "cleaned_question": "Which sea lies between Jordan and Israel?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which sea lies between Jordan and Israel?\nAnswer:",
+    "gold_answer": "Dead Sea"
+  },
+  {
+    "id": "5_emoji_heavy_robust",
+    "original_id": 5,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What 📍 is 🌊 the smallest 🌍 country 📍 entirely within another country?",
+    "cleaned_question": "What is the smallest country entirely within another country?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the smallest country entirely within another country?\nAnswer:",
+    "gold_answer": "Vatican City"
+  },
+  {
+    "id": "41_typos_light_robust",
+    "original_id": 41,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "What is the llngest river in Wustralia?",
+    "cleaned_question": "What is the llngest river in Wustralia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the llngest river in Wustralia?\nAnswer:",
+    "gold_answer": "Murray River"
+  },
+  {
+    "id": "25_spacing_heavy_robust",
+    "original_id": 25,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What is  the longest   mountain range  in   the  world",
+    "cleaned_question": "What is the longest mountain range in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest mountain range in the world?\nAnswer:",
+    "gold_answer": "Andes"
+  },
+  {
+    "id": "26_spacing_heavy_robust",
+    "original_id": 26,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which sea   is located   between  Greece and  Turkey",
+    "cleaned_question": "Which sea is located between Greece and Turkey?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which sea is located between Greece and Turkey?\nAnswer:",
+    "gold_answer": "Aegean Sea"
+  },
+  {
+    "id": "32_unicode_heavy_robust",
+    "original_id": 32,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Whіch lake іs shared by Ugαnda, Kenya, αnd Tanzania?",
+    "cleaned_question": "Whch lake s shared by Ugnda, Kenya, nd Tanzania?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whch lake s shared by Ugnda, Kenya, nd Tanzania?\nAnswer:",
+    "gold_answer": "Lake Victoria"
+  },
+  {
+    "id": "32_unicode_light_robust",
+    "original_id": 32,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Which lake is shared bу Uganda, Kеnya, and Tanzania?",
+    "cleaned_question": "Which lake is shared b Uganda, Knya, and Tanzania?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which lake is shared b Uganda, Knya, and Tanzania?\nAnswer:",
+    "gold_answer": "Lake Victoria"
+  },
+  {
+    "id": "30_typos_light_robust",
+    "original_id": 30,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Which arcuipepago includes Java and Sumatra?",
+    "cleaned_question": "Which arcuipepago includes Java and Sumatra?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which arcuipepago includes Java and Sumatra?\nAnswer:",
+    "gold_answer": "Indonesian Archipelago"
+  },
+  {
+    "id": "24_typos_light_robust",
+    "original_id": 24,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Which countrg has ths most UNESCO World Heritage Sites?",
+    "cleaned_question": "Which countrg has ths most UNESCO World Heritage Sites?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which countrg has ths most UNESCO World Heritage Sites?\nAnswer:",
+    "gold_answer": "Italy"
+  },
+  {
+    "id": "38_typos_heavy_robust",
+    "original_id": 38,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Whicb sea separates Saufi Arabia fdom Afriva?",
+    "cleaned_question": "Whicb sea separates Saufi Arabia fdom Afriva?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whicb sea separates Saufi Arabia fdom Afriva?\nAnswer:",
+    "gold_answer": "Red Sea"
+  },
+  {
+    "id": "2_spacing_heavy_robust",
+    "original_id": 2,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which African  country has three capital  cities",
+    "cleaned_question": "Which African country has three capital cities?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which African country has three capital cities?\nAnswer:",
+    "gold_answer": "South Africa"
+  },
+  {
+    "id": "6_clean_robust",
+    "original_id": 6,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "Which river forms the border between Zambia and Zimbabwe?",
+    "cleaned_question": "Which river forms the border between Zambia and Zimbabwe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river forms the border between Zambia and Zimbabwe?\nAnswer:",
+    "gold_answer": "Zambezi River"
+  },
+  {
+    "id": "21_typos_light_robust",
+    "original_id": 21,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Wbat is thw deepest lake in the world?",
+    "cleaned_question": "Wbat is thw deepest lake in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Wbat is thw deepest lake in the world?\nAnswer:",
+    "gold_answer": "Lake Baikal"
+  },
+  {
+    "id": "45_emoji_heavy_robust",
+    "original_id": 45,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What 📍 is the 🌊 largest bay in 🏔️ the 📍 world?",
+    "cleaned_question": "What is the largest bay in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest bay in the world?\nAnswer:",
+    "gold_answer": "Bay of Bengal"
+  },
+  {
+    "id": "50_unicode_heavy_robust",
+    "original_id": 50,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Which country сontαіns Angel Fαlls?",
+    "cleaned_question": "Which country ontns Angel Flls?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country ontns Angel Flls?\nAnswer:",
+    "gold_answer": "Venezuela"
+  },
+  {
+    "id": "34_emoji_heavy_robust",
+    "original_id": 34,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "Which country 📍 owns 📍 the 📍 Faroe 📍 Islands?",
+    "cleaned_question": "Which country owns the Faroe Islands?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country owns the Faroe Islands?\nAnswer:",
+    "gold_answer": "Denmark"
+  },
+  {
+    "id": "35_clean_robust",
+    "original_id": 35,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the largest atoll in the world?",
+    "cleaned_question": "What is the largest atoll in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest atoll in the world?\nAnswer:",
+    "gold_answer": "Kiritimati"
+  },
+  {
+    "id": "19_spacing_heavy_robust",
+    "original_id": 19,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What   is   the  largest   island in   the Mediterranean Sea",
+    "cleaned_question": "What is the largest island in the Mediterranean Sea?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest island in the Mediterranean Sea?\nAnswer:",
+    "gold_answer": "Sicily"
+  },
+  {
+    "id": "22_emoji_heavy_robust",
+    "original_id": 22,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "Which 📍 mountain 🌋 range 🌊 separates ❓ Europe from Asia?",
+    "cleaned_question": "Which mountain range separates Europe from Asia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which mountain range separates Europe from Asia?\nAnswer:",
+    "gold_answer": "Ural Mountains"
+  },
+  {
+    "id": "1_unicode_heavy_robust",
+    "original_id": 1,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Whαt is the deepest pоint in the Marіana Trenсh called?",
+    "cleaned_question": "Wht is the deepest pint in the Marana Trenh called?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Wht is the deepest pint in the Marana Trenh called?\nAnswer:",
+    "gold_answer": "Challenger Deep"
+  },
+  {
+    "id": "17_unicode_light_robust",
+    "original_id": 17,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "What is thе highest waterfall in thе world?",
+    "cleaned_question": "What is th highest waterfall in th world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is th highest waterfall in th world?\nAnswer:",
+    "gold_answer": "Angel Falls"
+  },
+  {
+    "id": "24_spacing_heavy_robust",
+    "original_id": 24,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which  country   has  the   most UNESCO  World Heritage  Sites",
+    "cleaned_question": "Which country has the most UNESCO World Heritage Sites?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country has the most UNESCO World Heritage Sites?\nAnswer:",
+    "gold_answer": "Italy"
+  },
+  {
+    "id": "23_clean_robust",
+    "original_id": 23,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the smallest ocean in the world?",
+    "cleaned_question": "What is the smallest ocean in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the smallest ocean in the world?\nAnswer:",
+    "gold_answer": "Arctic Ocean"
+  },
+  {
+    "id": "40_unicode_light_robust",
+    "original_id": 40,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Which volcano destroуed Pompeiі?",
+    "cleaned_question": "Which volcano destroed Pompei?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which volcano destroed Pompei?\nAnswer:",
+    "gold_answer": "Mount Vesuvius"
+  },
+  {
+    "id": "32_emoji_light_robust",
+    "original_id": 32,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "Which lake ⛰️ is 🤔 shared by Uganda, Kenya, and Tanzania?",
+    "cleaned_question": "Which lake is shared by Uganda, Kenya, and Tanzania?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which lake is shared by Uganda, Kenya, and Tanzania?\nAnswer:",
+    "gold_answer": "Lake Victoria"
+  },
+  {
+    "id": "14_emoji_light_robust",
+    "original_id": 14,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "Which country 🤔 has the 🤔 most time zones?",
+    "cleaned_question": "Which country has the most time zones?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country has the most time zones?\nAnswer:",
+    "gold_answer": "France"
+  },
+  {
+    "id": "33_spacing_heavy_robust",
+    "original_id": 33,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What  is   the longest   cave system   in   the   world",
+    "cleaned_question": "What is the longest cave system in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest cave system in the world?\nAnswer:",
+    "gold_answer": "Mammoth Cave"
+  },
+  {
+    "id": "30_unicode_light_robust",
+    "original_id": 30,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Which αrchipelago includеs Java and Sumatra?",
+    "cleaned_question": "Which rchipelago includs Java and Sumatra?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which rchipelago includs Java and Sumatra?\nAnswer:",
+    "gold_answer": "Indonesian Archipelago"
+  },
+  {
+    "id": "10_unicode_light_robust",
+    "original_id": 10,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Whіch mоuntain range contains K2?",
+    "cleaned_question": "Whch muntain range contains K2?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whch muntain range contains K2?\nAnswer:",
+    "gold_answer": "Karakoram"
+  },
+  {
+    "id": "41_clean_robust",
+    "original_id": 41,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the longest river in Australia?",
+    "cleaned_question": "What is the longest river in Australia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the longest river in Australia?\nAnswer:",
+    "gold_answer": "Murray River"
+  },
+  {
+    "id": "36_spacing_light_robust",
+    "original_id": 36,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "Which river delta   is home to the Sundarbans mangrove forest",
+    "cleaned_question": "Which river delta is home to the Sundarbans mangrove forest?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river delta is home to the Sundarbans mangrove forest?\nAnswer:",
+    "gold_answer": "Ganges Delta"
+  },
+  {
+    "id": "44_typos_heavy_robust",
+    "original_id": 44,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Which etrait sepwrates Sicuky from mainland Italy?",
+    "cleaned_question": "Which etrait sepwrates Sicuky from mainland Italy?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which etrait sepwrates Sicuky from mainland Italy?\nAnswer:",
+    "gold_answer": "Strait of Messina"
+  },
+  {
+    "id": "47_spacing_light_robust",
+    "original_id": 47,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "What is  the deepest canyon  in the world",
+    "cleaned_question": "What is the deepest canyon in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the deepest canyon in the world?\nAnswer:",
+    "gold_answer": "Yarlung Tsangpo Grand Canyon"
+  },
+  {
+    "id": "18_typos_light_robust",
+    "original_id": 18,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Which sgrait connects the Mediterranean Sea to the Arlantic Ocean?",
+    "cleaned_question": "Which sgrait connects the Mediterranean Sea to the Arlantic Ocean?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which sgrait connects the Mediterranean Sea to the Arlantic Ocean?\nAnswer:",
+    "gold_answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "34_unicode_light_robust",
+    "original_id": 34,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Which country оwns thе Faroe Islands?",
+    "cleaned_question": "Which country wns th Faroe Islands?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country wns th Faroe Islands?\nAnswer:",
+    "gold_answer": "Denmark"
+  },
+  {
+    "id": "29_clean_robust",
+    "original_id": 29,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the highest capital city in the world?",
+    "cleaned_question": "What is the highest capital city in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the highest capital city in the world?\nAnswer:",
+    "gold_answer": "La Paz"
+  },
+  {
+    "id": "9_typos_heavy_robust",
+    "original_id": 9,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "What os the largesf lake on gbe African continent?",
+    "cleaned_question": "What os the largesf lake on gbe African continent?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What os the largesf lake on gbe African continent?\nAnswer:",
+    "gold_answer": "Lake Victoria"
+  },
+  {
+    "id": "4_unicode_light_robust",
+    "original_id": 4,
+    "noise_type": "unicode",
+    "noise_level": "light",
+    "original_question": "Which straіt separates Sрain from Morocco?",
+    "cleaned_question": "Which strat separates Sain from Morocco?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which strat separates Sain from Morocco?\nAnswer:",
+    "gold_answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "10_spacing_heavy_robust",
+    "original_id": 10,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which  mountain   range   contains K2",
+    "cleaned_question": "Which mountain range contains K2?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which mountain range contains K2?\nAnswer:",
+    "gold_answer": "Karakoram"
+  },
+  {
+    "id": "49_typos_light_robust",
+    "original_id": 49,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Whag is ths longest river in Asia?",
+    "cleaned_question": "Whag is ths longest river in Asia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whag is ths longest river in Asia?\nAnswer:",
+    "gold_answer": "Yangtze River"
+  },
+  {
+    "id": "16_unicode_heavy_robust",
+    "original_id": 16,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Whiсh Afriсαn country was formerly known αs Abyssinia?",
+    "cleaned_question": "Whih Afrin country was formerly known s Abyssinia?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whih Afrin country was formerly known s Abyssinia?\nAnswer:",
+    "gold_answer": "Ethiopia"
+  },
+  {
+    "id": "24_emoji_heavy_robust",
+    "original_id": 24,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "Which country has the 🤔 most ⛰️ UNESCO 🌊 World Heritage 🌍 Sites?",
+    "cleaned_question": "Which country has the most UNESCO World Heritage Sites?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country has the most UNESCO World Heritage Sites?\nAnswer:",
+    "gold_answer": "Italy"
+  },
+  {
+    "id": "48_emoji_heavy_robust",
+    "original_id": 48,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "Which 🤔 island 🌋 group forms 🤔 the westernmost point 🏝️ of Europe?",
+    "cleaned_question": "Which island group forms the westernmost point of Europe?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which island group forms the westernmost point of Europe?\nAnswer:",
+    "gold_answer": "Azores"
+  },
+  {
+    "id": "28_spacing_heavy_robust",
+    "original_id": 28,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which  river  flows   through Baghdad",
+    "cleaned_question": "Which river flows through Baghdad?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river flows through Baghdad?\nAnswer:",
+    "gold_answer": "Tigris River"
+  },
+  {
+    "id": "45_unicode_heavy_robust",
+    "original_id": 45,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Whαt іs the lαrgest bay in thе world?",
+    "cleaned_question": "Wht s the lrgest bay in th world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Wht s the lrgest bay in th world?\nAnswer:",
+    "gold_answer": "Bay of Bengal"
+  },
+  {
+    "id": "38_spacing_heavy_robust",
+    "original_id": 38,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which  sea separates   Saudi  Arabia   from  Africa",
+    "cleaned_question": "Which sea separates Saudi Arabia from Africa?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which sea separates Saudi Arabia from Africa?\nAnswer:",
+    "gold_answer": "Red Sea"
+  },
+  {
+    "id": "15_typos_heavy_robust",
+    "original_id": 15,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "What is the name of yue sea between Australia and Jew Zealamd?",
+    "cleaned_question": "What is the name of yue sea between Australia and Jew Zealamd?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the name of yue sea between Australia and Jew Zealamd?\nAnswer:",
+    "gold_answer": "Tasman Sea"
+  },
+  {
+    "id": "40_typos_heavy_robust",
+    "original_id": 40,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Wgich volczni destroyed Pompeji?",
+    "cleaned_question": "Wgich volczni destroyed Pompeji?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Wgich volczni destroyed Pompeji?\nAnswer:",
+    "gold_answer": "Mount Vesuvius"
+  },
+  {
+    "id": "29_typos_light_robust",
+    "original_id": 29,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "What is the highest capitao city in the worlc?",
+    "cleaned_question": "What is the highest capitao city in the worlc?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the highest capitao city in the worlc?\nAnswer:",
+    "gold_answer": "La Paz"
+  },
+  {
+    "id": "12_typos_light_robust",
+    "original_id": 12,
+    "noise_type": "typos",
+    "noise_level": "light",
+    "original_question": "Which island nation is located ij the Indian Ofean near Madagascar?",
+    "cleaned_question": "Which island nation is located ij the Indian Ofean near Madagascar?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which island nation is located ij the Indian Ofean near Madagascar?\nAnswer:",
+    "gold_answer": "Mauritius"
+  },
+  {
+    "id": "27_clean_robust",
+    "original_id": 27,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the largest salt flat in the world?",
+    "cleaned_question": "What is the largest salt flat in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest salt flat in the world?\nAnswer:",
+    "gold_answer": "Salar de Uyuni"
+  },
+  {
+    "id": "39_clean_robust",
+    "original_id": 39,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "What is the largest landlocked country in the world?",
+    "cleaned_question": "What is the largest landlocked country in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest landlocked country in the world?\nAnswer:",
+    "gold_answer": "Kazakhstan"
+  },
+  {
+    "id": "8_unicode_heavy_robust",
+    "original_id": 8,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "Which sеα lіes bеtween Jordan and Israel?",
+    "cleaned_question": "Which s les btween Jordan and Israel?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which s les btween Jordan and Israel?\nAnswer:",
+    "gold_answer": "Dead Sea"
+  },
+  {
+    "id": "18_typos_heavy_robust",
+    "original_id": 18,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Whuch strait connects the Kediterranean Sda to the Atlantiv Ocean?",
+    "cleaned_question": "Whuch strait connects the Kediterranean Sda to the Atlantiv Ocean?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whuch strait connects the Kediterranean Sda to the Atlantiv Ocean?\nAnswer:",
+    "gold_answer": "Strait of Gibraltar"
+  },
+  {
+    "id": "1_spacing_light_robust",
+    "original_id": 1,
+    "noise_type": "spacing",
+    "noise_level": "light",
+    "original_question": "What   is the deepest point in the Mariana Trench called?",
+    "cleaned_question": "What is the deepest point in the Mariana Trench called?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the deepest point in the Mariana Trench called?\nAnswer:",
+    "gold_answer": "Challenger Deep"
+  },
+  {
+    "id": "23_spacing_heavy_robust",
+    "original_id": 23,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "What   is   the  smallest  ocean in   the world",
+    "cleaned_question": "What is the smallest ocean in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the smallest ocean in the world?\nAnswer:",
+    "gold_answer": "Arctic Ocean"
+  },
+  {
+    "id": "19_emoji_heavy_robust",
+    "original_id": 19,
+    "noise_type": "emoji",
+    "noise_level": "heavy",
+    "original_question": "What is 🏝️ the largest 🏔️ island ❓ in the ⛰️ Mediterranean Sea?",
+    "cleaned_question": "What is the largest island in the Mediterranean Sea?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest island in the Mediterranean Sea?\nAnswer:",
+    "gold_answer": "Sicily"
+  },
+  {
+    "id": "36_spacing_heavy_robust",
+    "original_id": 36,
+    "noise_type": "spacing",
+    "noise_level": "heavy",
+    "original_question": "Which  river delta is   home   to the Sundarbans   mangrove   forest",
+    "cleaned_question": "Which river delta is home to the Sundarbans mangrove forest?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which river delta is home to the Sundarbans mangrove forest?\nAnswer:",
+    "gold_answer": "Ganges Delta"
+  },
+  {
+    "id": "19_unicode_heavy_robust",
+    "original_id": 19,
+    "noise_type": "unicode",
+    "noise_level": "heavy",
+    "original_question": "What is the largest island іn the Mеditerraneαn Seα?",
+    "cleaned_question": "What is the largest island n the Mditerranen Se?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the largest island n the Mditerranen Se?\nAnswer:",
+    "gold_answer": "Sicily"
+  },
+  {
+    "id": "26_clean_robust",
+    "original_id": 26,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "Which sea is located between Greece and Turkey?",
+    "cleaned_question": "Which sea is located between Greece and Turkey?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which sea is located between Greece and Turkey?\nAnswer:",
+    "gold_answer": "Aegean Sea"
+  },
+  {
+    "id": "20_clean_robust",
+    "original_id": 20,
+    "noise_type": "clean",
+    "noise_level": "none",
+    "original_question": "Which country contains the Okavango Delta?",
+    "cleaned_question": "Which country contains the Okavango Delta?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Which country contains the Okavango Delta?\nAnswer:",
+    "gold_answer": "Botswana"
+  },
+  {
+    "id": "37_emoji_light_robust",
+    "original_id": 37,
+    "noise_type": "emoji",
+    "noise_level": "light",
+    "original_question": "What 🌋 is the southernmost city in the 🏝️ world?",
+    "cleaned_question": "What is the southernmost city in the world?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: What is the southernmost city in the world?\nAnswer:",
+    "gold_answer": "Ushuaia"
+  },
+  {
+    "id": "50_typos_heavy_robust",
+    "original_id": 50,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Whicu country contaund Angel Dalls?",
+    "cleaned_question": "Whicu country contaund Angel Dalls?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Whicu country contaund Angel Dalls?\nAnswer:",
+    "gold_answer": "Venezuela"
+  },
+  {
+    "id": "35_typos_heavy_robust",
+    "original_id": 35,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Wnat is the largest agill in the worlf?",
+    "cleaned_question": "Wnat is the largest agill in the worlf?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Wnat is the largest agill in the worlf?\nAnswer:",
+    "gold_answer": "Kiritimati"
+  },
+  {
+    "id": "19_typos_heavy_robust",
+    "original_id": 19,
+    "noise_type": "typos",
+    "noise_level": "heavy",
+    "original_question": "Wjat is the largest islaje in the Mediyerranean Sea?",
+    "cleaned_question": "Wjat is the largest islaje in the Mediyerranean Sea?",
+    "robust_prompt": "INSTRUCTION: You are answering geography questions that may contain typos, unusual spacing, Unicode characters, or emoji.\n\nIMPORTANT:\n- Mentally normalize any visual variations (α→a, о→o, emojis→ignore)\n- Focus on the semantic intent of the question\n- Ignore extra spaces and punctuation errors\n- If you recognize a misspelled geographic term, use the correct spelling in your answer\n\nAnswer format: Provide ONLY the specific answer requested (location, country, or geographic feature name). No explanations.\n\nQuestion: Wjat is the largest islaje in the Mediyerranean Sea?\nAnswer:",
+    "gold_answer": "Sicily"
+  }
+]

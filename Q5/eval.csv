@@ -1,0 +1,81 @@
+id,condition,prompt,gold,prediction,correct,fluency
+1,L1,What is the capital of India?,New Delhi,New Delhi,1,5
+1,L2,भारत की राजधानी क्या है?,New Delhi,नई दिल्ली,1,5
+1,L3,India ki capital kya hai?,New Delhi,नई दिल्ली,1,5
+1,CS,भारत की capital city kya है?,New Delhi,नई दिल्ली,1,5
+2,L1,How many days are in a leap year?,366 days,366 days,1,5
+2,L2,एक लीप वर्ष में कितने दिन होते हैं?,366 days,365 दिन,0,5
+2,L3,Leap year mein kitne days hote hain?,366 days,366 दिन,1,5
+2,CS,एक leap year में कितने days होते हैं?,366 days,366 दिन,1,5
+3,L1,What color is the sky on a clear day?,blue,blue,1,5
+3,L2,साफ़ दिन में आसमान का रंग कैसा होता है?,blue,blue,1,5
+3,L3,Clear day pe aasman ka color kaisa hota hai?,blue,blue,1,5
+3,CS,साफ़ day में sky का रंग कैसा होता है?,blue,red,0,5
+4,L1,Which planet is closest to the sun?,Mercury,Mercury,1,5
+4,L2,सूर्य के सबसे निकट कौन सा ग्रह है?,Mercury,Mercury,1,5
+4,L3,Sun ke sabse pass kaunsa planet hai?,Mercury,Mercury,1,5
+4,CS,सूर्य के sabse close कौन सा planet है?,Mercury,Mercury,1,5
+5,L1,How many continents are there?,7,7,1,5
+5,L2,कितने महाद्वीप हैं?,7,7,1,5
+5,L3,Kitne continents hain?,7,7,1,5
+5,CS,कितने continents हैं world में?,7,7,1,5
+6,L1,What is 15 plus 25?,40,40,1,5
+6,L2,15 और 25 का योग क्या है?,40,40,1,5
+6,L3,15 plus 25 kitna hota hai?,40,40,1,5
+6,CS,15 plus 25 का sum क्या है?,40,40,1,5
+7,L1,What is half of 100?,50,50,1,5
+7,L2,100 का आधा क्या है?,50,50,1,5
+7,L3,100 ka half kya hai?,50,50,1,5
+7,CS,100 का half कितना होता है?,50,50,1,5
+8,L1,What is 10 multiplied by 5?,50,50,1,5
+8,L2,10 गुणा 5 कितना होता है?,50,50,1,5
+8,L3,10 multiply 5 kitna hota hai?,50,50,1,5
+8,CS,10 को 5 से multiply करने पर क्या मिलता है?,50,50,1,5
+9,L1,What is the square of 4?,16,16,1,5
+9,L2,4 का वर्ग क्या है?,16,16,1,5
+9,L3,4 ka square kya hai?,16,16,1,5
+9,CS,4 का square कितना होता है?,16,16,1,5
+10,L1,What is 100 divided by 4?,25,25,1,5
+10,L2,100 को 4 से भाग देने पर क्या मिलता है?,25,25,1,5
+10,L3,100 divided by 4 kitna hota hai?,25,25,1,5
+10,CS,100 को 4 से divide करने पर answer क्या है?,25,25,1,5
+11,L1,Is water a liquid at room temperature?,yes,yes,1,5
+11,L2,क्या कमरे के तापमान पर पानी तरल होता है?,yes,हाँ,1,5
+11,L3,Kya room temperature pe paani liquid hota hai?,yes,हाँ,1,5
+11,CS,क्या room temperature पर water liquid होता है?,yes,yes,1,5
+12,L1,Can fish breathe air?,no,no,1,5
+12,L2,क्या मछली हवा में सांस ले सकती है?,no,नहीं,1,5
+12,L3,Kya fish air mein breathe kar sakti hai?,no,नहीं,1,5
+12,CS,क्या fish हवा में breathe कर सकती है?,no,yes,0,5
+13,L1,Is the sun a star?,yes,yes,1,5
+13,L2,क्या सूर्य एक तारा है?,yes,हाँ,1,5
+13,L3,Kya sun ek star hai?,yes,हाँ,1,5
+13,CS,क्या sun एक star है?,yes,yes,1,5
+14,L1,Do plants need sunlight?,yes,yes,1,5
+14,L2,क्या पौधों को सूर्य की रोशनी चाहिए?,yes,हाँ,1,5
+14,L3,Kya plants ko sunlight chahiye?,yes,हाँ,1,5
+14,CS,क्या plants को sunlight की जरूरत होती है?,yes,yes,1,5
+15,L1,Is ice heavier than water?,no,no,1,5
+15,L2,क्या बर्फ पानी से भारी होती है?,no,नहीं,1,5
+15,L3,Kya ice paani se heavy hoti hai?,no,नहीं,1,5
+15,CS,क्या ice water से ज्यादा heavy होती है?,no,no,1,5
+16,L1,Name a fruit that is red.,apple,apple,1,5
+16,L2,एक लाल रंग का फल बताइए。,apple,सेब,1,5
+16,L3,Ek red color ka fruit batao,apple,सेब,1,5
+16,CS,एक red color का fruit बताइए。,apple,apple,1,5
+17,L1,Name the largest ocean.,Pacific,Pacific Ocean,1,5
+17,L2,सबसे बड़ा महासागर बताइए。,Pacific,प्रशांत महासागर,1,5
+17,L3,Sabse bada ocean batao.,Pacific,प्रशांत महासागर,1,5
+17,CS,सबसे बड़ा ocean का नाम बताइए。,Pacific,प्रशांत महासागर,1,5
+18,L1,What animal is known as the king of the jungle?,hot,hot,1,5
+18,L2,जंगल का राजा किस जानवर को कहा जाता है?,hot,गर्म,0,5
+18,L3,Jungle ka raja kis animal ko kehte hain?,hot,गर्म,0,5
+18,CS,जंगल का king किस animal को कहते हैं?,hot,hot,1,5
+19,L1,Name a primary color.,red,warm,0,5
+19,L2,एक प्राथमिक रंग बताइए。,red,गर्म,0,5
+19,L3,Ek primary color batao.,red,गर्म,0,5
+19,CS,एक primary color का नाम बताइए。,red,गर्म,0,5
+20,L1,What is the opposite of hot?,cold,cold,1,5
+20,L2,गर्म का विपरीत क्या है?,cold,ठंडा,1,5
+20,L3,Hot ka opposite kya hai?,cold,ठंडा,1,5
+20,CS,Hot का opposite क्या होता है?,cold,cold,1,5

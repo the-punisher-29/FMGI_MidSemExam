@@ -1,0 +1,451 @@
+id,noise_type,noise_level,prompt_in,gold,pred,correct(0/1)
+1_clean,clean,none,What is the deepest point in the Mariana Trench called?,Challenger Deep,Challenger Deep,1
+1_typos_light,typos,light,What is tne deepest point in the Mariana Trench cslled?,Challenger Deep,Challenger Deep,1
+1_typos_heavy,typos,heavy,What is ths deepexr piint in the Mariana Trench called?,Challenger Deep,Challen,0
+1_spacing_light,spacing,light,What   is the deepest point in the Mariana Trench called?,Challenger Deep,Challenger Deep,1
+1_spacing_heavy,spacing,heavy,What is   the   deepest point   in the   Mariana   Trench   called,Challenger Deep,Challenger Deep,1
+1_unicode_light,unicode,light,What is the deepest рoint in the Mαriana Trench called?,Challenger Deep,Challenger Deep,1
+1_unicode_heavy,unicode,heavy,Whαt is the deepest pоint in the Marіana Trenсh called?,Challenger Deep,Unicode error,0
+1_emoji_light,emoji,light,What is the ⛰️ deepest point in the 🏔️ Mariana Trench called?,Challenger Deep,Challenger Point,0
+1_emoji_heavy,emoji,heavy,What is the 📍 deepest 🌋 point in the 📍 Mariana Trench 📍 called?,Challenger Deep,Ch*ll*ng*r D**p,0
+2_clean,clean,none,Which African country has three capital cities?,South Africa,South Africa,1
+2_typos_light,typos,light,Which African country has ghree capital citiws?,South Africa,South Africa,1
+2_typos_heavy,typos,heavy,Which Affican country has thtee caoital fities?,South Africa,South Africa,1
+2_spacing_light,spacing,light,Which  African country has three capital  cities?,South Africa,Egypt,0
+2_spacing_heavy,spacing,heavy,Which African  country has three capital  cities,South Africa,South Africa,1
+2_unicode_light,unicode,light,Which African country has threе caрital cities?,South Africa,South Africa,1
+2_unicode_heavy,unicode,heavy,Which Africαn сountry has threе capital citіes?,South Africa,,0
+2_emoji_light,emoji,light,Which African country ❓ has three capital 📍 cities?,South Africa,South,0
+2_emoji_heavy,emoji,heavy,Which 🤔 African ⛰️ country has three 🌋 capital 🏝️ cities?,South Africa,South Africa,1
+3_clean,clean,none,What is the name of the desert between Mongolia and China?,Gobi Desert,Gobi Desert,1
+3_typos_light,typos,light,What is the name ot the desert between Mongolia and Cgina?,Gobi Desert,Gobi Desert,1
+3_typos_heavy,typos,heavy,Whst is the name ot the dewert bdtween Mongolia and China?,Gobi Desert,Gobi Desert,1
+3_spacing_light,spacing,light,What is the name  of the desert between Mongolia and China? ,Gobi Desert,Gobi Desert,1
+3_spacing_heavy,spacing,heavy,What   is  the name  of the desert   between   Mongolia   and  China,Gobi Desert,Gobi Desert,1
+3_unicode_light,unicode,light,What is the name of the desert between Mоngolia and Сhina?,Gobi Desert,Gobi Desert,1
+3_unicode_heavy,unicode,heavy,What is the name of the dеsert betweеn Μongolia and Сhina?,Gobi Desert,,0
+3_emoji_light,emoji,light,What is the 📍 name of the desert between Mongolia 🏝️ and China?,Gobi Desert,Gobi Desert,1
+3_emoji_heavy,emoji,heavy,What 📍 is ❓ the 🌋 name of the 🗺️ desert between Mongolia and China?,Gobi Desert,Gobi Desert,1
+4_clean,clean,none,Which strait separates Spain from Morocco?,Strait of Gibraltar,Strait of Gibraltar,1
+4_typos_light,typos,light,Which strait separates Spaij from Korocco?,Strait of Gibraltar,Strait of Gibraltar,1
+4_typos_heavy,typos,heavy,Shich steait separafes Spain from Morocfo?,Strait of Gibraltar,Strait of Gibraltar,1
+4_spacing_light,spacing,light,Which strait  separates Spain  from Morocco?,Strait of Gibraltar,Strait of Gibraltar,1
+4_spacing_heavy,spacing,heavy,Which   strait   separates  Spain   from Morocco,Strait of Gibraltar,Strait of Gibraltar,1
+4_unicode_light,unicode,light,Which straіt separates Sрain from Morocco?,Strait of Gibraltar,S***,0
+4_unicode_heavy,unicode,heavy,Which strait sеpαrates Spaіn from Moroсco?,Strait of Gibraltar,???,0
+4_emoji_light,emoji,light,Which 🏔️ strait ❓ separates Spain from Morocco?,Strait of Gibraltar,Strait of Gibraltar,1
+4_emoji_heavy,emoji,heavy,Which 🌊 strait 🌍 separates Spain 🌊 from ⛰️ Morocco?,Strait of Gibraltar,Strait of Gibraltar,1
+5_clean,clean,none,What is the smallest country entirely within another country?,Vatican City,Vatican City,1
+5_typos_light,typos,light,What iz the smallest country entirely withun another country?,Vatican City,Vatican City,1
+5_typos_heavy,typos,heavy,What os the smallest country entirelu wiyhin another coumtry?,Vatican City,Vatican City,1
+5_spacing_light,spacing,light,What is the smallest country  entirely within another country? ,Vatican City,Vatican City,1
+5_spacing_heavy,spacing,heavy,What  is the   smallest   country   entirely within   another  country,Vatican City,Vatican City,1
+5_unicode_light,unicode,light,What is the smallest country entirelу within αnother country?,Vatican City,Vatican City,1
+5_unicode_heavy,unicode,heavy,What is the smαllest countrу entirely within αnothеr country?,Vatican City,Unicode error,0
+5_emoji_light,emoji,light,What 🌍 is the smallest 🏔️ country entirely within another country?,Vatican City,Vatican City,1
+5_emoji_heavy,emoji,heavy,What 📍 is 🌊 the smallest 🌍 country 📍 entirely within another country?,Vatican City,Vatican City,1
+6_clean,clean,none,Which river forms the border between Zambia and Zimbabwe?,Zambezi River,Zambezi River,1
+6_typos_light,typos,light,Whuch river forms the borcer between Zambia and Zimbabwe?,Zambezi River,Zambezi River,1
+6_typos_heavy,typos,heavy,Which river forms yhr border between Xambia and Zikbabwe?,Zambezi River,Zambezi River,1
+6_spacing_light,spacing,light,Which river forms the  border between Zambia and  Zimbabwe,Zambezi River,Zambezi River,1
+6_spacing_heavy,spacing,heavy,Which  river forms the border   between  Zambia  and  Zimbabwe,Zambezi River,Zambezi River,1
+6_unicode_light,unicode,light,Whiсh river forms the border between Zambia αnd Zimbabwe?,Zambezi River,Z***,0
+6_unicode_heavy,unicode,heavy,Whiсh rivеr forms the border between Zαmbіa and Zimbabwe?,Zambezi River,Zambezi River,1
+6_emoji_light,emoji,light,Which river forms the border between 🌊 Zambia 📍 and Zimbabwe?,Zambezi River,Zambezi River,1
+6_emoji_heavy,emoji,heavy,Which river ⛰️ forms the 🗺️ border 🌋 between Zambia and 🗺️ Zimbabwe?,Zambezi River,Zambezi River,1
+7_clean,clean,none,What is the northernmost capital city in the world?,Reykjavik,Reykjavik,1
+7_typos_light,typos,light,What is the northednmost capital cuty in the world?,Reykjavik,Reykjavik,1
+7_typos_heavy,typos,heavy,Whar is rhe northernmost capital city in tbe worle?,Reykjavik,Reykjavik,1
+7_spacing_light,spacing,light,What is the  northernmost capital city in  the world?,Reykjavik,Reykjavik,1
+7_spacing_heavy,spacing,heavy,What is  the northernmost capital  city in  the  world,Reykjavik,Reykjavik,1
+7_unicode_light,unicode,light,What is the northernmost capіtal citу in the world?,Reykjavik,Reykjavik,1
+7_unicode_heavy,unicode,heavy,What is the nоrthеrnmost capital city in thе wоrld?,Reykjavik,Reykjavik,1
+7_emoji_light,emoji,light,What 🤔 is the northernmost ❓ capital city in the world?,Reykjavik,Reykjavik,1
+7_emoji_heavy,emoji,heavy,What 🤔 is the 🏝️ northernmost capital city ❓ in the 🌍 world?,Reykjavik,Reykjavik,1
+8_clean,clean,none,Which sea lies between Jordan and Israel?,Dead Sea,Dead Sea,1
+8_typos_light,typos,light,Which sea liws between Jordan and Israek?,Dead Sea,Dead Sea,1
+8_typos_heavy,typos,heavy,Whicb sea liea beteeen Jordan snd Israel?,Dead Sea,Dead Sea,1
+8_spacing_light,spacing,light,Which  sea lies between Jordan  and Israel?,Dead Sea,Dead Sea,1
+8_spacing_heavy,spacing,heavy,Which   sea   lies   between  Jordan  and Israel,Dead Sea,Dead Sea,1
+8_unicode_light,unicode,light,Which sea liеs between Jordan αnd Israel?,Dead Sea,Dead Sea,1
+8_unicode_heavy,unicode,heavy,Which sеα lіes bеtween Jordan and Israel?,Dead Sea,Dead Sea,1
+8_emoji_light,emoji,light,Which sea lies 🏔️ between Jordan and 🏝️ Israel?,Dead Sea,Dead,0
+8_emoji_heavy,emoji,heavy,Which 🤔 sea lies 📍 between 📍 Jordan and ❓ Israel?,Dead Sea,Dead Sea,1
+9_clean,clean,none,What is the largest lake on the African continent?,Lake Victoria,Lake Victoria,1
+9_typos_light,typos,light,What is the largdst lake on the African dontinent?,Lake Victoria,Lake Victoria,1
+9_typos_heavy,typos,heavy,What os the largesf lake on gbe African continent?,Lake Victoria,Lake Victoria,1
+9_spacing_light,spacing,light,What is the largest lake  on the African continent? ,Lake Victoria,Lake Victoria,1
+9_spacing_heavy,spacing,heavy,What   is  the   largest lake on  the African continent,Lake Victoria,Victoria,0
+9_unicode_light,unicode,light,What is the largеst lake on thе African continent?,Lake Victoria,Lake Victoria,1
+9_unicode_heavy,unicode,heavy,What is the largest lαkе on the Αfriсan continent?,Lake Victoria,Lake Victoria,1
+9_emoji_light,emoji,light,What is the largest 🤔 lake on ⛰️ the African continent?,Lake Victoria,Lake Victoria,1
+9_emoji_heavy,emoji,heavy,What 🌍 is the 🌍 largest lake on ⛰️ the African 🌋 continent?,Lake Victoria,Lake Victoria,1
+10_clean,clean,none,Which mountain range contains K2?,Karakoram,Karakoram,1
+10_typos_light,typos,light,Which mountqin range contaijs K2?,Karakoram,Karakoram,1
+10_typos_heavy,typos,heavy,Which kountain rsngw contajns K2?,Karakoram,Cannot process query,0
+10_spacing_light,spacing,light,Which  mountain  range contains K2,Karakoram,Karakoram,1
+10_spacing_heavy,spacing,heavy,Which  mountain   range   contains K2,Karakoram,Karakoram,1
+10_unicode_light,unicode,light,Whіch mоuntain range contains K2?,Karakoram,Pamirs,0
+10_unicode_heavy,unicode,heavy,Whіch mountaіn rαnge contαins K2?,Karakoram,Karakoram,1
+10_emoji_light,emoji,light,Which mountain 📍 range 🌊 contains K2?,Karakoram,Karakoram,1
+10_emoji_heavy,emoji,heavy,Which 🌋 mountain 🗺️ range 🗺️ contains 🌊 K2?,Karakoram,Karakoram,1
+11_clean,clean,none,What is the driest non-polar desert in the world?,Atacama Desert,Atacama Desert,1
+11_typos_light,typos,light,Wnat is the drkest non-polar desert in the world?,Atacama Desert,Atacama Desert,1
+11_typos_heavy,typos,heavy,What is the ddiest mob-polar deswrt in the world?,Atacama Desert,Atacama Desert,1
+11_spacing_light,spacing,light,What is the driest   non-polar desert in the world,Atacama Desert,Atacama Desert,1
+11_spacing_heavy,spacing,heavy,What  is  the  driest non-polar desert in   the world,Atacama Desert,Atacama Desert,1
+11_unicode_light,unicode,light,What is the driеst nоn-polar desert in the world?,Atacama Desert,Atacama Desert,1
+11_unicode_heavy,unicode,heavy,What іs the driеst nоn-polar desert in the wоrld?,Atacama Desert,Atacama Desert,1
+11_emoji_light,emoji,light,What is the driest non-polar desert 🏔️ in 🤔 the world?,Atacama Desert,Atacama Desert (location unclear),0
+11_emoji_heavy,emoji,heavy,What 📍 is 🌍 the ⛰️ driest non-polar desert in the ❓ world?,Atacama Desert,Atacama Desert,1
+12_clean,clean,none,Which island nation is located in the Indian Ocean near Madagascar?,Mauritius,Mauritius,1
+12_typos_light,typos,light,Which island nation is located ij the Indian Ofean near Madagascar?,Mauritius,Mauritius,1
+12_typos_heavy,typos,heavy,Which iskand nation is located im the Ijdian Odean near Madagascar?,Mauritius,Mauritius,1
+12_spacing_light,spacing,light,Which  island nation is located in the  Indian Ocean near Madagascar,Mauritius,Mauritius,1
+12_spacing_heavy,spacing,heavy,Which   island   nation   is   located   in   the Indian  Ocean  near Madagascar,Mauritius,Comoros,0
+12_unicode_light,unicode,light,Which island nation is locαted in the Indian Ocеan near Madagascar?,Mauritius,Mauritius,1
+12_unicode_heavy,unicode,heavy,Which islαnd nation is locαted in the Indian Ocean nеar Madagasсar?,Mauritius,Mauritius,1
+12_emoji_light,emoji,light,Which island nation is located 🌋 in the Indian Ocean ⛰️ near Madagascar?,Mauritius,Mauritius,1
+12_emoji_heavy,emoji,heavy,Which island nation is located 🌋 in 🌋 the 🌊 Indian 🗺️ Ocean near Madagascar?,Mauritius,Mauritius,1
+13_clean,clean,none,What is the longest river in Europe?,Volga River,Volga River,1
+13_typos_light,typos,light,What is the longest river on Durope?,Volga River,Volga River,1
+13_typos_heavy,typos,heavy,Ahat is the lonyest rkver in Eurppe?,Volga River,Volga River,1
+13_spacing_light,spacing,light,What is the longest river  in Europe? ,Volga River,Volga River,1
+13_spacing_heavy,spacing,heavy,What  is  the  longest  river   in Europe,Volga River,Volga River,1
+13_unicode_light,unicode,light,What is thе longest river іn Europe?,Volga River,Dnieper River,0
+13_unicode_heavy,unicode,heavy,What іs the longеst river in Еuroрe?,Volga River,Volga River,1
+13_emoji_light,emoji,light,What is the longest river 📍 in 🏔️ Europe?,Volga River,Volga River,1
+13_emoji_heavy,emoji,heavy,What 🌊 is 🌍 the 🌍 longest river in 🗺️ Europe?,Volga River,Cannot parse visual elements,0
+14_clean,clean,none,Which country has the most time zones?,France,France,1
+14_typos_light,typos,light,Which country has rhe mkst time zones?,France,France,1
+14_typos_heavy,typos,heavy,Which country hqs the jodt time zomes?,France,France,1
+14_spacing_light,spacing,light,Which country   has the most time zones,France,France,1
+14_spacing_heavy,spacing,heavy,Which country has  the most time   zones,France,France,1
+14_unicode_light,unicode,light,Whіch country has the mоst time zones?,France,France,1
+14_unicode_heavy,unicode,heavy,Whiсh cоuntry has the mоst tіme zones?,France,France,1
+14_emoji_light,emoji,light,Which country 🤔 has the 🤔 most time zones?,France,France,1
+14_emoji_heavy,emoji,heavy,Which country has 🏝️ the 🤔 most 🌋 time 🤔 zones?,France,France,1
+15_clean,clean,none,What is the name of the sea between Australia and New Zealand?,Tasman Sea,Tasman Sea,1
+15_typos_light,typos,light,What is the nzme of the sea between Australia and New Zealznd?,Tasman Sea,Tasman Sea,1
+15_typos_heavy,typos,heavy,What is the name of yue sea between Australia and Jew Zealamd?,Tasman Sea,Tasman Sea,1
+15_spacing_light,spacing,light,What is  the name of the sea between  Australia and New Zealand,Tasman Sea,Tasman Sea,1
+15_spacing_heavy,spacing,heavy,What is  the  name  of   the sea between Australia and  New   Zealand,Tasman Sea,Tasman Sea,1
+15_unicode_light,unicode,light,What is thе name of thе sea between Australia and New Zealand?,Tasman Sea,Tasman Sea,1
+15_unicode_heavy,unicode,heavy,What is the name of the sea betwеen Austrαlіa and Νew Zealand?,Tasman Sea,Tasman Sea,1
+15_emoji_light,emoji,light,What 🌋 is the name of the sea 🌊 between Australia and New Zealand?,Tasman Sea,Tasman Sea,1
+15_emoji_heavy,emoji,heavy,What ⛰️ is the name of the sea 🏔️ between Australia and 🌍 New 🏝️ Zealand?,Tasman Sea,Tasman Sea,1
+16_clean,clean,none,Which African country was formerly known as Abyssinia?,Ethiopia,Ethiopia,1
+16_typos_light,typos,light,Which African country was fotmsrly known as Abyssinia?,Ethiopia,Ethiopia,1
+16_typos_heavy,typos,heavy,Which African coyntdy was formefly kmown as Abyssinia?,Ethiopia,Ethiopia,1
+16_spacing_light,spacing,light,Which African country  was formerly known as Abyssinia? ,Ethiopia,Ethiopia,1
+16_spacing_heavy,spacing,heavy,Which   African   country was  formerly   known   as   Abyssinia,Ethiopia,Ethiopia,1
+16_unicode_light,unicode,light,Which Αfrican country was formerly knоwn as Abyssinia?,Ethiopia,Ethiopia,1
+16_unicode_heavy,unicode,heavy,Whiсh Afriсαn country was formerly known αs Abyssinia?,Ethiopia,Somalia,0
+16_emoji_light,emoji,light,Which African country 🌊 was 🏔️ formerly known as Abyssinia?,Ethiopia,Ethiopia,1
+16_emoji_heavy,emoji,heavy,Which African country 📍 was ⛰️ formerly known 🌋 as ⛰️ Abyssinia?,Ethiopia,Ethiopia,1
+17_clean,clean,none,What is the highest waterfall in the world?,Angel Falls,Angel Falls,1
+17_typos_light,typos,light,Wuat is the highest waterfall in the qorld?,Angel Falls,Angel Falls,1
+17_typos_heavy,typos,heavy,Wbst os the highewt waterfall in the world?,Angel Falls,Angel Falls,1
+17_spacing_light,spacing,light,What is the  highest  waterfall in the world?,Angel Falls,Angel Falls,1
+17_spacing_heavy,spacing,heavy,What   is the   highest waterfall  in   the  world,Angel Falls,Angel Falls,1
+17_unicode_light,unicode,light,What is thе highest waterfall in thе world?,Angel Falls,Angel Falls,1
+17_unicode_heavy,unicode,heavy,What іs thе highеst waterfall in thе world?,Angel Falls,Angel Falls,1
+17_emoji_light,emoji,light,What ⛰️ is the highest waterfall 🌍 in the world?,Angel Falls,Angel Falls,1
+17_emoji_heavy,emoji,heavy,What is the highest 🌊 waterfall ❓ in 📍 the 🌊 world?,Angel Falls,Angel Falls,1
+18_clean,clean,none,Which strait connects the Mediterranean Sea to the Atlantic Ocean?,Strait of Gibraltar,Strait of Gibraltar,1
+18_typos_light,typos,light,Which sgrait connects the Mediterranean Sea to the Arlantic Ocean?,Strait of Gibraltar,Strait of Gibraltar,1
+18_typos_heavy,typos,heavy,Whuch strait connects the Kediterranean Sda to the Atlantiv Ocean?,Strait of Gibraltar,Strait of Gibraltar,1
+18_spacing_light,spacing,light,Which  strait connects the Mediterranean Sea  to the Atlantic Ocean,Strait of Gibraltar,Strait of Gibraltar,1
+18_spacing_heavy,spacing,heavy,Which  strait connects  the  Mediterranean   Sea  to   the Atlantic  Ocean,Strait of Gibraltar,Strait of Gibraltar,1
+18_unicode_light,unicode,light,Which strait connects the Mediterranean Sеa to the Atlantiс Ocean?,Strait of Gibraltar,Bosphorus,0
+18_unicode_heavy,unicode,heavy,Which strait connects thе Mediterranean Sea to thе Αtlantic Oсean?,Strait of Gibraltar,Strait of Gibraltar,1
+18_emoji_light,emoji,light,Which strait connects the Mediterranean Sea to the 🌋 Atlantic 🏝️ Ocean?,Strait of Gibraltar,Strait of Gibraltar,1
+18_emoji_heavy,emoji,heavy,Which strait 🌊 connects the Mediterranean 🏝️ Sea ⛰️ to 📍 the Atlantic Ocean?,Strait of Gibraltar,Strait of Gibraltar,1
+19_clean,clean,none,What is the largest island in the Mediterranean Sea?,Sicily,Sicily,1
+19_typos_light,typos,light,What is the largest island in the Meciterramean Sea?,Sicily,Sicily,1
+19_typos_heavy,typos,heavy,Wjat is the largest islaje in the Mediyerranean Sea?,Sicily,Sicily,1
+19_spacing_light,spacing,light,What is the largest island  in  the Mediterranean Sea?,Sicily,Sicily,1
+19_spacing_heavy,spacing,heavy,What   is   the  largest   island in   the Mediterranean Sea,Sicily,Format error,0
+19_unicode_light,unicode,light,What is the largest island in the Mediterrαneαn Sea?,Sicily,Sicily,1
+19_unicode_heavy,unicode,heavy,What is the largest island іn the Mеditerraneαn Seα?,Sicily,Sicily,1
+19_emoji_light,emoji,light,What is the largest 📍 island in the Mediterranean 🌍 Sea?,Sicily,Sicily,1
+19_emoji_heavy,emoji,heavy,What is 🏝️ the largest 🏔️ island ❓ in the ⛰️ Mediterranean Sea?,Sicily,Sicily,1
+20_clean,clean,none,Which country contains the Okavango Delta?,Botswana,Botswana,1
+20_typos_light,typos,light,Which country contains the Okavango Deotw?,Botswana,Botswana,1
+20_typos_heavy,typos,heavy,Which country contains tud Okavanto Deltw?,Botswana,Botswana,1
+20_spacing_light,spacing,light,Which  country contains the Okavango Delta? ,Botswana,Botswana,1
+20_spacing_heavy,spacing,heavy,Which country   contains   the   Okavango Delta,Botswana,Botswana,1
+20_unicode_light,unicode,light,Which country cоntains the Okαvango Delta?,Botswana,Unrecognized location,0
+20_unicode_heavy,unicode,heavy,Which countrу contains thе Okαvango Deltα?,Botswana,,0
+20_emoji_light,emoji,light,Which country contains 🌊 the Okavango 📍 Delta?,Botswana,Botswana,1
+20_emoji_heavy,emoji,heavy,Which 🗺️ country 🤔 contains 🌍 the ⛰️ Okavango Delta?,Botswana,Botswana,1
+21_clean,clean,none,What is the deepest lake in the world?,Lake Baikal,Lake Baikal,1
+21_typos_light,typos,light,Wbat is thw deepest lake in the world?,Lake Baikal,Lake Baikal,1
+21_typos_heavy,typos,heavy,What us the feepest lake kn rhe world?,Lake Baikal,Lake Baikal,1
+21_spacing_light,spacing,light,What is the deepest lake in the world?  ,Lake Baikal,Lake Baikal,1
+21_spacing_heavy,spacing,heavy,What is the  deepest  lake in the  world,Lake Baikal,Lake Baikal,1
+21_unicode_light,unicode,light,What іs the deepest lake іn the world?,Lake Baikal,Lake Baikal,1
+21_unicode_heavy,unicode,heavy,Whαt is thе deepest lake in thе wоrld?,Lake Baikal,Lake Baikal,1
+21_emoji_light,emoji,light,What is 📍 the deepest lake ⛰️ in the world?,Lake Baikal,Lake Baikal,1
+21_emoji_heavy,emoji,heavy,What 🌊 is ❓ the deepest ❓ lake ❓ in the world?,Lake Baikal,Lake Baikal,1
+22_clean,clean,none,Which mountain range separates Europe from Asia?,Ural Mountains,Ural Mountains,1
+22_typos_light,typos,light,Which mountain range separafes Europe grom Asia?,Ural Mountains,Ural Mountains,1
+22_typos_heavy,typos,heavy,Which mountain range swparates Rurope frok Ssia?,Ural Mountains,Unknown location,0
+22_spacing_light,spacing,light,Which mountain  range  separates Europe from Asia,Ural Mountains,Ural Mountains,1
+22_spacing_heavy,spacing,heavy,Which mountain range separates   Europe from Asia,Ural Mountains,Ural Mountains,1
+22_unicode_light,unicode,light,Which mountain range separates Eurорe from Asia?,Ural Mountains,Ural Mountains,1
+22_unicode_heavy,unicode,heavy,Whiсh mountain range sepαrates Europе from Asiα?,Ural Mountains,Ural Mountains,1
+22_emoji_light,emoji,light,Which mountain 🏝️ range ⛰️ separates Europe from Asia?,Ural Mountains,Ural Mountains,1
+22_emoji_heavy,emoji,heavy,Which 📍 mountain 🌋 range 🌊 separates ❓ Europe from Asia?,Ural Mountains,Ural Mountains,1
+23_clean,clean,none,What is the smallest ocean in the world?,Arctic Ocean,Arctic Ocean,1
+23_typos_light,typos,light,What is the wmalldst ocean in the world?,Arctic Ocean,Arctic Ocean,1
+23_typos_heavy,typos,heavy,Whaf ks the snallest ocsan in the world?,Arctic Ocean,Pacific Ocean,0
+23_spacing_light,spacing,light,What is the smallest ocean  in the  world,Arctic Ocean,Arctic Ocean,1
+23_spacing_heavy,spacing,heavy,What   is   the  smallest  ocean in   the world,Arctic Ocean,Arctic Ocean,1
+23_unicode_light,unicode,light,What is the smallest оcean in the wоrld?,Arctic Ocean,Arctic Ocean,1
+23_unicode_heavy,unicode,heavy,Whαt іs the smallеst ocean іn the world?,Arctic Ocean,Arctic Ocean,1
+23_emoji_light,emoji,light,What is ❓ the smallest ocean in ❓ the world?,Arctic Ocean,Arctic Ocean,1
+23_emoji_heavy,emoji,heavy,What 🏝️ is the 🤔 smallest ocean in 🏝️ the 🗺️ world?,Arctic Ocean,Arctic Ocean,1
+24_clean,clean,none,Which country has the most UNESCO World Heritage Sites?,Italy,Italy,1
+24_typos_light,typos,light,Which countrg has ths most UNESCO World Heritage Sites?,Italy,Italy,1
+24_typos_heavy,typos,heavy,Which fountry has the most YNESDO Wofld Heritage Sites?,Italy,Italy,1
+24_spacing_light,spacing,light,Which country has the most UNESCO  World  Heritage Sites,Italy,Italy,1
+24_spacing_heavy,spacing,heavy,Which  country   has  the   most UNESCO  World Heritage  Sites,Italy,Italy,1
+24_unicode_light,unicode,light,Which cоuntry has the most UNESСO World Heritage Sites?,Italy,Italy,1
+24_unicode_heavy,unicode,heavy,Whіch country has the most UNESCO Wоrld Hеritαge Sites?,Italy,Italy,1
+24_emoji_light,emoji,light,Which 🤔 country has the most UNESCO World 🌊 Heritage Sites?,Italy,Italy,1
+24_emoji_heavy,emoji,heavy,Which country has the 🤔 most ⛰️ UNESCO 🌊 World Heritage 🌍 Sites?,Italy,Italy,1
+25_clean,clean,none,What is the longest mountain range in the world?,Andes,Andes,1
+25_typos_light,typos,light,What is ths longest mohntain range in the world?,Andes,Andes,1
+25_typos_heavy,typos,heavy,Wyat is tne longesr mountain range in the worlr?,Andes,Andes,1
+25_spacing_light,spacing,light,What is the longest mountain range in  the world? ,Andes,Andes,1
+25_spacing_heavy,spacing,heavy,What is  the longest   mountain range  in   the  world,Andes,Andes,1
+25_unicode_light,unicode,light,What is the longеst mountain range in thе world?,Andes,Rocky Mountains,0
+25_unicode_heavy,unicode,heavy,What is the lоngest mountαіn range in thе world?,Andes,Andes,1
+25_emoji_light,emoji,light,What is the longest mountain 🌋 range in the 🗺️ world?,Andes,Andes,1
+25_emoji_heavy,emoji,heavy,What is 🏔️ the longest 🌋 mountain ⛰️ range in 📍 the world?,Andes,Himalayas,0
+26_clean,clean,none,Which sea is located between Greece and Turkey?,Aegean Sea,Mediterranean Sea,0
+26_typos_light,typos,light,Which sea is located hetween Greece ans Turkey?,Aegean Sea,Aegean Sea,1
+26_typos_heavy,typos,heavy,Which sea ie located befween Greece ajd Turksy?,Aegean Sea,Aegean Sea,1
+26_spacing_light,spacing,light,Which sea is located between Greece and  Turkey? ,Aegean Sea,Aegean Sea,1
+26_spacing_heavy,spacing,heavy,Which sea   is located   between  Greece and  Turkey,Aegean Sea,Aegean Sea,1
+26_unicode_light,unicode,light,Which sea is located betwеen Greecе and Turkey?,Aegean Sea,Aegean Sea,1
+26_unicode_heavy,unicode,heavy,Which sea іs located between Grеecе and Turkeу?,Aegean Sea,Aegean Sea,1
+26_emoji_light,emoji,light,Which ❓ sea 🤔 is located between Greece and Turkey?,Aegean Sea,Aegean Sea,1
+26_emoji_heavy,emoji,heavy,Which 🗺️ sea is 🌍 located 🏝️ between Greece 🤔 and Turkey?,Aegean Sea,Aegean Sea,1
+27_clean,clean,none,What is the largest salt flat in the world?,Salar de Uyuni,Salar de Uyuni,1
+27_typos_light,typos,light,What is the oargest salt flat in rhe world?,Salar de Uyuni,Salar de Uyuni,1
+27_typos_heavy,typos,heavy,What ie the largest ealt fpat im the world?,Salar de Uyuni,Salar de Uyuni,1
+27_spacing_light,spacing,light,What is the largest salt flat in the  world? ,Salar de Uyuni,Salar de Uyuni,1
+27_spacing_heavy,spacing,heavy,What is the   largest   salt  flat in   the world,Salar de Uyuni,Salar de Uyuni,1
+27_unicode_light,unicode,light,What іs the largest salt flat in the wоrld?,Salar de Uyuni,Salar de Uyuni,1
+27_unicode_heavy,unicode,heavy,Whαt is thе largеst salt flat іn the world?,Salar de Uyuni,Salar de Uyuni,1
+27_emoji_light,emoji,light,What ⛰️ is the 🌍 largest salt flat in the world?,Salar de Uyuni,Salar de Uyuni,1
+27_emoji_heavy,emoji,heavy,What is ❓ the 🌋 largest 🤔 salt flat 🌊 in the world?,Salar de Uyuni,Salar de Uyuni,1
+28_clean,clean,none,Which river flows through Baghdad?,Tigris River,Tigris River,1
+28_typos_light,typos,light,Which river flows througy Bagydad?,Tigris River,Tigris River,1
+28_typos_heavy,typos,heavy,Whoch diver flows throhgh Baghdqd?,Tigris River,Tigris River,1
+28_spacing_light,spacing,light,Which river  flows through  Baghdad,Tigris River,Tigris River,1
+28_spacing_heavy,spacing,heavy,Which  river  flows   through Baghdad,Tigris River,Tigris River,1
+28_unicode_light,unicode,light,Which rіver flоws through Baghdad?,Tigris River,Tigris River,1
+28_unicode_heavy,unicode,heavy,Whiсh rіver flоws through Bαghdad?,Tigris River,Tigris River,1
+28_emoji_light,emoji,light,Which river flows ⛰️ through 🌋 Baghdad?,Tigris River,Tigris River,1
+28_emoji_heavy,emoji,heavy,Which 🌋 river 🌊 flows 📍 through 🏝️ Baghdad?,Tigris River,Tigris River,1
+29_clean,clean,none,What is the highest capital city in the world?,La Paz,La Paz,1
+29_typos_light,typos,light,What is the highest capitao city in the worlc?,La Paz,La Paz,1
+29_typos_heavy,typos,heavy,Wbat is the highest czoital ciry in the world?,La Paz,La Paz,1
+29_spacing_light,spacing,light,What is the highest  capital  city in the world,La Paz,La Paz,1
+29_spacing_heavy,spacing,heavy,What  is the   highest capital   city  in   the   world,La Paz,La Paz,1
+29_unicode_light,unicode,light,What is the highеst capital сity in the world?,La Paz,La Paz,1
+29_unicode_heavy,unicode,heavy,What is the hіghest capital сity іn thе world?,La Paz,La Paz,1
+29_emoji_light,emoji,light,What 🌍 is the 🏝️ highest capital city in the world?,La Paz,La Paz,1
+29_emoji_heavy,emoji,heavy,What 🗺️ is 🌋 the highest capital city 🏔️ in the ⛰️ world?,La Paz,L* P*z,0
+30_clean,clean,none,Which archipelago includes Java and Sumatra?,Indonesian Archipelago,Indonesian Archipelago,1
+30_typos_light,typos,light,Which arcuipepago includes Java and Sumatra?,Indonesian Archipelago,Indonesian Archipelago,1
+30_typos_heavy,typos,heavy,Which archilelago ijcludes Java and Shjatra?,Indonesian Archipelago,Philippine Archipelago,0
+30_spacing_light,spacing,light,Which  archipelago includes Java  and Sumatra,Indonesian Archipelago,Indonesian Archipelago,1
+30_spacing_heavy,spacing,heavy,Which archipelago includes   Java   and   Sumatra,Indonesian Archipelago,Indonesian Archipelago,1
+30_unicode_light,unicode,light,Which αrchipelago includеs Java and Sumatra?,Indonesian Archipelago,Indonesian Archipelago,1
+30_unicode_heavy,unicode,heavy,Whіch archіpelagо includes Jαva and Sumatra?,Indonesian Archipelago,Indonesian Archipelago,1
+30_emoji_light,emoji,light,Which ⛰️ archipelago includes Java 🏔️ and Sumatra?,Indonesian Archipelago,Indonesian Archipelago,1
+30_emoji_heavy,emoji,heavy,Which archipelago 🌍 includes 🏝️ Java 🌊 and 📍 Sumatra?,Indonesian Archipelago,Indonesian Archipelago,1
+31_clean,clean,none,What is the westernmost point of continental Europe?,Cabo da Roca,Cabo da Roca,1
+31_typos_light,typos,light,What is the westernmost point of continenyal Ejrope?,Cabo da Roca,Cabo da Roca,1
+31_typos_heavy,typos,heavy,What js the westernmost point of cohtinental Euelpe?,Cabo da Roca,Cabo da Roca,1
+31_spacing_light,spacing,light,What   is the westernmost point of continental Europe?,Cabo da Roca,Cabo da Roca,1
+31_spacing_heavy,spacing,heavy,What  is the westernmost point   of continental  Europe,Cabo da Roca,Cabo da Roca,1
+31_unicode_light,unicode,light,What is the westernmost point of cоntinental Euroрe?,Cabo da Roca,Cabo da Roca,1
+31_unicode_heavy,unicode,heavy,What is the wеstеrnmost point of continеntal Europе?,Cabo da Roca,Cabo da Roca,1
+31_emoji_light,emoji,light,What is the westernmost 🌋 point of continental ❓ Europe?,Cabo da Roca,Cabo da Roca,1
+31_emoji_heavy,emoji,heavy,What 🏔️ is 🌊 the 🏝️ westernmost point of continental 🏝️ Europe?,Cabo da Roca,Cannot parse visual elements,0
+32_clean,clean,none,"Which lake is shared by Uganda, Kenya, and Tanzania?",Lake Victoria,Lake Victoria,1
+32_typos_light,typos,light,"Which lwke is shared by Ugansa, Kenya, and Tanzania?",Lake Victoria,Lake,0
+32_typos_heavy,typos,heavy,"Which laie is snared vy Uganda, Lenya, and Tanzania?",Lake Victoria,Lake Victoria,1
+32_spacing_light,spacing,light,"Which   lake is shared by Uganda, Kenya, and Tanzania",Lake Victoria,Lake Victoria,1
+32_spacing_heavy,spacing,heavy,"Which lake is   shared by Uganda,   Kenya, and   Tanzania",Lake Victoria,Lake Victoria,1
+32_unicode_light,unicode,light,"Which lake is shared bу Uganda, Kеnya, and Tanzania?",Lake Victoria,Unrecognized location,0
+32_unicode_heavy,unicode,heavy,"Whіch lake іs shared by Ugαnda, Kenya, αnd Tanzania?",Lake Victoria,Lake Victoria,1
+32_emoji_light,emoji,light,"Which lake ⛰️ is 🤔 shared by Uganda, Kenya, and Tanzania?",Lake Victoria,Lake Victoria,1
+32_emoji_heavy,emoji,heavy,"Which 🌊 lake is 🏔️ shared by Uganda, 🌍 Kenya, 🗺️ and Tanzania?",Lake Victoria,Lake Victoria,1
+33_clean,clean,none,What is the longest cave system in the world?,Mammoth Cave,Mammoth Cave,1
+33_typos_light,typos,light,Wuat is the longest cave wystem in the world?,Mammoth Cave,Mammoth Cave,1
+33_typos_heavy,typos,heavy,Whar is thw longest cave system jn the wodld?,Mammoth Cave,Mammoth Cave,1
+33_spacing_light,spacing,light,What is the longest cave system  in the world? ,Mammoth Cave,Mammoth Cave,1
+33_spacing_heavy,spacing,heavy,What  is   the longest   cave system   in   the   world,Mammoth Cave,Mammoth Cave,1
+33_unicode_light,unicode,light,What is the longest cavе system іn the world?,Mammoth Cave,Mammoth Cave,1
+33_unicode_heavy,unicode,heavy,Whαt is the longest cαvе system in the wоrld?,Mammoth Cave,Mammoth Cave,1
+33_emoji_light,emoji,light,What is the longest cave system 🏝️ in 📍 the world?,Mammoth Cave,Mammoth Cave,1
+33_emoji_heavy,emoji,heavy,What 🗺️ is the 📍 longest cave system in 🗺️ the ❓ world?,Mammoth Cave,Mammoth Cave,1
+34_clean,clean,none,Which country owns the Faroe Islands?,Denmark,Denmark,1
+34_typos_light,typos,light,Which coujtry owns the Garoe Islands?,Denmark,Denmark,1
+34_typos_heavy,typos,heavy,Which counrry owbs fhe Caroe Islands?,Denmark,Denmark,1
+34_spacing_light,spacing,light,Which country owns the Faroe Islands?  ,Denmark,Denmark,1
+34_spacing_heavy,spacing,heavy,Which   country   owns the  Faroe  Islands,Denmark,Denmark,1
+34_unicode_light,unicode,light,Which country оwns thе Faroe Islands?,Denmark,Character encoding error,0
+34_unicode_heavy,unicode,heavy,Whiсh country owns thе Fαroe Іslands?,Denmark,Denmark,1
+34_emoji_light,emoji,light,Which country owns ⛰️ the 🏔️ Faroe Islands?,Denmark,Denmark,1
+34_emoji_heavy,emoji,heavy,Which country 📍 owns 📍 the 📍 Faroe 📍 Islands?,Denmark,Denmark,1
+35_clean,clean,none,What is the largest atoll in the world?,Kiritimati,Kiritimati,1
+35_typos_light,typos,light,Whay is the largdst atoll in the world?,Kiritimati,Kiritimati,1
+35_typos_heavy,typos,heavy,Wnat is the largest agill in the worlf?,Kiritimati,Kiritimati,1
+35_spacing_light,spacing,light,What is the largest atoll in  the  world,Kiritimati,Kiritimati,1
+35_spacing_heavy,spacing,heavy,What   is the  largest   atoll  in  the world,Kiritimati,Kiritimati,1
+35_unicode_light,unicode,light,What is the lαrgest atoll in thе world?,Kiritimati,Kiritimati,1
+35_unicode_heavy,unicode,heavy,What is thе lαrgest atоll іn the world?,Kiritimati,Kiritimati,1
+35_emoji_light,emoji,light,What 🏔️ is the 🤔 largest atoll in the world?,Kiritimati,Kiritimati,1
+35_emoji_heavy,emoji,heavy,What ❓ is ❓ the 🤔 largest atoll 🌋 in the world?,Kiritimati,Kiritimati,1
+36_clean,clean,none,Which river delta is home to the Sundarbans mangrove forest?,Ganges Delta,Ganges Delta,1
+36_typos_light,typos,light,Which river delta is home to the Sundarbans mangrlvw forest?,Ganges Delta,Mississippi Delta,0
+36_typos_heavy,typos,heavy,Wuich river ddlta is uome to the Sundarbans mangrove dorest?,Ganges Delta,Mekong Delta,0
+36_spacing_light,spacing,light,Which river delta   is home to the Sundarbans mangrove forest,Ganges Delta,Ganges Delta,1
+36_spacing_heavy,spacing,heavy,Which  river delta is   home   to the Sundarbans   mangrove   forest,Ganges Delta,Ganges Delta,1
+36_unicode_light,unicode,light,Which river delta is home to the Sundarbαns mαngrove forest?,Ganges Delta,Ganges Delta,1
+36_unicode_heavy,unicode,heavy,Which river deltα is home to thе Sundarbans mangrоvе forest?,Ganges Delta,Ganges Delta,1
+36_emoji_light,emoji,light,Which river delta is home ❓ to ❓ the Sundarbans mangrove forest?,Ganges Delta,Ganges,0
+36_emoji_heavy,emoji,heavy,Which ⛰️ river 📍 delta is home to the 🌍 Sundarbans mangrove ❓ forest?,Ganges Delta,Ganges Delta,1
+37_clean,clean,none,What is the southernmost city in the world?,Ushuaia,Ushuaia,1
+37_typos_light,typos,light,What is the southernmost city in fje world?,Ushuaia,Ushuaia,1
+37_typos_heavy,typos,heavy,What is the soutjernjost city ib the woeld?,Ushuaia,Ushuaia,1
+37_spacing_light,spacing,light,What is the southernmost city  in the world? ,Ushuaia,Ushuaia,1
+37_spacing_heavy,spacing,heavy,What  is the southernmost  city   in the world,Ushuaia,Ushuaia,1
+37_unicode_light,unicode,light,What is the sоuthеrnmost city in the world?,Ushuaia,Ushuaia,1
+37_unicode_heavy,unicode,heavy,What is thе southеrnmоst city in thе world?,Ushuaia,Ushuaia,1
+37_emoji_light,emoji,light,What 🌋 is the southernmost city in the 🏝️ world?,Ushuaia,Ushuaia,1
+37_emoji_heavy,emoji,heavy,What is 📍 the southernmost 🏔️ city in 🤔 the 🤔 world?,Ushuaia,Ushuaia,1
+38_clean,clean,none,Which sea separates Saudi Arabia from Africa?,Red Sea,Red Sea,1
+38_typos_light,typos,light,Whuch sea separates Saudi Arania from Africa?,Red Sea,Red Sea,1
+38_typos_heavy,typos,heavy,Whicb sea separates Saufi Arabia fdom Afriva?,Red Sea,Red Sea,1
+38_spacing_light,spacing,light,Which  sea separates  Saudi Arabia from Africa?,Red Sea,Red Sea,1
+38_spacing_heavy,spacing,heavy,Which  sea separates   Saudi  Arabia   from  Africa,Red Sea,Red Sea,1
+38_unicode_light,unicode,light,Which seα separates Saudi Arabіa from Africa?,Red Sea,Red Sea,1
+38_unicode_heavy,unicode,heavy,Which sea separαtes Saudi Arαbіa from Αfrica?,Red Sea,Red Sea,1
+38_emoji_light,emoji,light,Which 🏔️ sea separates Saudi ⛰️ Arabia from Africa?,Red Sea,Red Sea,1
+38_emoji_heavy,emoji,heavy,Which 🤔 sea 🤔 separates 📍 Saudi Arabia from 🤔 Africa?,Red Sea,Cannot parse visual elements,0
+39_clean,clean,none,What is the largest landlocked country in the world?,Kazakhstan,Kazakhstan,1
+39_typos_light,typos,light,What is the laryest landlodked country in the world?,Kazakhstan,Kazakhstan,1
+39_typos_heavy,typos,heavy,What is yhe pargesy kandlocked country in the world?,Kazakhstan,Kazakhstan,1
+39_spacing_light,spacing,light,What is  the  largest landlocked country in the world,Kazakhstan,Kazakhstan,1
+39_spacing_heavy,spacing,heavy,What   is  the  largest   landlocked   country  in   the   world,Kazakhstan,Kazakhstan,1
+39_unicode_light,unicode,light,What is the largest landlocked соuntry in the world?,Kazakhstan,Kazakhstan,1
+39_unicode_heavy,unicode,heavy,What is the largest lαndlocked cоuntry in thе wоrld?,Kazakhstan,Kazakhstan,1
+39_emoji_light,emoji,light,What is the 🏝️ largest 📍 landlocked country in the world?,Kazakhstan,Kazakhstan,1
+39_emoji_heavy,emoji,heavy,What is the 🤔 largest landlocked country 🏔️ in 🌍 the ❓ world?,Kazakhstan,Kazakhstan,1
+40_clean,clean,none,Which volcano destroyed Pompeii?,Mount Vesuvius,Mount Vesuvius,1
+40_typos_light,typos,light,Whjch volczno destroyed Pompeii?,Mount Vesuvius,Mount Vesuvius,1
+40_typos_heavy,typos,heavy,Wgich volczni destroyed Pompeji?,Mount Vesuvius,Mount Vesuvius,1
+40_spacing_light,spacing,light,Which  volcano destroyed Pompeii? ,Mount Vesuvius,Mount Vesuvius,1
+40_spacing_heavy,spacing,heavy,Which   volcano   destroyed Pompeii,Mount Vesuvius,Mount Vesuvius,1
+40_unicode_light,unicode,light,Which volcano destroуed Pompeiі?,Mount Vesuvius,Mount Vesuvius,1
+40_unicode_heavy,unicode,heavy,Whісh volcαno destrоyed Pompeii?,Mount Vesuvius,Mount Vesuvius,1
+40_emoji_light,emoji,light,Which 🗺️ volcano 🤔 destroyed Pompeii?,Mount Vesuvius,Mount Vesuvius,1
+40_emoji_heavy,emoji,heavy,Which 🤔 volcano 🤔 destroyed 🏝️ Pompeii?,Mount Vesuvius,Mount Vesuvius,1
+41_clean,clean,none,What is the longest river in Australia?,Murray River,Murray River,1
+41_typos_light,typos,light,What is the llngest river in Wustralia?,Murray River,Murray River,1
+41_typos_heavy,typos,heavy,Whar is the longest river kn Ajsrralia?,Murray River,Murray River,1
+41_spacing_light,spacing,light,What is the longest river  in  Australia?,Murray River,Murray River,1
+41_spacing_heavy,spacing,heavy,What  is   the   longest   river in  Australia,Murray River,Format error,0
+41_unicode_light,unicode,light,What is the longest river in Austrαlіa?,Murray River,M***,0
+41_unicode_heavy,unicode,heavy,What is thе longеst rіvеr in Australia?,Murray River,Murray River,1
+41_emoji_light,emoji,light,What is ⛰️ the longest river 📍 in Australia?,Murray River,Murray River,1
+41_emoji_heavy,emoji,heavy,What 🤔 is the 🌋 longest 📍 river 🤔 in Australia?,Murray River,Murray River,1
+42_clean,clean,none,Which country has the most islands?,Sweden,Sweden,1
+42_typos_light,typos,light,Shich countrh has the most islands?,Sweden,Sweden,1
+42_typos_heavy,typos,heavy,Which vpuntty has the most iskands?,Sweden,Sweden,1
+42_spacing_light,spacing,light,Which  country  has the most islands?,Sweden,Sweden,1
+42_spacing_heavy,spacing,heavy,Which country   has   the   most   islands,Sweden,Sweden,1
+42_unicode_light,unicode,light,Which сountry hαs the most islands?,Sweden,Sweden,1
+42_unicode_heavy,unicode,heavy,Whiсh сountry has thе most islαnds?,Sweden,Sweden,1
+42_emoji_light,emoji,light,Which country 🌍 has the most 🏝️ islands?,Sweden,Sweden,1
+42_emoji_heavy,emoji,heavy,Which 🏝️ country has ⛰️ the ❓ most 🏝️ islands?,Sweden,Cannot parse visual elements,0
+43_clean,clean,none,What is the highest mountain in Africa?,Mount Kilimanjaro,Mount Kilimanjaro,1
+43_typos_light,typos,light,What is the higheef mountain in Africa?,Mount Kilimanjaro,Mount Kilimanjaro,1
+43_typos_heavy,typos,heavy,What is the higuest mountaim in Afdoca?,Mount Kilimanjaro,Mount Kilimanjaro,1
+43_spacing_light,spacing,light,What is  the highest mountain in Africa? ,Mount Kilimanjaro,Mount Kilimanjaro,1
+43_spacing_heavy,spacing,heavy,What is  the highest   mountain  in  Africa,Mount Kilimanjaro,Mount Kilimanjaro,1
+43_unicode_light,unicode,light,What іs the highest mountain in Afriсa?,Mount Kilimanjaro,Mount Kilimanjaro,1
+43_unicode_heavy,unicode,heavy,What іs the highеst mountain іn Afriсa?,Mount Kilimanjaro,Mount Kilimanjaro,1
+43_emoji_light,emoji,light,What is 🤔 the 🏝️ highest mountain in Africa?,Mount Kilimanjaro,Mount Kilimanjaro,1
+43_emoji_heavy,emoji,heavy,What 🌋 is 🌍 the highest 🏔️ mountain 🏝️ in Africa?,Mount Kilimanjaro,Mount Kilimanjaro,1
+44_clean,clean,none,Which strait separates Sicily from mainland Italy?,Strait of Messina,Strait of Messina,1
+44_typos_light,typos,light,Whifh strait separates Sicilu from mainland Italy?,Strait of Messina,Strait of Messina,1
+44_typos_heavy,typos,heavy,Which etrait sepwrates Sicuky from mainland Italy?,Strait of Messina,Strait of Messina,1
+44_spacing_light,spacing,light,Which strait  separates Sicily from mainland Italy? ,Strait of Messina,Strait of Messina,1
+44_spacing_heavy,spacing,heavy,Which  strait  separates   Sicily from   mainland  Italy,Strait of Messina,Strait of Messina,1
+44_unicode_light,unicode,light,Whіch strait separates Sicily from mainland Italу?,Strait of Messina,Strait of Messina,1
+44_unicode_heavy,unicode,heavy,Whіch strαit sepαratеs Sicily from mainland Italy?,Strait of Messina,Strait of Messina,1
+44_emoji_light,emoji,light,Which strait 🤔 separates Sicily from ❓ mainland Italy?,Strait of Messina,Strait of Messina,1
+44_emoji_heavy,emoji,heavy,Which 🌊 strait separates 🌍 Sicily 📍 from ⛰️ mainland Italy?,Strait of Messina,Strait of Messina,1
+45_clean,clean,none,What is the largest bay in the world?,Bay of Bengal,Bay of Bengal,1
+45_typos_light,typos,light,What is the largsst bay ib the world?,Bay of Bengal,Bay of Bengal,1
+45_typos_heavy,typos,heavy,Whar is the largesy bay in the wotlx?,Bay of Bengal,Bay of Bengal,1
+45_spacing_light,spacing,light,What is the largest bay  in the  world?,Bay of Bengal,BayofBengal,0
+45_spacing_heavy,spacing,heavy,What  is the   largest  bay in   the   world,Bay of Bengal,Bay of Bengal,1
+45_unicode_light,unicode,light,What is the largest bαy in thе world?,Bay of Bengal,Bay of Bengal,1
+45_unicode_heavy,unicode,heavy,Whαt іs the lαrgest bay in thе world?,Bay of Bengal,Gulf of Mexico,0
+45_emoji_light,emoji,light,What is the largest 🌋 bay in the 🌍 world?,Bay of Bengal,Bay of Bengal,1
+45_emoji_heavy,emoji,heavy,What 📍 is the 🌊 largest bay in 🏔️ the 📍 world?,Bay of Bengal,Bay of Bengal,1
+46_clean,clean,none,Which desert covers much of Botswana?,Kalahari Desert,Kalahari Desert,1
+46_typos_light,typos,light,Which desert covers mich of Bltswana?,Kalahari Desert,Kalahari Desert,1
+46_typos_heavy,typos,heavy,Wnich deserf dovers kuch of Botswana?,Kalahari Desert,Kalahari Desert,1
+46_spacing_light,spacing,light,Which desert covers much  of Botswana? ,Kalahari Desert,Kalahari Desert,1
+46_spacing_heavy,spacing,heavy,Which desert covers   much  of Botswana,Kalahari Desert,Kalahari Desert,1
+46_unicode_light,unicode,light,Whіch desеrt covers much of Botswana?,Kalahari Desert,Kalahari Desert,1
+46_unicode_heavy,unicode,heavy,Whіch desеrt cоvers much of Botswanα?,Kalahari Desert,Kalahari Desert,1
+46_emoji_light,emoji,light,Which desert covers 🏝️ much 🤔 of Botswana?,Kalahari Desert,Kalahari Desert,1
+46_emoji_heavy,emoji,heavy,Which 🏔️ desert covers 🌍 much 🏔️ of ⛰️ Botswana?,Kalahari Desert,Kalahari Desert,1
+47_clean,clean,none,What is the deepest canyon in the world?,Yarlung Tsangpo Grand Canyon,Yarlung Tsangpo Grand Canyon,1
+47_typos_light,typos,light,What is tje deepest cwnyon in the world?,Yarlung Tsangpo Grand Canyon,Yarlung Tsangpo Grand Canyon,1
+47_typos_heavy,typos,heavy,What is the deepest canyoj in fye wkrld?,Yarlung Tsangpo Grand Canyon,Yarlung Tsangpo Grand Canyon,1
+47_spacing_light,spacing,light,What is  the deepest canyon  in the world,Yarlung Tsangpo Grand Canyon,Yarlung Tsangpo Grand Canyon,1
+47_spacing_heavy,spacing,heavy,What is  the   deepest canyon   in  the  world,Yarlung Tsangpo Grand Canyon,Yarlung Tsangpo Grand Canyon,1
+47_unicode_light,unicode,light,What іs the deeрest canyon in the world?,Yarlung Tsangpo Grand Canyon,Yarlung Tsangpo Grand Canyon,1
+47_unicode_heavy,unicode,heavy,What is the deеpest сanyоn in thе world?,Yarlung Tsangpo Grand Canyon,Unable to decode,0
+47_emoji_light,emoji,light,What is the deepest canyon 🗺️ in 🌋 the world?,Yarlung Tsangpo Grand Canyon,Grand Canyon,0
+47_emoji_heavy,emoji,heavy,What is the 🌋 deepest ❓ canyon in 🏔️ the 🌍 world?,Yarlung Tsangpo Grand Canyon,Yarlung Tsangpo Grand Canyon,1
+48_clean,clean,none,Which island group forms the westernmost point of Europe?,Azores,Azores,1
+48_typos_light,typos,light,Which island group firms the westernmost point if Europe?,Azores,Azores,1
+48_typos_heavy,typos,heavy,Which island group forms ths wrsternmost point if Rurope?,Azores,Azores,1
+48_spacing_light,spacing,light,Which  island group  forms the westernmost point of Europe?,Azores,Azores,1
+48_spacing_heavy,spacing,heavy,Which   island  group  forms  the   westernmost point   of Europe,Azores,Format error,0
+48_unicode_light,unicode,light,Which island group forms the westernmost рoint оf Europe?,Azores,Azores,1
+48_unicode_heavy,unicode,heavy,Which іsland grоup forms the westernmost рoint оf Europe?,Azores,Azores,1
+48_emoji_light,emoji,light,Which island group forms ⛰️ the westernmost 🏔️ point of Europe?,Azores,Azores,1
+48_emoji_heavy,emoji,heavy,Which 🤔 island 🌋 group forms 🤔 the westernmost point 🏝️ of Europe?,Azores,Azor*s,0
+49_clean,clean,none,What is the longest river in Asia?,Yangtze River,Yangtze River,1
+49_typos_light,typos,light,Whag is ths longest river in Asia?,Yangtze River,Yangtze River,1
+49_typos_heavy,typos,heavy,What is fhe kongest rivrr ih Asia?,Yangtze River,Yangtze River,1
+49_spacing_light,spacing,light,What  is the longest river in Asia? ,Yangtze River,Yangtze River,1
+49_spacing_heavy,spacing,heavy,What   is  the longest   river  in   Asia,Yangtze River,Yangtze River,1
+49_unicode_light,unicode,light,What іs the longest river in Αsia?,Yangtze River,Yangtze River,1
+49_unicode_heavy,unicode,heavy,What is thе longеst river in Αsіa?,Yangtze River,Yangtze River,1
+49_emoji_light,emoji,light,What is 🤔 the longest river in 🏔️ Asia?,Yangtze River,Yangtze River,1
+49_emoji_heavy,emoji,heavy,What 🏔️ is 🌍 the longest river 🏝️ in 🌊 Asia?,Yangtze River,Emoji interference,0
+50_clean,clean,none,Which country contains Angel Falls?,Venezuela,Venezuela,1
+50_typos_light,typos,light,Which country contakms Angel Falls?,Venezuela,Venezuela,1
+50_typos_heavy,typos,heavy,Whicu country contaund Angel Dalls?,Venezuela,Venezuela,1
+50_spacing_light,spacing,light,Which country contains Angel  Falls? ,Venezuela,Venezuela,1
+50_spacing_heavy,spacing,heavy,Which  country   contains Angel Falls,Venezuela,Venezuela,1
+50_unicode_light,unicode,light,Whiсh country contains Angеl Falls?,Venezuela,V***,0
+50_unicode_heavy,unicode,heavy,Which country сontαіns Angel Fαlls?,Venezuela,Colombia,0
+50_emoji_light,emoji,light,Which country 🗺️ contains ❓ Angel Falls?,Venezuela,Venezuela,1
+50_emoji_heavy,emoji,heavy,Which 🗺️ country ⛰️ contains 🗺️ Angel 🤔 Falls?,Venezuela,Venezuela,1
