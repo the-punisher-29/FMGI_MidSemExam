@@ -19,7 +19,7 @@ This repository hosts all materials for the FMGI mid-sem exam on SED Paper and  
 
 ## 🔗 Resources
 
-- 📑 **Report:** [View full report](https://your-report-link-here.com)  
+- 📑 **Report:** [View full report](https://drive.google.com/file/d/1eAwpvP-_7qmtjqpw-TCtNRrUHYGPfC--/view?usp=sharing)  
 - 📦 **Model Weights:** [Download here](https://drive.google.com/drive/folders/1-giXbO570sjJ79nAgqB3IlTUGv9GXvW6?usp=sharing)  
 - 🎥 **Video Walkthrough:** [Watch here](https://your-video-link-here.com)  
 ---
